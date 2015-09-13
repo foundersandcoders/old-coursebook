@@ -8,6 +8,8 @@
    * [Schedule](about/schedule.md)
    * [Facilities](about/facilities.md)
    * [Playbook](about/playbook.md)
+* Workshops
+   * [Week 1](workshops/week1.md)
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
@@ -18,4 +20,7 @@
    * [Week 7](projects/week7.md)
    * [Week 8](projects/week8.md)
    * [Week 9](projects/week9.md)
+* Challenges
+   * [Week 1](challenges/week1.md)
 * Patterns
+
