@@ -2,10 +2,15 @@
 
 We are a social enterprise and a freelance co-operative. 
 
-We believe in the idea of creating environments where people can both learn and work.
+According to documents lodged at *Companies House*, are activities are:
 
-This space is a realisation of that idea. 
+    Providing programmes of study for the general public.
 
-When the company starts making a surplus, we will use that surplus to develop more study programmes and to develop new places of study and work.
+    Providing a place of learning and work for our members.
+
+And,
+
+    If the company makes any surplus it will be used for developing further 
+    programmes of study and for developing further places of study and work.
 
 That's it.
