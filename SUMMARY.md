@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [About the course](about/README.md)
-   * [The Company](about/company.md)
+* [About](about/README.md)
+   * [The course](about/course.md)
+   * [The company](about/company.md)
    * [The mentors](about/mentors.md)
    * [Survival](about/money.md)
    * [Employment](about/you.md)
