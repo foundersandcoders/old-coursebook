@@ -7,7 +7,7 @@
    * [Survival](about/money.md)
    * [Schedule](about/schedule.md)
    * [Meetups](about/meetups.md)   
-* [Facilities](about/facilities.md)
+   * [Facilities](about/facilities.md)
    * [Playbook](about/playbook.md)
 * Workshops
    * [Week 1](workshops/week1.md)
