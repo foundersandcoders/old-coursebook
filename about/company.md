@@ -1,6 +1,6 @@
 # About Founders & Coders
 
-We are a social enterprise and a freelance co-operative. 
+We are a social enterprise and a freelance co-operative.
 
 According to documents lodged at *Companies House*, are activities are:
 
