@@ -13,4 +13,5 @@ And,
     If the company makes any surplus it will be used for developing further 
     programmes of study and for developing further places of study and work.
 
-That's it.
+What this means in practice is that we are aiming to create an environment capable of offering the best possible training in software development at the lowest possible cost.
+
