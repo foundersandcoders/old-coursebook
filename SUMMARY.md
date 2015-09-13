@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [About](about/README.md)
-   * [The course](about/course.md)
    * [The company](about/company.md)
    * [The mentors](about/mentors.md)
    * [Survival](about/money.md)
