@@ -1,15 +1,15 @@
 # Mentors
 
-Nobody gets paid to teach on this course. Most of the mentors are course alumni who are working freelance on a variety of projects. Over the length of the course, some mentors may leave for work elsewhere and some people, who are not here now, may return to the space. We also expect a handful of developers from other companies to join us from time to time.
+Nobody mentors here full-time. Most of the mentors are course alumni who are working freelance on a variety of projects in the space and fitting their mentoring around their work. Over the length of the course, some mentors may leave for work elsewhere and some people, who are not here now, may return to the space. We also expect a handful of developers from other companies to join us from time to time.
 
-Here is a list of people currently in the space:
+Here is a list of people currently working in the space:
 
     * Dan Sofer (director)
     * Ines Teles (director)
     * Nelson Correia (lead technical mentor)
     * Besart Hoxhaj (FAC2)
     * Izaak Rogan (FAC2)
-    * Benji Less (FAC3)
+    * Benji Lees (FAC3)
     * Wil Fisher (FAC3)
     * Alex Rubner (FAC5)
     * Michelle Garrett (FAC5)
@@ -22,4 +22,5 @@ Here is a list of people currently in the space:
     * Claire Mitchell (FAC5)
     * Jack Rans (FAC5)
     * Mina Gyimah (FAC5)
+
 
