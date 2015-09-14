@@ -31,6 +31,7 @@
  + [Google: Principles of Mobile design](https://www.thinkwithgoogle.com/intl/en-gb/)
  + [Github: Natalia's Github basics](https://github.com/NataliaLKB/learn-git-basics)
  + [Github: Writing good commit messages](https://github.com/erlang/otp/wiki/Writing-good-commit-messages)
+ + [Github: resolving merge conflicts](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
  + [JSLint: The ultimate in Linting](http://www.jslint.com/)
  + [JSFiddle: Mess around with code and HTML](https://jsfiddle.net/)
 
