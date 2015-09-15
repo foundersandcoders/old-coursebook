@@ -9,8 +9,13 @@
    * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
    * [Playbook](about/playbook.md)
+* Timetable
+   * Week 1
+      * [Day 2](timetable/week1/day2.md) 
 * Workshops
    * [Week 1](workshops/week1.md)
+* Learning outcomes
+   * [Week 1](patterns/week1/README.md)   
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
@@ -23,5 +28,4 @@
    * [Week 9](projects/week9.md)
 * Challenges
    * [Week 1](challenges/week1.md)
-* Patterns
 
