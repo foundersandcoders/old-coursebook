@@ -29,7 +29,7 @@ Let's have a look at how it works.
 
 This is the process of cleaning your directory through the command line:
 
-> git status  
+> $ git status  
   On branch master  
   Changes to be committed:  
   (use "git reset HEAD <file>..." to unstage)  
@@ -41,7 +41,7 @@ This is the process of cleaning your directory through the command line:
 This **git status** command shows us there are still changes to be committed and changes that are not staged for commit.
 If we use our snazzy **git stash** command: 
 
-> git stash
+> $ git stash
   Saved working directory and index state \  
     "WIP on master: 049d078 added the index file"  
   HEAD is now at 049d078 added the index file  
@@ -49,7 +49,7 @@ If we use our snazzy **git stash** command:
 
 Now, after we use **git status** again we should see something else:
 
-> git status  
+> $ git status  
   On branch master  
   nothing to commit, working directory clean  
 
@@ -63,7 +63,7 @@ When you use **git stash** over and over again, your stashes are stored on top o
 
 So we can check our previous stashes using **git stash list**:
 
->  git stash list  
+> $ git stash list  
   stash@{0}: WIP on master: 049d078 added the index file  
   stash@{1}: WIP on master: c264051 Revert "added file_size"  
   stash@{2}: WIP on master: 21d80a5 added number to log
@@ -72,7 +72,7 @@ They are ordered in indexes, with 0 being your most recent stashing.
 
 You can reapply previous stashes with the command **git stash apply**. You can be slightly more specific by using the indexes with **git stash apply stash@{2}**
 
-> git stash apply  
+> $ git stash apply  
   On branch master  
   Changes not staged for commit:  
     (use "git add <file>..." to update what will be committed)  
@@ -81,7 +81,7 @@ You can reapply previous stashes with the command **git stash apply**. You can b
 
 **git stash branch** is a good method to use if you run into any problems reapplying your stash. If the **apply** tries to modify a file that you’ve since modified, you’ll get a merge conflict and will have to try to resolve it. Use **git stash branch** to create a new branch for you, check out the commit you were on when you stashed your work, reapply your work there, and then drop the stash if it applies successfully:
 
-> git stash branch testchanges  
+> $ git stash branch testchanges  
   Switched to a new branch "testchanges"  
   On branch testchanges  
   Changes to be committed:  
