@@ -45,4 +45,4 @@ You are also welcome to add topics.
 
 ## Javascript principles
 - [ ] Refactoring
-- [x] D-R-Y
+- [ ] D-R-Y
