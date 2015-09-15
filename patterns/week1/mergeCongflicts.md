@@ -27,7 +27,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 e.g. Conflict in GUI
 
-![alt tag](http://s1378.photobucket.com/user/Tormod_Smith/media/GUImergeConflict_zpseognu44a.png.html][IMG]http://i1378.photobucket.com/albums/ah112/Tormod_Smith/GUImergeConflict_zpseognu44a.png)
+<img src="http://s1378.photobucket.com/user/Tormod_Smith/media/GUImergeConflict_zpseognu44a.png.html">
 
 How to fix a conflict
 
