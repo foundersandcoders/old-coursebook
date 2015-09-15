@@ -6,10 +6,6 @@ Find a pair, pick a topic, mark it off the list (by adding an `X` inside the `[ 
 
 Then pick another topic.
 
-https://github.com/FAC6/book/blob/master/patterns/week1/README.md
-
-pick another topic.
-
 You are also welcome to add topics.
 
 ## Comfort with git/github
