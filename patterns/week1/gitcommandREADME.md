@@ -7,15 +7,11 @@ TODO: Write a project description
 Training notes for Git Command Line
 
 ## Contributing
+Gethin and Matt
 
 ## Introduction
 
 Purpose of this readme is to introduce some core concepts of Git on the command line and provide a glossary of commands and their usage.
-
-Structure:
-Concept
-Command
-Explanation
 
 ### *Repository (repo)*
 
@@ -27,12 +23,7 @@ Get in the habit after each command to use `git status`.
 
 ```
 git status
-````
-
-You should only see `master` which is the default branch in this repo.
-
-
-
+```
 
 ####Concept
 
@@ -56,16 +47,17 @@ Cloning the forked repository creates a local copy of a repository.
 ```
 git clone <repository web address>
 ```
-Example: 
+Example:
 ```
-git clone https://github.com/NataliaLKB/learn-git-basics.git ```
+git clone https://github.com/NataliaLKB/learn-git-basics.git
+```
 
 #####Pull
 
 Updates your local repository with any changes made to the repository on github.
 
 ```
-git pull 
+git pull
 ```
 
 ### *Commit*
@@ -119,12 +111,12 @@ git branch
 
 #####Checkout
 
-Switch from one branch to another:	
+Switch from one branch to another:
 git checkout <branchname>
 
 #####Merge (add commit message/ exit vim)
 
-To merge a different branch into your active branch:	
+To merge a different branch into your active branch:
 git merge <branchname>
 
 
