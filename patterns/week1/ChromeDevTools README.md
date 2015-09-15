@@ -20,4 +20,31 @@ debugging with break points;
 
 Chrome DevTools includes powerful breakpoint features that help you find and fix logic errors in your JavaScript code. Use different breakpoint types to control exactly what conditions can trigger a pause in script execution.
 
+Debugging Code Using Chrome Dev Tools
+  - allows realtime changes to be seen rather than making adjustments in text editor ---> saving the changes ---> opening the file.
+  - more for tweaking than writing full code
+
+To Start:
+In the Dev Tools Window go to the "Elements" tab to begin. Here you can see the DOM tree and are able to cascade & de/recascade through the parent and child elements in the html. Scrolling through the html will highlight the relevant part on the webpage.
+
+To Edit:
+To begin editing double-click an element and enter your changes. These will take effect straight away.
+Re: tags, You can edit them but cannot make new ones.
+Once you have made your changes you know need to save them.
+
+
+*If you can't edit code click the magnifying glass in the top left hand corner and then click the element on the webpage you want to inspect/edit.
+
+To Save:
+To save your changes, simply copy and paste from the DevTools window to your file.
+
+EXAMPLE
+
+I was having problems locating an issue with some HTML & CSS code. In the picture below you can see that there is some CSS styling effecting our (div class = "grid") but our other divs weren't being styled. We didn't know where the problem was. After a bit of searching, I saw that in the DevTools under the "Styles" tab the CSS simply wasn't being applied to the html. This showed that our call to effect the div classes "1" "2" & "3" wasn't working but it was for the "grid".
+
+[before pictures]
+
+I changed the div class names from the digits to their word equivalents which worked! It doesn't look great but we can now change all that!
+
+[after pictures]
 
