@@ -10,8 +10,10 @@ You are also welcome to add topics.
 - [ ] Effective use of branches (master vs. other)    
 - [ ] Forking projects    
 - [ ] Making/merging pull requests
+- [ ] Dealing with merge conflicts
 - [ ] Raising/closing issues
 - [ ] Git on the command line
+- [ ] .gitignore files
 
 ## Project Management
 - [ ] Understand importance of initialising a project with a README file
