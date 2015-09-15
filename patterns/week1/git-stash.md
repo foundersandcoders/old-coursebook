@@ -27,19 +27,19 @@ The third option is to use **git stash**!
   On branch master  
   Changes to be committed:  
   (use "git reset HEAD <file>..." to unstage)  
-  modified:   index.html  
+    modified:   index.html  
   Changes not staged for commit:    
   (use "git add <file>..." to update what will be committed)  
-  modified:   lib/simplegit.rb
+    modified:   lib/simplegit.rb
 
 This **git status** command shows us there are still changes to be committed and changes that are not staged for commit.
 If we use our snazzy **git stash** command: 
 
 > git stash
-> Saved working directory and index state \
->   "WIP on master: 049d078 added the index file"
-> HEAD is now at 049d078 added the index file
-> (To restore them type "git stash apply")
+  Saved working directory and index state \  
+    "WIP on master: 049d078 added the index file"  
+  HEAD is now at 049d078 added the index file  
+  (To restore them type "git stash apply")
 
 Now, after we use **git status** again we should see something else:
 
