@@ -33,7 +33,7 @@ You are also welcome to add topics.
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 
 ## CSS
-- [ ] What is the box model?
+- [x] What is the box model?
 - CSS positioning (ignore flexbox for now as it's only natively supported in IE11+):
   - [ ] Fixed, absolute and relative positioning
   - [ ] Floats & how to clear floats
