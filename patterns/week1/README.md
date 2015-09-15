@@ -37,6 +37,7 @@ You are also welcome to add topics.
 - CSS positioning (ignore flexbox for now as it's only natively supported in IE11+):
   - [ ] Fixed, absolute and relative positioning
   - [ ] Floats & how to clear floats
+- [ ] `display` property
 - [ ] @media queries
 - [ ] Responsive font & div sizing 
 - [ ] What are CSS pre-processors? When might you want to use them? When might you not?
