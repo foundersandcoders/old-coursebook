@@ -33,7 +33,7 @@ If you know there are no conflicts you can merge the pull request remotely on gi
 
 To merge on Github:
 1. click on pull requests
-2. click in to your specific pull request.
+2. click in to your specific pull request
 
 To merge locally:
 1. git checkout branch name
