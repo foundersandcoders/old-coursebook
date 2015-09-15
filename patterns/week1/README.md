@@ -9,7 +9,7 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [ ] Effective use of branches (master vs. other)    
+- [x] Effective use of branches (master vs. other)    
 - [ ] Forking projects    
 - [x] Making/merging pull requests
 - [ ] Dealing with merge conflicts
