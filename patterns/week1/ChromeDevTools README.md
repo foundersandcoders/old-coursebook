@@ -42,10 +42,11 @@ EXAMPLE
 
 I was having problems locating an issue with some HTML & CSS code. In the picture below you can see that there is some CSS styling effecting our (div class = "grid") but our other divs weren't being styled. We didn't know where the problem was. After a bit of searching, I saw that in the DevTools under the "Styles" tab the CSS simply wasn't being applied to the html. This showed that our call to effect the div classes "1" "2" & "3" wasn't working but it was for the "grid".
 
+![dev-tool](https://cloud.githubusercontent.com/assets/12072531/9878154/3eec8076-5bb9-11e5-93ee-1e1361751313.png)
 ![css-shot](https://cloud.githubusercontent.com/assets/12072531/9877968/00a2f3b4-5bb8-11e5-8446-2bbc3f7d5377.png)
 
 I changed the div class names from the digits to their word equivalents which worked! It doesn't look great but we can now change all that!
 
 ![color-dev-tool](https://cloud.githubusercontent.com/assets/12072531/9877953/eda69f04-5bb7-11e5-9b27-95a32430f2ac.png)
-![color-css-shot](https://cloud.githubusercontent.com/assets/12072531/9878019/55d0fe08-5bb8-11e5-87de-1f408fa9f860.png)
+![color-css-shot](https://cloud.githubusercontent.com/assets/12072531/9878149/3bf77808-5bb9-11e5-95d0-00035dc0e225.png)
 
