@@ -27,7 +27,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 e.g. Conflict in GUI
 
-<img src="http://s1378.photobucket.com/user/Tormod_Smith/media/GUImergeConflict_zpseognu44a.png.html">
+![guimergeconflict](https://cloud.githubusercontent.com/assets/11330267/9879741/97398c72-5bc0-11e5-90f8-f7bd9c9f6777.png)
 
 How to fix a conflict
 

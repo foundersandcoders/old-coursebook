@@ -1,12 +1,15 @@
 # Git Command Line Documentation
 
-TODO: Write a project description
+## Description
+
+To write a README for Git in the command line.
 
 ## Usage
 
-Training notes for Git Command Line
+Training notes for Git Command Line.
 
 ## Contributing
+
 Gethin and Matt
 
 ## Introduction
