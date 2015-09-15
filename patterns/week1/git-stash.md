@@ -76,8 +76,8 @@ You can reapply previous stashes with the command **git stash apply**. You can b
   On branch master  
   Changes not staged for commit:  
     (use "git add <file>..." to update what will be committed)  
-       _modified:   index.html_  
-       _modified:   lib/simplegit.rb_
+       >_modified:   index.html_  
+       >_modified:   lib/simplegit.rb_
 
 **git stash branch** is a good method to use if you run into any problems reapplying your stash. If the **apply** tries to modify a file that you’ve since modified, you’ll get a merge conflict and will have to try to resolve it. Use **git stash branch** to create a new branch for you, check out the commit you were on when you stashed your work, reapply your work there, and then drop the stash if it applies successfully:
 
@@ -86,10 +86,10 @@ You can reapply previous stashes with the command **git stash apply**. You can b
   On branch testchanges    
   Changes to be committed:   
     (use "git reset HEAD <file>..." to unstage)    
-       _modified:   index.html_  
+       >_modified:   index.html_  
   Changes not staged for commit:    
     (use "git add <file>..." to update what will be committed)    
-       _modified:   lib/simplegit.rb_    
+       >_modified:   lib/simplegit.rb_    
   Dropped refs/stash@{0} (f0dfc4d5dc332d1cee34a634182e168c4efc3359)
 
 **git stash pop** is a bit of a dangerous command to use, but it is used for instantly reapplying your previous stash without reviewing it. It will then remove that stash from the stack. It's not a recommended command. Read more [here](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/). 
