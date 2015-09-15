@@ -102,9 +102,9 @@ Some people use **git stash branch** to help here. It creates a new branch (wher
 
 **NOTE:** Some people *do* prefer committing messy working directories to a totally new branch instead of using **git stash**, but we'll let you decide your preference.   
 
-## How not to use git stash
+## When not to use git stash
 
- * You've got really stuck and you want to go to bed
+ * When you're really stuck and you want to go to bed
  * If you can't be bothered to figure out what you've done wrong 
 
 
