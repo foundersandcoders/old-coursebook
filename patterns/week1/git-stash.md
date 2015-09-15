@@ -4,7 +4,7 @@
 
 A git command used to clean your working directory and enable you to move to the HEAD of your branch. 'HEAD' is an arbitrary word that points to the top of your current working branch.  
 
-*git stash* temporarily stores your uncommitted changes in a 'stash' stack, demonstrated further down the page.  
+**git stash** temporarily stores your uncommitted changes in a 'stash' stack, demonstrated further down the page.  
 
 ## Why? 
 
