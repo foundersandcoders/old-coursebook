@@ -18,15 +18,54 @@ Explanation
 
 ### *Repository (repo)*
 
+####Status
+
+List the files you've changed and those you still need to add or commit:
+
+Get in the habit after each command to use `git status`.
+
+```
+git status
+````
+
+You should only see `master` which is the default branch in this repo.
+
+
+
+
 ####Concept
 
 Simply put, this is your project folder. This repository can be located locally (in your file system on your computer), or remotely (on Github). Either way, it is the same repository.
 
 ####Commands
 
-Clone
-Fork
-Pull
+#####Fork
+
+Forking creates a full copy of the repository in your own github profile.
+
+Use the button in your github profile.
+
+![fork button on github](./img/fork.png)
+
+#####Clone
+
+Cloning the forked repository creates a local copy of a repository.
+
+![where to copy url on github](./img/git-clone.png)
+```
+git clone <repository web address>
+```
+Example: 
+```
+git clone https://github.com/NataliaLKB/learn-git-basics.git ```
+
+#####Pull
+
+Updates your local repository with any changes made to the repository on github.
+
+```
+git pull 
+```
 
 ### *Commit*
 
@@ -50,11 +89,25 @@ As you work on a git repo the first branch you are on is usually the default bra
 
 ####Commands
 
-branch
-checkout
-merge
+#####Branch
 
+When there are other branches in your repo the green branch is the current one you are on.
 
+List all the branches in your repo, and also tell you what branch you're currently in:
+
+```
+git branch
+```
+
+#####Checkout
+
+Switch from one branch to another:	
+git checkout <branchname>
+
+#####Merge (add commit message/ exit vim)
+
+To merge a different branch into your active branch:	
+git merge <branchname>
 
 
 ## Credits
