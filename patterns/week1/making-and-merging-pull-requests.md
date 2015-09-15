@@ -24,13 +24,6 @@ For the person who will review your code:
 8. Review changes. Once you are happy with the changes you are ready to merge the branch into master
 
 
-### links
-https://help.github.com/articles/using-pull-requests/ github tutorial using just github.com
-
-http://git-scm.com/docs/git-request-pull
-
-
-
 ##Merging with Master
 
 
@@ -47,4 +40,7 @@ To merge locally:
 2. git merge origin master
 
 
+### Links
+https://help.github.com/articles/using-pull-requests/ github tutorial using just github.com
 
+http://git-scm.com/docs/git-request-pull
