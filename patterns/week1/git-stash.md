@@ -8,7 +8,7 @@ A git command used to clean your working directory and enable you to move freely
 
 You may find yourself in a situation where you want to change branches quickly. You may:
  * Have just remembered something you want to build at the top of the branch
- * Have been asked to fix an emergency bug
+ * Have been asked to fix a critical bug
  * Want to work on other branches and not commit messy changes 
  
 You could clean your working directory with:
