@@ -11,7 +11,7 @@ You are also welcome to add topics.
 ## Comfort with git/github
 - [ ] Effective use of branches (master vs. other)    
 - [ ] Forking projects    
-- [ ] Making/merging pull requests
+- [x] Making/merging pull requests
 - [ ] Dealing with merge conflicts
 - [ ] Raising/closing issues
 - [ ] Git on the command line
