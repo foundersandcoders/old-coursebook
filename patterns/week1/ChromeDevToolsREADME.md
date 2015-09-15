@@ -25,9 +25,11 @@ Debugging Code Using Chrome Dev Tools
   - more for tweaking than writing full code
 
 To Start:
+
 In the Dev Tools Window go to the "Elements" tab to begin. Here you can see the DOM tree and are able to cascade & de/recascade through the parent and child elements in the html. Scrolling through the html will highlight the relevant part on the webpage.
 
 To Edit:
+
 To begin editing double-click an element and enter your changes. These will take effect straight away.
 Re: tags, You can edit them but cannot make new ones.
 Once you have made your changes you know need to save them.
@@ -36,6 +38,7 @@ Once you have made your changes you know need to save them.
 *If you can't edit code click the magnifying glass in the top left hand corner and then click the element on the webpage you want to inspect/edit.
 
 To Save:
+
 To save your changes, simply copy and paste from the DevTools window to your file.
 
 EXAMPLE
