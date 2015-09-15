@@ -26,10 +26,10 @@ The third option is to use **git stash**!
 > git status  
   On branch master  
   Changes to be committed:  
-  (use "git reset HEAD <file>..." to unstage)
-  modified:   index.html
-  Changes not staged for commit:  
-  (use "git add <file>..." to update what will be committed)
+  (use "git reset HEAD <file>..." to unstage)  
+  modified:   index.html  
+  Changes not staged for commit:    
+  (use "git add <file>..." to update what will be committed)  
   modified:   lib/simplegit.rb
 
 This **git status** command shows us there are still changes to be committed and changes that are not staged for commit.
