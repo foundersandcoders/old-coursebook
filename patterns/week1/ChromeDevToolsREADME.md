@@ -43,7 +43,7 @@ I was having problems locating an issue with some HTML & CSS code.  We didn't kn
 
 In the picture below you can see that there is some CSS styling effecting our (div class = "grid") but our other divs weren't being styled.
 ![dev-tool](https://cloud.githubusercontent.com/assets/12072531/9878154/3eec8076-5bb9-11e5-93ee-1e1361751313.png)
-Here is a screen shot of the CSS 
+
 ![css-shot](https://cloud.githubusercontent.com/assets/12072531/9878166/465897dc-5bb9-11e5-8b11-462cfc1f7579.png)
 
 I changed the div class names from the digits to their word equivalents in both the HTML & CSS files which worked! It doesn't look great but we can now change all that!
