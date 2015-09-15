@@ -15,7 +15,7 @@ You may find yourself in a situation where you want to change branches quickly. 
  
 You could clean your working directory with:
  
-> $ git reset --hard 
+> **$ git reset --hard** 
 
 Which would delete all the code you've been working on (it's *unlikely* you'd want to do that!) 
 
@@ -72,7 +72,7 @@ They are ordered in indexes, with 0 being your most recent stashing.
 
 You can reapply previous stashes with the command **git stash apply**. You can be slightly more specific by using the indexes with **git stash apply stash@{2}**
 
-> $ git stash apply  
+> **$ git stash apply**  
   On branch master  
   Changes not staged for commit:  
     (use "git add <file>..." to update what will be committed)  
