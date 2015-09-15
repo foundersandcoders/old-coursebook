@@ -4,6 +4,8 @@ Open this page [in GitHub](https://github.com/FAC6/book/blob/master/patterns/wee
 
 Find a pair, pick a topic, mark it off the list (by adding an `X` inside the `[ ]` ), create a README and start researching. When you have finished, pick another topic.
 
+You are also welcome to add topics.
+
 ## Comfort with git/github
 - [ ] Effective use of branches (master vs. other)    
 - [ ] Forking projects    
