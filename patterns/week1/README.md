@@ -35,7 +35,7 @@ You are also welcome to add topics.
 ## CSS
 - [ ] What is the box model?
 - CSS positioning (ignore flexbox for now as it's only natively supported in IE11+):
-  - [ ] Fixed, absolute and relative positioning
+  - [x] Fixed, absolute and relative positioning
   - [ ] Floats & how to clear floats
 - [ ] `display` property
 - [ ] @media queries
