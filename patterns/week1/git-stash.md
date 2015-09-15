@@ -19,7 +19,7 @@ You could clean your working directory with:
 
 Which would delete all the code you've been working on (it's *unlikely* you'd want to do that!) 
 
-Or, you could create a new branch and commit there. However your code might be quite messy and disorganised so you don't want to commit yet, as we covered above.
+Or, you could create a new branch and commit there. However your code might be quite messy and disorganised so you don't want to commit yet, as we covered above. If you create a messy branch you may never come back to it, and the process of merging a messy branch could be more complicated. 
 
 The third option is to use **git stash**! 
 
