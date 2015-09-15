@@ -25,7 +25,7 @@ The third option is to use **git stash**!
 
 Let's have a look at how it works.
 
-This is the process of cleaning your directory through the command line.
+This is the process of cleaning your directory through the command line:
 
 > git status  
   On branch master  
@@ -51,7 +51,7 @@ Now, after we use **git status** again we should see something else:
   On branch master  
   nothing to commit, working directory clean  
 
-Ta-da! Now our working directory is clean and we can move around as we please 
+Ta-da! Now our working directory is clean and we can move around as we please.
 
 ### Stash Commands 
 
@@ -66,7 +66,7 @@ So we can check our previous stashes using **git stash list**:
   stash@{1}: WIP on master: c264051 Revert "added file_size"  
   stash@{2}: WIP on master: 21d80a5 added number to log
 
-They are ordered in indexes, with 0 being your most recent stashing
+They are ordered in indexes, with 0 being your most recent stashing.
 
 You can reapply previous stashes with the command **git stash apply**. You can be slightly more specific by using the indexes with **git stash apply stash@{2}**
 
@@ -90,7 +90,7 @@ You can reapply previous stashes with the command **git stash apply**. You can b
        modified:   lib/simplegit.rb  
   Dropped refs/stash@{0} (f0dfc4d5dc332d1cee34a634182e168c4efc3359)
 
-**git stash pop** is a bit of a dangerous command to use, but it is used for instantly reapplying your previous stash without reviewing it. It will then remove that stash from the stack. It's not recommended command. Read more [here](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/). 
+**git stash pop** is a bit of a dangerous command to use, but it is used for instantly reapplying your previous stash without reviewing it. It will then remove that stash from the stack. It's not a recommended command. Read more [here](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/). 
 
 **git stash drop** can be made more specific e.g. **git stash drop stash@{1}** and is used to delete a stash from the stack. 
 
