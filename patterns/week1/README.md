@@ -20,13 +20,13 @@ You are also welcome to add topics.
 
 ## Project Management
 - [ ] Understand importance of initialising a project with a README file
-- [ ] Wireframing (what is it, why is it important and how to do it effectively?)
+- [x] Wireframing (what is it, why is it important and how to do it effectively?)
 - [ ] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
 - [ ] Pathing from HTML documents to CSS/JS in locations other than root
 
 ## Development basics
 - [ ] Wireframing
-- [ ] Comfortable writing in markdown
+- [x] Comfortable writing in markdown
 - [ ] Know the structure of an HTML document
 - [ ] Familiarity with developer tools (chrome/firefox)
 - [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
