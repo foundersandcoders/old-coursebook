@@ -9,8 +9,8 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [x] Effective use of branches (master vs. other)    
-- [ ] Forking projects    
+- [x] Effective use of branches (master vs. other)
+- [ ] Forking projects
 - [x] Making/merging pull requests
 - [x] Dealing with merge conflicts
 - [ ] Raising/closing issues
@@ -39,7 +39,7 @@ You are also welcome to add topics.
   - [ ] Floats & how to clear floats
 - [ ] `display` property
 - [ ] @media queries
-- [ ] Responsive font & div sizing 
+- [x] Responsive font & div sizing
 - [ ] What are CSS pre-processors? When might you want to use them? When might you not?
 - [ ] What are front-end frameworks? When might you want to use them? When might you not?
 
