@@ -4,7 +4,7 @@
 A fork is copy of a repository. We fork repositories, as it allows us to change and edit the code, without out changing the original project.
 
 ##Reasons why you may want to fork include:
-### To propose changes to a project (bug fixes)
+### To propose changes to a project (or bug fixes)
 Fork a repo and make your changes to fix a buy or improve performance. If they original repo owner likes your work they may merge your work back in to the original repo.
 
 ### To use someone else’s idea’s as the basis for your project
