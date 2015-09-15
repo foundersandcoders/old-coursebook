@@ -17,8 +17,8 @@ For example, view the styles applied to a heading element in the DOM:
 To undo changes use Ctrl+Z (or Cmd+Z on Mac) to quickly undo minor changes to the DOM or styles via the Elements panel.	
 
 ## Debugging Code Using Chrome Dev Tools
-  - allows realtime changes to be seen rather than making adjustments in text editor ---> saving the changes ---> opening the file.
-  - more for tweaking than writing full code
+  - Allows realtime changes to be seen rather than making adjustments in text editor ---> saving the changes ---> opening the file.
+  - More for tweaking than writing full code
 
 ## To Start:
 
@@ -37,7 +37,7 @@ Once you have made your changes you know need to save them.
 
 To save your changes, simply copy and paste from the DevTools window to your file.
 
-## EXAMPLE
+## Example
 
 I was having problems locating an issue with some HTML & CSS code. In the picture below you can see that there is some CSS styling effecting our (div class = "grid") but our other divs weren't being styled. We didn't know where the problem was. After a bit of searching, I saw that in the DevTools under the "Styles" tab the CSS simply wasn't being applied to the html. This showed that our call to effect the div classes "1" "2" & "3" wasn't working but it was for the "grid".
 
