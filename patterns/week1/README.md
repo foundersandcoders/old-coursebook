@@ -28,7 +28,7 @@ You are also welcome to add topics.
 - [ ] Wireframing
 - [ ] Comfortable writing in markdown
 - [ ] Know the structure of an HTML document
-- [ ] Familiarity with developer tools (chrome/firefox)
+- [X] Familiarity with developer tools (chrome/firefox)
 - [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 
