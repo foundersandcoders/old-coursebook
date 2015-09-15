@@ -1,5 +1,7 @@
 # Week 1: Learning outcomes
 
+Open this page [in GitHub](https://github.com/FAC6/book/tree/master/patterns/week1).
+
 Find a pair, pick a topic, mark it off the list (by adding an `X` inside the `[ ]` ), create a README and start researching. When you have finished, pick another topic.
 
 ## Comfort with git/github
