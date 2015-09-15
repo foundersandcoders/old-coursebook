@@ -41,7 +41,7 @@ This is the process of cleaning your directory through the command line:
 This **git status** command shows us there are still changes to be committed and changes that are not staged for commit.
 If we use our snazzy **git stash** command: 
 
-> **$ git stash**
+> **$ git stash**  
   Saved working directory and index state \  
     "WIP on master: 049d078 added the index file"  
   HEAD is now at 049d078 added the index file  
@@ -82,15 +82,15 @@ You can reapply previous stashes with the command **git stash apply**. You can b
 **git stash branch** is a good method to use if you run into any problems reapplying your stash. If the **apply** tries to modify a file that you’ve since modified, you’ll get a merge conflict and will have to try to resolve it. Use **git stash branch** to create a new branch for you, check out the commit you were on when you stashed your work, reapply your work there, and then drop the stash if it applies successfully:
 
 > **$ git stash branch testchanges**  
-  Switched to a new branch "testchanges"  
-  On branch testchanges  
-  Changes to be committed:  
+  _Switched to a new branch "testchanges"_  
+  _On branch testchanges_  
+  _Changes to be committed:_  
     (use "git reset HEAD <file>..." to unstage)  
        modified:   index.html  
-  Changes not staged for commit:  
+  _Changes not staged for commit:_  
     (use "git add <file>..." to update what will be committed)  
        modified:   lib/simplegit.rb  
-  Dropped refs/stash@{0} (f0dfc4d5dc332d1cee34a634182e168c4efc3359)
+  _Dropped refs/stash@{0} (f0dfc4d5dc332d1cee34a634182e168c4efc3359)_
 
 **git stash pop** is a bit of a dangerous command to use, but it is used for instantly reapplying your previous stash without reviewing it. It will then remove that stash from the stack. It's not a recommended command. Read more [here](https://codingkilledthecat.wordpress.com/2012/04/27/git-stash-pop-considered-harmful/). 
 
