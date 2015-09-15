@@ -1,7 +1,7 @@
 
 #Forking a project
 
-A fork is copy of a repository. We fork repositories, as it allows us to change and edit the code, without out changing the original project.
+A fork is copy of a repository. We fork repositories as it allows us to change and edit the code, without out changing the original project.
 
 ##Reasons why you may want to fork include:
 ### To propose changes to a project (or bug fixes)
