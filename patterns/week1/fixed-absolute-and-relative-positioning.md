@@ -1,7 +1,7 @@
 #Fixed Absolute and Relative Positioning
 
 ###Static Position
-this is the default positioning. 
+This is the default positioning. 
 
 
 
