@@ -1,12 +1,13 @@
 # Git Command Line Documentation
 
-TODO: Write a project description
+To write a README for Git in the command line.
 
 ## Usage
 
-Training notes for Git Command Line
+Training notes for Git Command Line.
 
 ## Contributing
+
 Gethin and Matt
 
 ## Introduction
@@ -34,7 +35,7 @@ Forking creates a full copy of the repository in your own github profile.
 
 Use the button in your github profile.
 
-![fork button on github](./img/fork.png)
+![fork button on github](./fork.png)
 
 #####Clone
 
