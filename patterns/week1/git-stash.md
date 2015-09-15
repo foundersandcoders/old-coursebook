@@ -33,10 +33,10 @@ This is the process of cleaning your directory through the command line:
   On branch master  
   Changes to be committed:  
   (use "git reset HEAD <file>..." to unstage)  
-    _modified:   index.html_  
+    >_modified:   index.html_  
   Changes not staged for commit:    
   (use "git add <file>..." to update what will be committed)  
-    _modified:   lib/simplegit.rb_
+    >_modified:   lib/simplegit.rb_
 
 This **git status** command shows us there are still changes to be committed and changes that are not staged for commit.
 If we use our snazzy **git stash** command: 
