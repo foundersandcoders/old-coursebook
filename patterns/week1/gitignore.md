@@ -15,6 +15,7 @@ A git ignore file allows you to hide files on your local machine from git. This 
 e.g. *.css
 * This will ignore all CSS file types (not a good idea!)
 
+#####Atom Graying out CSS as .gitignore file requests this
 ![Git Ignore PNG ](git_ignore.png?raw=true "Atom Graying out CSS as .gitignore file requests this")
 
 
