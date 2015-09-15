@@ -16,10 +16,11 @@ You are also welcome to add topics.
 - [ ] Raising/closing issues
 - [ ] Git on the command line
 - [ ] .gitignore files
+- [ ] git stash
 
 ## Project Management
 - [ ] Understand importance of initialising a project with a README file
-- [ ] Wireframing
+- [ ] Wireframing (what is it, why is it important and how to do it effectively?)
 - [ ] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
 - [ ] Pathing from HTML documents to CSS/JS in locations other than root
 
@@ -32,9 +33,14 @@ You are also welcome to add topics.
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 
 ## CSS
-- [ ] Positioning
-- [ ] Responsive CSS (@media queries and responsive sizing)
-- [ ] What are pre-processors and what are front-end frameworks? When might you want to use them? When might you not?
+- [ ] What is the box model?
+- CSS positioning (ignore flexbox for now as it's only natively supported in IE11+):
+  - [ ] Fixed, absolute and relative positioning
+  - [ ] Floats & how to clear floats
+- [ ] @media queries
+- [ ] Responsive font & div sizing 
+- [ ] What are CSS pre-processors? When might you want to use them? When might you not?
+- [ ] What are front-end frameworks? When might you want to use them? When might you not?
 
 ## Javascript principles
 - [ ] Refactoring
