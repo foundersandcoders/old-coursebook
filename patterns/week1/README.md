@@ -28,14 +28,14 @@ You are also welcome to add topics.
 - [ ] Wireframing
 - [x] Comfortable writing in markdown
 - [ ] Know the structure of an HTML document
-- [x] Familiarity with developer tools (chrome/firefox)
-- [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
+- [x] Familiarity with developer tools (chrome/firefox) 
+- [x] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 
 ## CSS
 - [x] What is the box model?
 - CSS positioning (ignore flexbox for now as it's only natively supported in IE11+):
-  - [ ] Fixed, absolute and relative positioning
+  - [x] Fixed, absolute and relative positioning
   - [ ] Floats & how to clear floats
 - [ ] `display` property
 - [ ] @media queries
