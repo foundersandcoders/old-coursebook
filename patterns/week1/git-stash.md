@@ -47,8 +47,8 @@ If we use our snazzy **git stash** command:
 Now, after we use **git status** again we should see something else:
 
 > git status
-> On branch master
-> nothing to commit, working directory clean
+ On branch master
+  nothing to commit, working directory clean
 
 Ta-da! Now our working directory is clean and we can move around as we please 
 
