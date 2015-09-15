@@ -9,6 +9,8 @@ Essentially means "relative to itself". If you specify position:relative then yo
 
 E.g. If you specify position:relative and give the element some other positioning attribute, such as, top: 10px; it will shift it's position 10 pixels down from where it would normally be.
 
+![an example of relative positioning] (http://blog.teamtreehouse.com/wp-content/uploads/2012/11/position-relative.jpg)
+
 
 ###Absolute positioning 
 Absolute positioning is a bit confusing. Basically the browser will look back up the elements DOM tree for the most recent parent that is positioned anything other than static (ie relative, fixed or absolute).  If an absolutely-positioned element has no positioned ancestors, it uses the document body, and still moves along with page scrolling. **Absolute positioning, positions elements relative to its nearest non static parent**.
