@@ -14,7 +14,7 @@ You are also welcome to add topics.
 - [x] Making/merging pull requests
 - [ ] Dealing with merge conflicts
 - [ ] Raising/closing issues
-- [ ] Git on the command line
+- [x] Git on the command line
 - [ ] .gitignore files
 - [x] git stash
 
@@ -28,7 +28,7 @@ You are also welcome to add topics.
 - [ ] Wireframing
 - [ ] Comfortable writing in markdown
 - [ ] Know the structure of an HTML document
-- [X] Familiarity with developer tools (chrome/firefox)
+- [ ] Familiarity with developer tools (chrome/firefox)
 - [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 
