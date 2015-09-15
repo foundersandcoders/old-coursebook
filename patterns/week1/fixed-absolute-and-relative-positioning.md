@@ -11,4 +11,7 @@ Absolute positioning is a bit confusing. Basically the browser will look back up
 Because absolute positioning is based on the positioning of parent elements, this can make it difficult to workout. You will have to investigate the positioning of an elements parent.
 
 
+### USeful links
+http://learnlayout.com/position.html
+
 
