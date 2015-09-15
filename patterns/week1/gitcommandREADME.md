@@ -15,6 +15,9 @@ Purpose of this readme is to introduce some core concepts of Git on the command 
 
 ### *Repository (repo)*
 
+Simply put, this is your project folder. This repository can be located locally (in your file system on your computer), or remotely (on Github). Either way, it is the same repository.
+
+
 ####Status
 
 List the files you've changed and those you still need to add or commit:
@@ -24,12 +27,6 @@ Get in the habit after each command to use `git status`.
 ```
 git status
 ```
-
-####Concept
-
-Simply put, this is your project folder. This repository can be located locally (in your file system on your computer), or remotely (on Github). Either way, it is the same repository.
-
-####Commands
 
 #####Fork
 
@@ -62,13 +59,11 @@ git pull
 
 ### *Commit*
 
-####Concept
 
 A way of saving your code at different points along the project. Unlike many tools you may have used however, all commits are saved. This creates a project history and a way to track changes.
 
-####Commands
-
 ####Add
+
 The 'add' command adds a file to the staging area (the staging area is the collection the files which are ready to commit).
 It is the step to take before committing the changes to the local *Repository*.
 ```
@@ -80,7 +75,8 @@ git add .
 ```
 
 ####Commit
-The 'commit' commands takes all the files that you've added to the staging area, and commits them to the local Repository. They are not yet in your remote repository (at github.com).
+
+The 'commit' commands takes all the files that you've added to the staging area, and commits them to the local repository. They are not yet in your remote repository (at github.com).
 ```
 git commit -m "Your commit message"
 ```
@@ -89,13 +85,11 @@ The commit message makes it possible to track what has changed in each commit.
 ####Push
 To send your changes to your remote repository, you must use the 'push' command.
 ```
-git push origin master
+git push origin branchname
 ```
-Here you are pushing your changes from master (local repository) to origin (remote repository)
+Here you are pushing your changes from your local branch to your remote branch.
 
 ### *Branches*
-
-####Concept
 
 As you work on a git repo the first branch you are on is usually the default branch. This is often called `master`. If you start working on a section of the website (say the footer styling), it is best practise to create your own branch for that feature. Creating your own branch is like taking a copy of `master` and renaming it. When you commit, they will now be on that new branch only.
 
@@ -112,19 +106,13 @@ git branch
 #####Checkout
 
 Switch from one branch to another:
+'''
 git checkout <branchname>
+'''
 
 #####Merge (add commit message/ exit vim)
 
 To merge a different branch into your active branch:
+'''
 git merge <branchname>
-
-
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
+'''
