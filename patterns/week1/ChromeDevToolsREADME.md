@@ -14,8 +14,6 @@ Keyboard shortcut: Ctrl+Shift+I (or Cmd+Opt+I on Mac).
 The Elements panel lets you see everything in one DOM tree, and allows inspection and on-the-fly editing of DOM elements. Use the Elements panel to identify the HTML snippet for some aspect of the page.
 For example, view the styles applied to a heading element in the DOM:
 
-insert pic??
-
 To undo changes use Ctrl+Z (or Cmd+Z on Mac) to quickly undo minor changes to the DOM or styles via the Elements panel.	
 
 ## Debugging Code Using Chrome Dev Tools
