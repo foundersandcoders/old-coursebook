@@ -12,7 +12,7 @@ You are also welcome to add topics.
 - [x] Effective use of branches (master vs. other)    
 - [ ] Forking projects    
 - [x] Making/merging pull requests
-- [ ] Dealing with merge conflicts
+- [x] Dealing with merge conflicts
 - [ ] Raising/closing issues
 - [x] Git on the command line
 - [x] .gitignore files
