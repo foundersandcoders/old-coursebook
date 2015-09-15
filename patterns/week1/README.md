@@ -16,7 +16,7 @@ You are also welcome to add topics.
 - [ ] Raising/closing issues
 - [ ] Git on the command line
 - [ ] .gitignore files
-- [ ] git stash
+- [x] git stash
 
 ## Project Management
 - [ ] Understand importance of initialising a project with a README file
