@@ -1,5 +1,7 @@
 # Git Command Line Documentation
 
+## Description
+
 To write a README for Git in the command line.
 
 ## Usage
@@ -35,7 +37,7 @@ Forking creates a full copy of the repository in your own github profile.
 
 Use the button in your github profile.
 
-![fork button on github](./fork.png)
+![fork button on github](./img/fork.png)
 
 #####Clone
 
