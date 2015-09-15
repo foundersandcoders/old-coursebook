@@ -15,7 +15,7 @@ You are also welcome to add topics.
 - [ ] Dealing with merge conflicts
 - [ ] Raising/closing issues
 - [x] Git on the command line
-- [ ] .gitignore files
+- [x] .gitignore files
 - [x] git stash
 
 ## Project Management
