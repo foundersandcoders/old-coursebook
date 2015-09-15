@@ -10,7 +10,7 @@ You are also welcome to add topics.
 
 ## Comfort with git/github
 - [x] Effective use of branches (master vs. other)
-- [ ] Forking projects
+- [x] Forking projects
 - [x] Making/merging pull requests
 - [x] Dealing with merge conflicts
 - [ ] Raising/closing issues
