@@ -23,6 +23,10 @@ The third option is to use **git stash**!
 
 ## How? 
 
+Let's have a look at how it works.
+
+This is the process of cleaning your directory through the command line.
+
 > git status  
   On branch master  
   Changes to be committed:  
