@@ -11,6 +11,7 @@
    * [Playbook](about/playbook.md)
 * Timetable
    * Week 1
+      * [Day 1](timetable/week1/day1.md) 
       * [Day 2](timetable/week1/day2.md) 
 * Workshops
    * [Week 1](workshops/week1.md)
