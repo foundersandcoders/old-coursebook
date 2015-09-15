@@ -33,17 +33,17 @@ This is the process of cleaning your directory through the command line:
   On branch master  
   Changes to be committed:  
   (use "git reset HEAD <file>..." to unstage)  
-    modified:   index.html  
+    _modified:   index.html_  
   Changes not staged for commit:    
   (use "git add <file>..." to update what will be committed)  
-    modified:   lib/simplegit.rb
+    _modified:   lib/simplegit.rb_
 
 This **git status** command shows us there are still changes to be committed and changes that are not staged for commit.
 If we use our snazzy **git stash** command: 
 
 > **$ git stash**  
   Saved working directory and index state \  
-    "WIP on master: 049d078 added the index file"  
+    _"WIP on master: 049d078 added the index file"_  
   HEAD is now at 049d078 added the index file  
   (To restore them type "git stash apply")
 
@@ -76,8 +76,8 @@ You can reapply previous stashes with the command **git stash apply**. You can b
   On branch master  
   Changes not staged for commit:  
     (use "git add <file>..." to update what will be committed)  
-       modified:   index.html  
-       modified:   lib/simplegit.rb
+       _modified:   index.html_  
+       _modified:   lib/simplegit.rb_
 
 **git stash branch** is a good method to use if you run into any problems reapplying your stash. If the **apply** tries to modify a file that you’ve since modified, you’ll get a merge conflict and will have to try to resolve it. Use **git stash branch** to create a new branch for you, check out the commit you were on when you stashed your work, reapply your work there, and then drop the stash if it applies successfully:
 
