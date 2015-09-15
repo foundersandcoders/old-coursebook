@@ -39,13 +39,14 @@ To save your changes, simply copy and paste from the DevTools window to your fil
 
 ### Example
 
-I was having problems locating an issue with some HTML & CSS code. In the picture below you can see that there is some CSS styling effecting our (div class = "grid") but our other divs weren't being styled. We didn't know where the problem was. After a bit of searching, I saw that in the DevTools under the "Styles" tab the CSS simply wasn't being applied to the html. This showed that our call to effect the div classes "1" "2" & "3" wasn't working but it was for the "grid".
+I was having problems locating an issue with some HTML & CSS code.  We didn't know where the problem was. After a bit of searching, I saw that in the DevTools under the "Styles" tab the CSS simply wasn't being applied to the html. This showed that our call to effect the div classes "1" "2" & "3" wasn't working but it was for the "grid".
 
+In the picture below you can see that there is some CSS styling effecting our (div class = "grid") but our other divs weren't being styled.
 ![dev-tool](https://cloud.githubusercontent.com/assets/12072531/9878154/3eec8076-5bb9-11e5-93ee-1e1361751313.png)
+Here is a screen shot of the CSS 
 ![css-shot](https://cloud.githubusercontent.com/assets/12072531/9878166/465897dc-5bb9-11e5-8b11-462cfc1f7579.png)
 
 I changed the div class names from the digits to their word equivalents in both the HTML & CSS files which worked! It doesn't look great but we can now change all that!
-
 ![color-dev-tool](https://cloud.githubusercontent.com/assets/12072531/9877953/eda69f04-5bb7-11e5-9b27-95a32430f2ac.png)
 ![color-css-shot](https://cloud.githubusercontent.com/assets/12072531/9878149/3bf77808-5bb9-11e5-95d0-00035dc0e225.png)
 
