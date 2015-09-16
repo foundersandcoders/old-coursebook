@@ -103,9 +103,22 @@ Big-Burger/
 	```
 	- fac_proj_1
 	  	- general			// include all the general purpose files and libraries in here.
-	  	- resources			// include all the files that will be editted in this folder.
+			- some_css_library
+			- some_jquery_library		  	
+		- resources			// include all the files that will be editted in this folder.
+			- html
+				- index.html
+			- css
+				- blue_theme
+					- blue_background.png
+				- blue_theme.css				
+				- index.css
+			- js
+				- index.js		
 		- index.html			
 	```
+
+(adapted from http://stackoverflow.com/questions/24199004/best-practice-to-organize-javascript-library-css-folder-structure see this link for more info on this style of structuring!)
 
 ***Why is it better to have HTML, CSS & JS in separate files?***
 
@@ -119,3 +132,4 @@ If you're working on a project with a number of people, each working on differen
 
 4) Good practise and a clean structure - HTML should only be used to structure content, CSS should be used to style the webpage and Javascript should be used for the functionality of the website. If your/your team's code ever gets passed on to another team, it will be easier for them to understand and follow on with a coherent and separate filing structure.
 
+***It's good to know that there are conventions, but there are different styles, and no wrong one (unless it's really messy)!***
