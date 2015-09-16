@@ -100,7 +100,7 @@ Some people use **git stash branch** to help here. It creates a new branch (wher
 
 **git stash clear** will clear the whole stack! 
 
-**NOTE:** Some people *do* prefer committing messy working directories to a totally new branch instead of using **git stash**, but we'll let you decide your preference.   
+**NOTE:** Some people *do* prefer committing messy working directories to a completely new branch instead of using **git stash**, but we'll let you decide your preference.   
 
 ## When not to use git stash
 
