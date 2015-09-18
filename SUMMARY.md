@@ -33,5 +33,6 @@
 * Challenges
    * [Week 1](challenges/week1.md)
 * Weekend assignments
-   * [Week 1](timetable/week1/homework.md)   
+   * [Week 1](assignments/week1.md)  
+* [Course leaders](leaders/README.md)  
 
