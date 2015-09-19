@@ -9,8 +9,8 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [x] Effective use of branches (master vs. other)    
-- [ ] Forking projects    
+- [x] Effective use of branches (master vs. other)
+- [x] Forking projects
 - [x] Making/merging pull requests
 - [x] Dealing with merge conflicts
 - [ ] Raising/closing issues
@@ -18,31 +18,29 @@ You are also welcome to add topics.
 - [x] .gitignore files
 - [x] git stash
 
-## Project Management
-- [ ] Understand importance of initialising a project with a README file
-- [x] Wireframing (what is it, why is it important and how to do it effectively?)
-- [ ] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
-- [ ] Pathing from HTML documents to CSS/JS in locations other than root
-
-## Development basics
-- [ ] Wireframing
-- [x] Comfortable writing in markdown
-- [ ] Know the structure of an HTML document
-- [ ] Familiarity with developer tools (chrome/firefox)
-- [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
-- [ ] Basics of mobile-first design/progressive enhancement, including why this is important
-
 ## CSS
-- [ ] What is the box model?
+- [x] What is the box model?
 - CSS positioning (ignore flexbox for now as it's only natively supported in IE11+):
-  - [ ] Fixed, absolute and relative positioning
+  - [x] Fixed, absolute and relative positioning
   - [ ] Floats & how to clear floats
 - [ ] `display` property
 - [ ] @media queries
-- [ ] Responsive font & div sizing 
+- [x] Responsive font & div sizing
 - [ ] What are CSS pre-processors? When might you want to use them? When might you not?
 - [ ] What are front-end frameworks? When might you want to use them? When might you not?
 
-## Javascript principles
-- [ ] Refactoring
+## Project Management
+- [ ] Understand importance of initialising a project with a README file
+- [x] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
+
+## Development basics
+- [x] Wireframing (what is it, why is it important and how to do it effectively?)
+- [x] Comfortable writing in markdown
+- [ ] Know the structure of an HTML document
+- [x] Familiarity with developer tools (chrome/firefox) 
+- [x] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
+- [ ] Basics of mobile-first design/progressive enhancement, including why this is important
+- [ ] What is refactoring and when might you want to do it?
 - [ ] D-R-Y
+
+
