@@ -28,7 +28,7 @@
 * Challenges
    * [Week 1](challenges/week1.md)
 * Stop, Go, Continue
-   * [Week 1](sgt/week1.md)  
+   * [Week 1](sgc/week1.md)  
 * Weekend assignments
    * [Week 1](assignments/week1.md)  
 * [Course leaders](leaders/README.md)  
