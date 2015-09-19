@@ -9,6 +9,8 @@
    * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
    * [Playbook](about/playbook.md)
+* [Giving back](giving/README.md)
+* [Business development](business/README.md)
 * Timetable
    * Week 1
       * [Day 1](timetable/week1/day1.md) 
@@ -25,6 +27,8 @@
    * [Week 2](projects/week2.md)
 * Challenges
    * [Week 1](challenges/week1.md)
+* Stop, Go, Continue
+   * [Week 1](sgc/week1.md)  
 * Weekend assignments
    * [Week 1](assignments/week1.md)  
 * [Course leaders](leaders/README.md)  
