@@ -77,6 +77,6 @@ If you have unmerged changes you'll have to enter the command again to confirm y
 You can delete it on the server (remotely) so it's not in the way of other users
 by typing
 
-<pre><code> git push origin --delete branchname </code><pre>
+<pre><code> git push origin --delete branchname </code></pre>
 
 You can also delete the branches directly from git hub once you've merged the contents with the previous branch.
