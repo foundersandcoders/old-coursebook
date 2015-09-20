@@ -26,7 +26,7 @@ You are also welcome to add topics.
 - [ ] `display` property
 - [x] @media queries
 - [x] Responsive font & div sizing
-- [ ] What are CSS pre-processors? When might you want to use them? When might you not?
+- [x] What are CSS pre-processors? When might you want to use them? When might you not?
 - [ ] What are front-end frameworks? When might you want to use them? When might you not?
 
 ## Project Management
@@ -37,10 +37,8 @@ You are also welcome to add topics.
 - [x] Wireframing (what is it, why is it important and how to do it effectively?)
 - [x] Comfortable writing in markdown
 - [ ] Know the structure of an HTML document
-- [x] Familiarity with developer tools (chrome/firefox) 
+- [x] Familiarity with developer tools (chrome/firefox)
 - [x] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 - [ ] What is refactoring and when might you want to do it?
 - [ ] D-R-Y
-
-
