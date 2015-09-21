@@ -18,18 +18,24 @@
       * [Day 3](timetable/week1/day3.md) 
       * [Day 4](timetable/week1/day4.md) 
       * [Day 5](timetable/week1/day5.md) 
+   * [Week 2](timetable/week2.md) 
 * Workshops
    * [Week 1](workshops/week1.md)
+   * [Week 2](workshops/week2.md)
 * Learning outcomes
    * [Week 1](patterns/week1/README.md)   
+   * [Week 2](patterns/week2/README.md)   
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
 * Challenges
    * [Week 1](challenges/week1.md)
+   * [Week 2](challenges/week2.md)
 * Stop, Go, Continue
    * [Week 1](sgc/week1.md)  
+   * [Week 2](sgc/week2.md)  
 * Weekend assignments
    * [Week 1](assignments/week1.md)  
+   * [Week 2](assignments/week2.md)  
 * [Course leaders](leaders/README.md)  
 
