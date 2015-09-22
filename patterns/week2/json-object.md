@@ -1,4 +1,4 @@
-# JSON and API's
+# JSON and APIs
 
 ## What?
 
