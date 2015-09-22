@@ -24,7 +24,7 @@ As per our Stop, Go, Continue in week 1, we'll be presenting 8 topics at 13h30 a
   - [ ] What are HTTP methods and what does each one do?
   - [ ] How do you use `xhr` to query APIs?
 - [ ] What is an HTTP status code and what are the most common ones?
-- [ ] What is an API key?
+- [x] What is an API key? Tormod Rachel
 - [x] How would you conceal an API key? Justen Kata
 - [x] What is a JSON object? Why is this useful knowledge with regards to APIs and what does one look like? Kat Hugh
 
