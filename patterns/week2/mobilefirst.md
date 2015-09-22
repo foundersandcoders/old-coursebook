@@ -90,3 +90,7 @@ This can be non-ideal; since the original design of the site was not aimed at ol
 #### How would you implement it?
 
 A basic example of building a site using progressive enhancement would be first building the HTML in the best, most expressive way possible, then styling it with cross-compatable CSS features. Once the site is looking great with this minimal design one could further style it with more modern CSS and basic JS. Near the end of the project you would be adding the most advanced JS features. This way your project has a solid cross-compatable foundation and extends itself to use more modern features on better browsers.
+
+### links
+[Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
+[Mobile First Design: Why It’s Great and Why It Sucks](https://codemyviews.com/blog/mobilefirst)
