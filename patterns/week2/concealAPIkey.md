@@ -44,6 +44,6 @@ When writing your code you can now call TWITTER_KEY instead of referencing your 
 ```Javascript
 ENV['TWITTER_KEY']
 ```
-
+[Best practices for securely using API keys](https://developers.google.com/console/help/new/#apikeybestpractices)
 
 [Reference](http://nycda.com/blog/using-environment-variables-to-safely-store-api-credentials/)
