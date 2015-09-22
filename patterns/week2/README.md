@@ -31,6 +31,6 @@ As per our Stop, Go, Continue in week 1, we'll be presenting 8 topics at 13h30 a
 
 ## Development basics
 - [x] Basics of mobile-first design/progressive enhancement, including why this is important Eoin Matt
-- [ ] What is accessibility as pertains to web development and why is it important?
+- [x] What is accessibility as pertains to web development and why is it important?
 - [x] What is refactoring and when might you want to do it? 'Hu' 
 - [ ] What is a linter and why is it useful?
