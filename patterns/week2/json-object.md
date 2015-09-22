@@ -2,7 +2,7 @@
 
 ## What?
 
-JSON stands for JavaScript Object Notation. It looks like this:
+JSON stands for JavaScript Object Notation. A JSON Object looks like this:
 
 ```javascript
     {"company":"Founders & Coders", "foundername":"Dan Sofer"}
