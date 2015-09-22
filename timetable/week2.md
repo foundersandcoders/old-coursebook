@@ -17,7 +17,8 @@
 ## Wednesday
 10:00 Morning challenge    
 11:00 Project    
-18:00 Write your biggest learning from today on the wall
+18:00 Write your biggest learning from today on the wall    
+_Note: There was a question raised in [SGC](../sgc/README.md) around whether we should have a **mid-point code review**. How do we feel about this today?_
 
 ## Thursday
 10:00 Project    
