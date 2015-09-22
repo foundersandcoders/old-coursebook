@@ -7,24 +7,24 @@
 18:30 Coding for everyone    
 
 ## Tuesday
-10:00 Paired research
-12:00 Research presentations
-13:30 Coding challenge 
-14:30 Paired research
-16:30 Research presentations
+10:00 Paired research  
+12:00 Research presentations  
+13:30 Coding challenge   
+14:30 Paired research    
+16:30 Research presentations     
 17:30 [@katpas](https://github.com/katpas) talk on F&C business development
 
 ## Wednesday
-10:00 Morning challenge
-11:00 Project
+10:00 Morning challenge    
+11:00 Project    
 18:00 Write your biggest learning from today on the wall
 
 ## Thursday
-10:00 Project
+10:00 Project    
 18:00 Write your biggest learning from today on the wall
 
 ## Friday
-10:30 Code reviews    
+10:30 Code reviews        
 11:30 Respond to issues    
 13:00 Stop, Go, Continue    
 13:30 Stop, Go, Continue review    
