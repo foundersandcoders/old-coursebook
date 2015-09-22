@@ -1,0 +1,47 @@
+## XML and JSON
+
+#### XML
+
+1. Text-based
+2. Position-independent
+
+These reasons encouraged people to use XML as it had a higher level of
+application-independence than other data-interchange formats. XML
+was already a W3C standard so it was difficult for JSON to win fans.
+
+However, XML is not well suited to data-interchange, and it has a lot of bad features.
+JSON has all the advantages of XML but is much more suited to data
+interchange.
+
+#### XML vs JSON
+
+##### Simplicity
+
+JSON is **much** simpler. It has a small grammar and maps more directly
+onto the data structures used in modern programming languages
+
+##### Readibility
+
+JSON is easier to read than XML, as well as being easier to write. The
+same is true for machines as well.
+
+##### Data structures
+
+XML requires converting data structure into a document structure, which
+can be complicated. JSON objects are based on arrays and records, which is
+what data is made of! Unfortunately, XML structures are based on elements
+(nestable), attributes (not nestable), raw text, entities, DTDs and other meta
+structures. Not as data-happy as JSON.
+
+###### Orientation
+
+XML is document-orientated, where JSON is data-orientated. JSON can always
+be mapped more easily to object-orientated systems.
+
+##### Migration
+
+XML vocabulary is easily converted to JSON, making migration straightforward.
+JSON is becoming more popular as time goes on in the computer industry,
+partly because the ease and simplicity of making the change from XML to
+the now-superior JSON.
+
