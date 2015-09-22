@@ -30,7 +30,7 @@ test('when you restart timer not set back to zero', function(assert){
     assert.equal(result, 4, "Timer has counted four seconds");
     T.stop();
     done();
-  }, 1000);
+  }, 4000);
 });
 ```
 
