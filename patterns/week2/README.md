@@ -13,7 +13,7 @@ As per our Stop, Go, Continue in week 1, we'll be presenting 8 topics at 13h30 a
 
 ## Testing
 - [x] What is TDD and why is it useful? Jack Conor
-- [ ] What is the red/green/refactor cycle and why is it important?
+- [x] What is the red/green/refactor cycle and why is it important?
 - [x] What is unit testing? Provide some relevant examples. Ruth Gethin
 - [ ] Study the [QUnit assertions](http://api.qunitjs.com/category/assert/) - which ones did you find most useful?
 - [ ] What is continuous integration and what are its benefits?
