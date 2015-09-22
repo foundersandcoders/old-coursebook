@@ -8,7 +8,7 @@ As per our Stop, Go, Continue in week 1, we'll be presenting 8 topics at 13h30 a
 **You are also welcome to add topics** (though we recommend you add them to the 'Bonus' section at the end).
 
 ## Comfort with git/github
-- [ ] What is Git Flow and how do you use it?
+- [x] What is Git Flow and how do you use it? Sohil Naaz
 - [ ] When should you commit and what makes a good commit message?
 
 ## Testing
@@ -26,7 +26,7 @@ As per our Stop, Go, Continue in week 1, we'll be presenting 8 topics at 13h30 a
 - [ ] What is an HTTP status code and what are the most common ones?
 - [x] What is an API key? Tormod Rachel
 - [x] How would you conceal an API key? Justen Kata
-- [x] What is a JSON object? Why is this useful knowledge with regards to APIs and what does one look like? Kat Hugh
+- [x] What is a JSON object? Why is this useful knowledge with regards to APIs and what does one look like? Kat Hu
 
 
 ## Development basics
