@@ -100,7 +100,7 @@ what data is made of! Unfortunately, XML structures are based on elements
 (nestable), attributes (not nestable), raw text, entities, DTDs and other meta
 structures. Not as data-happy as JSON.
 
-###### Orientation
+##### Orientation
 
 XML is document-orientated, where JSON is data-orientated. JSON can always
 be mapped more easily to object-orientated systems.
