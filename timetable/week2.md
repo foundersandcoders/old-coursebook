@@ -9,7 +9,7 @@
 ## Tuesday
 10:00 Paired research  
 12:00 Research presentations  
-14:00 Coding challenge
+14:00 Coding challenge  
 15:00 Paired research    
 16:30 Research presentations
 17:30 [@katpas](https://github.com/katpas) talk on F&C business development
