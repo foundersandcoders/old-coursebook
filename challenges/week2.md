@@ -1,1 +1,1 @@
-[ nothing here yet ]
+Tuesday's challenge is here: https://github.com/foundersandcoders/morning-challenge/tree/master/20150922
