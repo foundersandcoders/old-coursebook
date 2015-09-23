@@ -12,8 +12,7 @@ We suggest you spend:
 Similar to last week, you have Wednesday and Thursday to build the majority of your project, with code reviews on Friday morning.
 On Friday we'll also have final presentations in the afternoon.
 
-Other than the code reviews from your peers, there will also be an external adjudicator from one of the APIs coming down on Friday afternoon to look at the projects.
-
+Other than the code reviews from your peers, there will also be an external reviewer coming on Friday afternoon to look at the projects.
 
 #### APIs:
 Select from these three APIs:
@@ -26,9 +25,11 @@ Select from these three APIs:
 + Realtime content
 + A solid readme 
 
-#### To keep in mind:
+#### Keep in mind:
 * Hiding confidential information. When querying APIs with API keys, keep in mind concealing the keys from prying eyes.
-* Testing will not be one person's sole responsibility. Everyone on the team must write at least one test. 
+* DOM manipulation is expensive. Think of ways that you can minimise the number of DOM insertions in your code.
+* Don't repeat yourself. If you catch yourself repeating blocks of code with minor variations: stop it and refactor. 
+* Everyone on the team must write at least one test. 
 
 #### Stretch Goals:
 * Dynamic search
