@@ -13,7 +13,7 @@ The purpose of refactoring is to improve the quality, clarity and maintainabilit
 
 If you inherit a poorly designed code base that you've not seen before and you now need to either fix a bug or add a new feature, then implementing the code necessary would be a lot easier once you had refactored it to be in a more stable, maintainable and ultimately 'understandable' state.
 
-**Therefore** - you'll probably find that you refactor when you want to fix a bug or add a new feature, because you need to *understand* the code that's been before! The process will clean up your previous code and help you understand it far better.
+**Therefore** - you'll probably find that you refactor when you want to fix a bug or add a new feature, because you need to *understand* the code that's been before! The process should clean up your previous code hugely.
 
 A lot of the time people will only consider refactoring at the beginning or end of a project, but it should be done in small chunks *continuously* throughout a project. 
 
@@ -21,12 +21,12 @@ A lot of the time people will only consider refactoring at the beginning or end 
 
 Refactoring produces clean code, as mentioned above. Clean code is good code. Clean code:
 
- * Passes all tests.
- * Is obvious for other programmers.
- * Does not contain duplication.
- * Contains a minimum number of classes and other moving parts.
+ * Passes all tests
+ * Is obvious for other programmers
+ * Does not contain duplication
+ * Contains a minimum number of classes and other moving parts
 
-It's also *easier* to work with and *cheaper* to maintain. 
+It's also *easier* to work with and *cheaper* to maintain. All pros, no cons. 
 
 ## How do you do it?
 
@@ -38,5 +38,5 @@ Three key components of correct refactoring:
 2. All existing tests should be successfully passed after refactoring
 3. The code becomes simpler after refactoring
 
-Refactoring catalogue [here](https://refactoring.guru/catalog)
+Have a read of a more in-depth refactoring catalogue [here](https://refactoring.guru/catalog)
 
