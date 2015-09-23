@@ -1,0 +1,156 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'markmon' ]
+2 info using npm@2.14.2
+3 info using node@v4.0.0
+4 verbose install initial load of /usr/local/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/local/lib/package.json
+6 silly cache add args [ 'markmon', null ]
+7 verbose cache add spec markmon
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'markmon',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'markmon',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed markmon@*
+10 verbose addNamed "*" is a valid semver range for markmon
+11 silly addNameRange { name: 'markmon', range: '*', hasData: false }
+12 silly mapToRegistry name markmon
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/markmon
+16 verbose addNameRange registry:https://registry.npmjs.org/markmon not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/markmon
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 5:13:27 PM
+20 verbose request id e1b673673c6efc1e
+21 http request GET https://registry.npmjs.org/markmon
+22 http 200 https://registry.npmjs.org/markmon
+23 silly get cb [ 200,
+23 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+23 silly get     etag: '"8OO0MVK00M28TMJM5I1E4O4RP"',
+23 silly get     'content-type': 'application/json',
+23 silly get     'cache-control': 'max-age=60',
+23 silly get     'content-length': '11435',
+23 silly get     'accept-ranges': 'bytes',
+23 silly get     date: 'Tue, 22 Sep 2015 16:13:27 GMT',
+23 silly get     via: '1.1 varnish',
+23 silly get     age: '0',
+23 silly get     connection: 'keep-alive',
+23 silly get     'x-served-by': 'cache-lcy1125-LCY',
+23 silly get     'x-cache': 'MISS',
+23 silly get     'x-cache-hits': '0',
+23 silly get     'x-timer': 'S1442938407.594627,VS0,VE100',
+23 silly get     vary: 'Accept' } ]
+24 verbose get saving markmon to /home/huw/.npm/registry.npmjs.org/markmon/.cache.json
+25 silly addNameRange number 2 { name: 'markmon', range: '*', hasData: true }
+26 silly addNameRange versions [ 'markmon',
+26 silly addNameRange   [ '0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7' ] ]
+27 silly addNamed markmon@0.0.7
+28 verbose addNamed "0.0.7" is a plain semver version for markmon
+29 silly mapToRegistry name markmon
+30 silly mapToRegistry using default registry
+31 silly mapToRegistry registry https://registry.npmjs.org/
+32 silly mapToRegistry uri https://registry.npmjs.org/markmon
+33 verbose addRemoteTarball https://registry.npmjs.org/markmon/-/markmon-0.0.7.tgz not in flight; adding
+34 verbose addRemoteTarball [ 'https://registry.npmjs.org/markmon/-/markmon-0.0.7.tgz',
+34 verbose addRemoteTarball   'ec1a0f7977ca410b00a8c5e6ca9681ccf61854e9' ]
+35 info retry fetch attempt 1 at 5:13:27 PM
+36 info attempt registry request try #1 at 5:13:27 PM
+37 http fetch GET https://registry.npmjs.org/markmon/-/markmon-0.0.7.tgz
+38 http fetch 200 https://registry.npmjs.org/markmon/-/markmon-0.0.7.tgz
+39 silly fetchAndShaCheck shasum ec1a0f7977ca410b00a8c5e6ca9681ccf61854e9
+40 verbose addTmpTarball /tmp/npm-6137-7a23f34b/registry.npmjs.org/markmon/-/markmon-0.0.7.tgz not in flight; adding
+41 verbose addTmpTarball already have metadata; skipping unpack for markmon@0.0.7
+42 silly cache afterAdd markmon@0.0.7
+43 verbose afterAdd /home/huw/.npm/markmon/0.0.7/package/package.json not in flight; writing
+44 verbose afterAdd /home/huw/.npm/markmon/0.0.7/package/package.json written
+45 silly install resolved [ { name: 'markmon',
+45 silly install resolved     description: 'A Markdown live previewer with fast Mathjax re-rendering',
+45 silly install resolved     version: '0.0.7',
+45 silly install resolved     license: 'MIT',
+45 silly install resolved     author:
+45 silly install resolved      { name: 'Yao Yujian',
+45 silly install resolved        email: 'yyjhao@gmail.com',
+45 silly install resolved        url: 'http://yjyao.com' },
+45 silly install resolved     dependencies:
+45 silly install resolved      { express: '3.x',
+45 silly install resolved        'socket.io': '0.9.x',
+45 silly install resolved        optimist: '0.6.x',
+45 silly install resolved        chokidar: '0.8.x',
+45 silly install resolved        mime: '1.2.x' },
+45 silly install resolved     files: [ 'bin', 'lib', 'frontend' ],
+45 silly install resolved     bin: { markmon: 'bin/markmon' },
+45 silly install resolved     main: 'lib/Server.js',
+45 silly install resolved     preferGlobal: true,
+45 silly install resolved     repository: { type: 'git', url: 'git://github.com/yyjhao/markmon.git' },
+45 silly install resolved     keywords: [ 'markdown', 'previewer' ],
+45 silly install resolved     bugs: { url: 'https://github.com/yyjhao/markmon/issues' },
+45 silly install resolved     directories: { bin: 'bin', lib: 'lib' },
+45 silly install resolved     homepage: 'https://github.com/yyjhao/markmon',
+45 silly install resolved     _id: 'markmon@0.0.7',
+45 silly install resolved     dist:
+45 silly install resolved      { shasum: 'ec1a0f7977ca410b00a8c5e6ca9681ccf61854e9',
+45 silly install resolved        tarball: 'http://registry.npmjs.org/markmon/-/markmon-0.0.7.tgz' },
+45 silly install resolved     _from: 'markmon@*',
+45 silly install resolved     _npmVersion: '1.4.3',
+45 silly install resolved     _npmUser: { name: 'yyjhao', email: 'yyjhao@gmail.com' },
+45 silly install resolved     maintainers: [ [Object] ],
+45 silly install resolved     _shasum: 'ec1a0f7977ca410b00a8c5e6ca9681ccf61854e9',
+45 silly install resolved     _resolved: 'https://registry.npmjs.org/markmon/-/markmon-0.0.7.tgz' } ]
+46 info install markmon@0.0.7 into /usr/local/lib
+47 info installOne markmon@0.0.7
+48 verbose installOne of markmon to /usr/local/lib not in flight; installing
+49 verbose lock using /home/huw/.npm/_locks/markmon-30a7871558c6eadd.lock for /usr/local/lib/node_modules/markmon
+50 silly install write writing markmon 0.0.7 to /usr/local/lib/node_modules/markmon
+51 verbose unbuild lib/node_modules/markmon
+52 silly gentlyRm /usr/local/lib/node_modules/markmon is being purged from base /usr/local
+53 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/markmon
+54 verbose tar unpack /home/huw/.npm/markmon/0.0.7/package.tgz
+55 verbose tar unpacking to /usr/local/lib/node_modules/markmon
+56 silly gentlyRm /usr/local/lib/node_modules/markmon is being purged
+57 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/markmon
+58 silly gunzTarPerm modes [ '775', '664' ]
+59 error tar.unpack untar error /home/huw/.npm/markmon/0.0.7/package.tgz
+60 verbose unlock done using /home/huw/.npm/_locks/markmon-30a7871558c6eadd.lock for /usr/local/lib/node_modules/markmon
+61 verbose fstream_path /usr/local/lib/node_modules/markmon
+62 verbose fstream_type Directory
+63 verbose fstream_class DirWriter
+64 verbose stack Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/markmon'
+64 verbose stack     at Error (native)
+65 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25
+65 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53
+65 verbose fstream_stack FSReqWrap.oncomplete (fs.js:82:15)
+66 verbose cwd /home/huw/fac/fac6book/book/patterns/week2
+67 error Linux 3.13.0-32-generic
+68 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "markmon"
+69 error node v4.0.0
+70 error npm  v2.14.2
+71 error path /usr/local/lib/node_modules/markmon
+72 error code EACCES
+73 error errno -13
+74 error syscall mkdir
+75 error Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/markmon'
+75 error     at Error (native)
+75 error  { [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/markmon']
+75 error   errno: -13,
+75 error   code: 'EACCES',
+75 error   syscall: 'mkdir',
+75 error   path: '/usr/local/lib/node_modules/markmon',
+75 error   fstream_type: 'Directory',
+75 error   fstream_path: '/usr/local/lib/node_modules/markmon',
+75 error   fstream_class: 'DirWriter',
+75 error   fstream_stack:
+75 error    [ '/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25',
+75 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53',
+75 error      'FSReqWrap.oncomplete (fs.js:82:15)' ] }
+76 error Please try running this command again as root/Administrator.
+77 verbose exit [ -13, true ]
+78 verbose unbuild lib/node_modules/markmon
+79 silly gentlyRm /usr/local/lib/node_modules/markmon is being purged from base /usr/local
+80 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/markmon
