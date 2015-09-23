@@ -28,9 +28,8 @@
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
-* Challenges
+* [Morning challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
-   * [Week 2](challenges/week2.md)
 * Weekend assignments
    * [Week 1](assignments/week1.md)  
    * [Week 2](assignments/week2.md)  
