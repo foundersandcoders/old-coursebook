@@ -18,7 +18,7 @@ A link to a how to guide for youtubes API: [you tube api] https://developers.goo
 ##Best Practices for generating API keys
 * It is recommeneded for you to use API keys if you have an API (for security and data reasons)
 * Name your key descriptively
-• Give each intergration (user) it's own API key, and assign labels for each key. So each key is unique. As an administrator this allows you to disable a key if it has been compromised without disabling access to all of your other intergrations (users).
+* Give each intergration (user) it's own API key, and assign labels for each key. So each key is unique. As an administrator this allows you to disable a key if it has been compromised without disabling access to all of your other intergrations (users).
 * In addition, you may want to segment access to different data, for example on Nestoria.co.uk (property site) has one API for average house prices, and another API for listing searches. Again this allows you greater control of your APIs.
 
 
