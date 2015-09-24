@@ -60,4 +60,4 @@ Workshop, as required
 + Hand-over to next week's course leaders
 
 ## Note on workshops
-For the workshop day on Monday, aim to split the day up into two self-contained parts of about three hours each, which can either be two self-contained workshops or one workshop followed by a related assignment. We intend to start delivering these workshops to the wider public as self-contained evening workshops for the general public.
+For the workshop day on Monday, aim to split the day up into two self-contained parts of about three hours each, which can either be two self-contained workshops or one workshop followed by a related assignment. We intend to start delivering these workshops as self-contained evening workshops for the general public.
