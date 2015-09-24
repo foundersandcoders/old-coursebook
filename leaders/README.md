@@ -25,7 +25,7 @@ Do not hesitate to plunder material from previous courses and do not take on mor
   + External reviewer for Friday code review
 
 ## End of the week
-+ Update [Stop, Go, Continue notes](sgc/README.md)    
++ Update [Stop, Go, Continue notes](../sgc/README.md)    
 + Review this checklist    
 + Review the course content and amend as necessary   
 + Hand-over to next week's course leaders
@@ -61,7 +61,7 @@ Workshop, as required
 13:30 Stop, Go, Continue review    
 14:15 Introduce Upstairs project presentation    
 14:45 Introduce weekend assignments    
-15:00 Remind people about [business development](business/README.md)    
+15:00 Remind people about [business development](../business/README.md)    
 15:30 Remind people to stop work and do an in-team project review    
 16:00 Introduce invited speaker and run project presentations    
 
