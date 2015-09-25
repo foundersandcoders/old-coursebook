@@ -1,1 +1,1 @@
-Tuesday's challenge is here: https://github.com/foundersandcoders/morning-challenge/tree/master/20150922
+Morning challenges are here: https://github.com/foundersandcoders/morning-challenge

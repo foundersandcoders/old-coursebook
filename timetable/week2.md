@@ -7,11 +7,12 @@
 18:30 Coding for everyone
 
 ## Tuesday
-10:00 Coding challenge
-11:00 Jigsaw research  
-13:00 Research presentations  
-14:30 Paired research    
-17:00 Research presentations    
+10:00 Paired research  
+12:00 Research presentations  
+14:00 Coding challenge  
+15:00 Paired research    
+16:30 Research presentations    
+17:30 [@katpas](https://github.com/katpas) talk on F&C business development    
 
 ## Wednesday
 10:00 Morning challenge    
