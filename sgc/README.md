@@ -1,20 +1,36 @@
 # Stop, Go, Continue notes
 
 ## Immediate changes
-+ **18h00:** everyone writes on a wall what their biggest learning (or what they struggled most with) from the day was
-  + People now know who to go to for help with those topics
 
 ## Ongoing actions for FAC6 course
-+ More lightning talks   
++ More lightning talks 
++ Create template for readmes on Tuesdays
+
+#### Mondays
++ 10:00 Show & Tell on cool websites and technologies the students have found
 
 #### Tuesdays
-+ Research days worked well in week 1, trial again in week 2
-+ Provide **16 learning outcomes for Tuesdays**, split into 8 in the morning with a presentation and 8 in the afternoon 
++ Jigsaw classroom in the mornings, paired research in the afternoon
++ Post projects to a readme in the morning so if people want to know what it is we can do so
+
+#### Wednesdays & Thursdays
++ Add mid-project code review at lunch
++ **18h00:** everyone writes on a wall what their biggest learning (or what they struggled most with) from the day was
+  + People now know who to go to for help with those topics
 
 #### Fridays
 + Continue pairing to provide feedback on that week's projects
 
+<br/>
+<br/>
+<br/>
+
+# FAC7
+
 ## Actions before FAC7
++ Changes to pre-requisites:
+  + Add in some DOM manipulation stuff
+  + Remove jQuery (added as homework for first weekend)
 + **Agreed:** FAC6 will run a pre-course **Git party** for FAC7
 + **Agreed:** FAC6 will run a pre-course **install party** for FAC7
 
@@ -28,5 +44,8 @@
 + Start with a simple exercise to learn Git and talk through it again as a class before we move on
   + Together create a git flow poster and **keep it up on the wall for the first week** 
   https://twitter.com/iteles/status/643869763937140736
++ Add jQuery course to the weekend assignment for week 1 (people won't use it but must be able to recognise it)
 
-
+### Week 2
++ Consider adding to week 2 learning outcomes: CORS, JSONP and callbacks
++ Definitely continue giving students 3 different APIs, they really liked comparing the use of different APIs

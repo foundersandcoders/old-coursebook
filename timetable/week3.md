@@ -1,18 +1,17 @@
 # Week 2
 
 ## Monday
-10:00 Workshop    
-16:30 Lightning talk on Mode for Me    
-17:00 MVP pitch    
+10:00 Show & Tell from students    
+10:20 Workshop  
 18:30 Coding for everyone
 
 ## Tuesday
-10:00 Paired research  
+10:00 Jigsaw classroom  
 12:00 Research presentations  
 14:00 Coding challenge  
 15:00 Paired research    
 16:30 Research presentations    
-17:30 [@katpas](https://github.com/katpas) talk on F&C business development    
+17:30 [@katpas](https://github.com/katpas) talk on F&C business development
 
 ## Wednesday
 10:00 Morning challenge    
@@ -20,7 +19,8 @@
 18:00 Write your biggest learning from today on the wall    
 
 ## Thursday
-10:00 Project    
+10:00 Project 
+12:00 Mid project code reviews     
 18:00 Write your biggest learning from today on the wall
 
 ## Friday
