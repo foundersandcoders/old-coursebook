@@ -46,16 +46,13 @@ You should regularly check which branch you're on to prevent yourself adding fil
 
 #### Remote
 
-When you're ready to create a remote version of your branch so other people
-can access it you type:
+When you're ready to create a remote version of your branch so other people can access it you type:
 
 <pre></code> git push origin 'my_new_branch' </code></pre>
 
-This is also how you add any changes online that you've made locally when you're
-working on the file later on.
+This is also how you add any changes online that you've made locally when you're working on the file later on.
 
-Make sure you're never pushing to the master as this will overwrite it for other
-users.
+Make sure you're never pushing to the master as this will overwrite it for other users.
 
 
 ### How to delete a branch
@@ -70,8 +67,7 @@ If you have unmerged changes you'll have to enter the command again to confirm y
 
 #### Remote
 
-You can delete it on the server (remotely) so it's not in the way of other users
-by typing
+You can delete it on the server (remotely) so it's not in the way of other users by typing
 
 <pre><code> git push origin --delete branchname </code></pre>
 
@@ -82,9 +78,7 @@ You can also delete the branches directly from git hub once you've merged the co
 
 ### New features
 
-Everytime a developer needs to start working on a new feature they should create
-a branch for the feature. This means that they can work on the new feature
-without comprimising the code of a previous branch that others are working from.
+Everytime a developer needs to start working on a new feature they should create a branch for the feature. This means that they can work on the new feature without comprimising the code of a previous branch that others are working from.
 
 ### Merge when it's bug free
 
@@ -94,10 +88,8 @@ Then when it's ready and bug free you can merge it back to branch it branched fr
 
 ### You should always branch if
 
-- You're about to make a really big change that might disrupt everything.
-- 
-- You're about to make make a change that is just an option/ something that might
-not be used.
+** You're about to make a really big change that might disrupt everything. **
 
-- You want to try something that you're 90% sure won't work and may break
-everything.
+** You're about to make make a change that is just an option/ something that might not be used. **
+
+** You want to try something that you're 90% sure won't work and may break everything.**
