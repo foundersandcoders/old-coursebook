@@ -22,7 +22,7 @@ Usually lacks typographic style, color, or graphics, since the main **focus lies
 ###Why is it important?
 
 Wireframing is an important step in any screen design process. It primarily allows you to define the information hierarchy of your design, making it easier for you to plan the layout according to how you want your user to process the information.
-Wireframe is also very useful in determining how the user interacts with the interface.
+Wireframe is also very useful in determining how the user interacts with the interface. Wire framed prototypes are also good for using in early stage user testing.
 
 ####Wireframing is important because it allows the designer to plan the layout and interaction of an interface without being distracted by colors, typeface choices or even copy.
 
