@@ -11,33 +11,13 @@ This allows your team to review your code and suggest changes to it.
 
 
 ###To start a pull request 
-1. log in to github.com
-2. fork an existing repository, make changes, commit & push the changes.
-3. navigate to your repository on github.com
-4. go to the branch which contains the changes 
-5. click “New pull request”  and then "create pull request"
-For the person who will review your code:
-6. go to terminal type 
- *git pull origin branch name* 
-(make sure you are in the correct directory for git)
-7. Now you have an up to date version of the changes which have been made to the file on your computer.
-8. Review changes. Once you are happy with the changes you are ready to merge the branch into master
-
-
-##Merging with Master
-
-
-On github.com,  on your repository, on the right sidebar, you should see that you now have a pull request.
-
-If you know there are no conflicts you can merge the pull request remotely on github.com, otherwise you will need to pull down and resolve conflicts locally.
-
-To merge on Github:
-1. click on pull requests
-2. click in to your specific pull request
-
-To merge locally:
-1. git checkout branch name
-2. git merge origin master
+1. First make sure your local master branch is up to date with the remote master by typing this into your terminal:
+```git pull origin master```
+2. Checkout back to your own branch and merge with the master branch to make sure you have no conflicts: ```git merge master```
+3. Now you need to push your changes up to github: ```git push origin yourBranchName```
+4. On github go to your branch and click "New pull request"
+5. Someone else in your team can now review the changes
+6. Once they are happy with the changes they can click to merge with master.
 
 
 ### Links
