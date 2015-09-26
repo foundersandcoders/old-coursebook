@@ -76,17 +76,17 @@ You can also delete the branches directly from git hub once you've merged the co
 
 ## Best practices for using branching:
 
-### New features
+#### For new features
 
 Everytime a developer needs to start working on a new feature they should create a branch for the feature. This means that they can work on the new feature without comprimising the code of a previous branch that others are working from.
 
-### Merge when it's bug free
+#### Merge when it's bug free
 
 It's like a box that you can work in without messing things up for anyone else.
 Then when it's ready and bug free you can merge it back to branch it branched from.
 
 
-### You should always branch if
+#### You should always branch if
 
 ** You're about to make a really big change that might disrupt everything. **
 
