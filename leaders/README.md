@@ -24,6 +24,9 @@ Do not hesitate to plunder material from previous courses and do not take on mor
   + Find volunteer for Friday upstairs project presentation
   + External reviewer for Friday code review
 
+## Each day
++ Put the timetable for that day up on a whiteboard
+
 ## End of the week
 + Update [Stop, Go, Continue notes](../sgc/README.md)    
 + Review this checklist    
