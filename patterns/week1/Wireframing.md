@@ -17,7 +17,7 @@ Usually lacks typographic style, color, or graphics, since the main **focus lies
 > * The rules for displaying certain kinds of information
 > * The effect of different scenarios on the display
 
-![Here is a wireframe document for a person profile view](https://en.wikipedia.org/wiki/Website_wireframe#/media/File:Profilewireframe.png)
+![wireframe example](http://www.kimbieler.com/wp-content/uploads/2012/03/athayde-homepage.jpg)
 
 ###Why is it important?
 
