@@ -36,22 +36,23 @@ Do not hesitate to plunder material from previous courses and do not take on mor
 ## Contact time
 
 ### Monday
-Workshop, as required    
+10:00 Workshop    
 17:00 Introduce invited speaker    
 
 ### Tuesday
 10:00 Introduce morning challenge    
 10:45 Review morning challenge    
-13:00 Research presentations #1    
-16:00 Research presentations #2    
+11:15 introduce learning topics 
+13:00 Jigsaw presentations (x 4)    
+16:00 Paired presentations (x 8)    
 17:00 Introduce invited speaker    
 
 ### Wednesday
 10:00 Introduce morning challenge    
 10:45 Review morning challenge    
-11:00 Project kick-off    
+11:15 Project kick-off    
 17:00 Office hours    
-18:00 Run learning points review    
+17:45 Run learning points review    
 
 ### Thursday
 13:00 Run mid-point project reviews     
