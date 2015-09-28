@@ -119,3 +119,37 @@ To merge a different branch into your active branch:
 '''
 git merge <branchname>
 '''
+
+#####Closing Issues Using Pull Requests
+
+It's been possible to close an issue from a commit for quite a while, but some issues take more work than a single commit to close. That's why you can now close an issue from a Pull Request. All you have to do is include the special keyword syntax (eg. "fixes #5") in the body of your Pull Request. Commands can also be added to the commit messages. For Example, add the following information to the Pull Request messages:
+
+ Resolve #18 (Issue number)
+
+ Pull Request #19: blah (Add pending fix before merging)
+
+ Keywords for closing issues
+
+The full range of commands that can be added.
+
+close
+closes
+closed
+fix
+fixes
+fixed
+resolve
+resolves
+resolved
+
+Closing an issue in a different repository
+
+To close an issue in another repository, use the username/repository#issue_number syntax, as described in "Writing on GitHub".
+
+For example, including Closes example_user/example_repo#76 will close the referenced issue in that repository, provided you have push access to that repository.
+
+Closing multiple issues
+
+To close multiple issues, preface each issue reference with one of the above keywords.
+
+For example, This closes #34, closes #23, and closes example_user/example_repo#42 would close issues #34 and #23 in the same repository, and issue #42 in the "example_user/example_repo" repository.
