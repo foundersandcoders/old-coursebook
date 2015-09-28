@@ -109,16 +109,16 @@ git branch
 #####Checkout
 
 Switch from one branch to another:
-'''
+```
 git checkout <branchname>
-'''
+```
 
 #####Merge (add commit message/ exit vim)
 
 To merge a different branch into your active branch:
-'''
+```
 git merge <branchname>
-'''
+```
 
 #####Closing Issues Using Pull Requests
 
