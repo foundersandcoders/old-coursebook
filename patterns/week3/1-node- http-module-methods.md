@@ -37,7 +37,7 @@ Note that Content-Length is given in bytes not characters. The above example wor
 
 When using implicit headers (not calling response.writeHead() explicitly), this property controls the status code that will be sent to the client when the headers get flushed.
 
-Example: response.statusCode = 404;
+Example: `response.statusCode = 404;`
 After response header was sent to the client, this property indicates the status code which was sent out.
 
 
@@ -47,12 +47,12 @@ After response header was sent to the client, this property indicates the status
 Sets a single header value for implicit headers. If this header already exists in the to-be-sent headers, its value will be replaced. Use an array of strings here if you need to send multiple headers with the same name.
 
 Example:
-
+```javascript
 response.setHeader("Content-Type", "text/html");
 or
 
 response.setHeader("Set-Cookie", ["type=ninja", “language=javascript”]);
-
+```
 
 ####response.write(chunk[, encoding][, callback])
 
@@ -80,7 +80,7 @@ If callback is specified, it will be called when the response stream is finished
 
 Boolean value that indicates whether the response has completed. Starts as false. After response.end() executes, the value will be true.
 
-Class: http.Agent   
+###Class: http.Agent   
 
 >A socket is an end-point of an inter-process communication across a computer network, it waits on the server for requests from a client
 The client-server data exchange takes place when a client connects to the server through a socket.
