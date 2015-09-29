@@ -87,3 +87,4 @@ Another useful eventemitter method is <code>once</code>. It's just like the <cod
 * This is a must read, providing most of the content here but goes into more methods towards the end: http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941
 * Code for geek on event emitters: https://codeforgeek.com/2014/11/eventemitter-node-js/
 * Nodejs documentation on events: https://nodejs.org/api/events.html
+* A full before/after example of cleaning up nested functions using event emitters: http://rob.conery.io/2012/04/05/cleaning-up-deep-callback-nesting-with-nodes-eventemitter/
