@@ -13,11 +13,11 @@ For perfromance its best to only `require()` the modules you are using.
 
 
 
-Class: http.ServerResponse
+###Class: http.ServerResponse
 This object is created internally by a HTTP server--not by the user. It is passed as the second parameter to the 'request' event. for example when we made our handler functions.
-
+```javascript
 response.writeHead(statusCode[, statusMessage][, headers])
-
+```
 Sends a response header to the request. The status code is a 3-digit HTTP status code, like 404. The last argument, headers, are the response headers. Optionally one can give a human-readable statusMessage as the second argument.
 
 Example:
@@ -35,11 +35,10 @@ Note that Content-Length is given in bytes not characters. The above example wor
 
 Class: http.Agent   
 
-
-HTTP Agent is used for pooling sockets used in HTTP client requests, allowing you to keep them open until the client is ready to make a request.
-It allows the connection to remain open when experiencing a large number of requests but still does not require the developer to close HTTP clients
 >A socket is an end-point of an inter-process communication across a computer network, it waits on the server for requests from a client
 The client-server data exchange takes place when a client connects to the server through a socket.
+HTTP Agent is used for pooling sockets used in HTTP client requests, allowing you to keep them open until the client is ready to make a request.
+It allows the connection to remain open when experiencing a large number of requests but still does not require the developer to close HTTP clients
 
 
 
