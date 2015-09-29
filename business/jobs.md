@@ -1,4 +1,4 @@
-## Job hunting
+# Job hunting
 
 Please keep an eye our for jobs and when you see a job you like the look of, contact the employer and ***invite them in to give a talk***.
 
