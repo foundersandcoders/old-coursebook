@@ -22,6 +22,7 @@ https://github.com/dwyl/env2
 ## Testing and coverage
 * [ ] How to set up Code Climate and Travis/troubleshooting from yesteday?
 * [ ] What other kind of tests would you want to write for Node?
+* [ ] What is continuous integration and what are its benefits?
 
 ## Deploying to Heroku
 * [ ] What is Heroku and what is it used for?
