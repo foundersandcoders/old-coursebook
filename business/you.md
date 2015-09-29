@@ -1,4 +1,4 @@
-# Developing your personal profile
+# Developing your online presence
 
 Regardless of whether you are looking for a job or wanting to work freelance, you will make your life easier if you have a visible oinline presence.
 
