@@ -30,6 +30,7 @@ Once you have installed the pre-commit modules this should appear in your packag
 "devDependencies": {
     "pre-commit": "^1.1.1"
   }
+```
 
 If you do not want to use a pre-commit then you can still force a commit by telling git to skip the pre-commit hooks by simply committing using ```--no-verify```	
 
