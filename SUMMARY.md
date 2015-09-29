@@ -11,6 +11,9 @@
    * [Playbook](about/playbook.md)
 * [Giving back](giving/README.md)
 * [Business development](business/README.md)
+  * [You](business/you.md) 
+  * [Employers](business/jobs.md) 
+  * [Projects](business/projects.md) 
 * Timetable
    * Week 1
       * [Day 1](timetable/week1/day1.md) 
