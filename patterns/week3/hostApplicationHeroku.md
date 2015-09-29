@@ -46,7 +46,7 @@ https://github.com/Neats29/Learn-Heroku
 
 The Neats29 github tutorial was helpful to understand Heroku. The explanation of a Dyno is one example of this. The tutorial simplified this a great deal making things difficult to follow.
 
-References:
+References:  
 http://nieldlr.com/2012/03/the-really-absolute-beginners-guide-to-host-node-js-on-heroku/
 https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
 
