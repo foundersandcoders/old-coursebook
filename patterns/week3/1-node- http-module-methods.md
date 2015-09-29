@@ -42,7 +42,7 @@ It allows the connection to remain open when experiencing a large number of requ
 
 
 
-* #### new Agent([options])
+*  new Agent([options])
 
 The options Object Set of configurable options to set on the agent for example
 
@@ -56,32 +56,32 @@ keepAlives are used to verify that the computer at the remote end of a connectio
 
 If there is no response to a keepAlive, it is re-sent every (keepAliveMsecs)
 
-* #### agent.maxSockets
+*  agent.maxSockets
 
 By default set to Infinity. Determines how many concurrent sockets the agent can have open per origin. Origin is either a 'host:port' or 'host:port:localAddress' combination.
 
 
-* #### agent.maxFreeSockets
+*  agent.maxFreeSockets
 
 By default set to 256. For Agents supporting HTTP KeepAlive, this sets the maximum number of sockets that will be left open in the free state.
 
 
-* #### agent.sockets
+*  agent.sockets
 
 An object which contains arrays of sockets currently in use by the Agent. Do not modify.
 
 
-* #### agent.freeSockets
+*  agent.freeSockets
 
 An object which contains arrays of sockets currently awaiting use by the Agent when HTTP KeepAlive is used. Do not modify.
 
 
-* #### agent.requests
+*  agent.requests
 
 An object which contains queues of requests that have not yet been assigned to sockets. Do not modify.
 
 
-* #### agent.destroy()
+*  agent.destroy()
 
 Destroy any sockets that are currently in use by the agent.
 
@@ -90,7 +90,7 @@ It is usually not necessary to do this. However, if you are using an agent with 
  will no longer be used. Otherwise, sockets may hang open for quite a long time before the server terminates them.
  
 
-* #### agent.getName(options)
+*  agent.getName(options)
 
 Get a unique name for a set of request options, to determine whether a connection can be reused. In the http agent, this returns host:port:localAddress. In the https agent, 
 the name includes the CA, cert, ciphers, and other HTTPS/TLS-specific options that determine socket reusability.
