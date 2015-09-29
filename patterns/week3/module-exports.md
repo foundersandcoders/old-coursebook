@@ -35,7 +35,7 @@ var module = require('myModule');
 ```
 
 This gives you access to the functions in myModule, for example, if I wanted to
-use myFunc1 I would write:
+use myFunction1 I would write:
 
 ```javascript
 module.myFunction1();
