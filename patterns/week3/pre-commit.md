@@ -26,10 +26,10 @@ You have to install 'pre-commits' in each project folder before you start your p
 
 Once you have installed the pre-commit modules this should appear in your package.json object like this: 
 
-``` "devDependencies": {
+``` 
+"devDependencies": {
     "pre-commit": "^1.1.1"
   }
-```
 
 If you do not want to use a pre-commit then you can still force a commit by telling git to skip the pre-commit hooks by simply committing using ```--no-verify```	
 
