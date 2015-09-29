@@ -19,8 +19,8 @@ var exports = module.exports
 var myFunction1 = function(){ ... }
 var myFunction2 = function(){ ... }
 
-exports.myFunction1 = myFunc1;
-exports.myFunction2 = myFunc2;
+exports.myFunction1 = myFunction1;
+exports.myFunction2 = myFunciton2;
 ```
 
 ### HOW TO REQUIRE A MODULE
