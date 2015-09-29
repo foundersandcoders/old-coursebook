@@ -15,9 +15,9 @@ For perfromance its best to only `require()` the modules you are using.
 
 ###Class: http.ServerResponse
 This object is created internally by a HTTP server--not by the user. It is passed as the second parameter to the 'request' event. for example when we made our handler functions.
-```javascript
-response.writeHead(statusCode[, statusMessage][, headers])
-```
+
+####response.writeHead(statusCode[, statusMessage][, headers])
+
 Sends a response header to the request. The status code is a 3-digit HTTP status code, like 404. The last argument, headers, are the response headers. Optionally one can give a human-readable statusMessage as the second argument.
 
 Example:
@@ -32,6 +32,53 @@ This method must only be called once on a message and it must be called before r
 If you call response.write() or response.end() before calling this, the implicit/mutable headers will be calculated and call this function for you.
 
 Note that Content-Length is given in bytes not characters. The above example works because the string 'hello world' contains only single byte characters. If the body contains higher coded characters then Buffer.byteLength() should be used to determine the number of bytes in a given encoding. And Node.js does not check whether Content-Length and the length of the body which has been transmitted are equal or not.
+
+####response.statusCode
+
+When using implicit headers (not calling response.writeHead() explicitly), this property controls the status code that will be sent to the client when the headers get flushed.
+
+Example: response.statusCode = 404;
+After response header was sent to the client, this property indicates the status code which was sent out.
+
+
+
+####response.setHeader(name, value)
+
+Sets a single header value for implicit headers. If this header already exists in the to-be-sent headers, its value will be replaced. Use an array of strings here if you need to send multiple headers with the same name.
+
+Example:
+
+response.setHeader("Content-Type", "text/html");
+or
+
+response.setHeader("Set-Cookie", ["type=ninja", “language=javascript”]);
+
+
+####response.write(chunk[, encoding][, callback])
+
+If this method is called and response.writeHead() has not been called, it will switch to implicit header mode and flush the implicit headers.
+
+This sends a chunk of the response body. This method may be called multiple times to provide successive parts of the body.
+
+chunk can be a string or a buffer. If chunk is a string, the second parameter specifies how to encode it into a byte stream. By default the encoding is 'utf8'. The last parameter callback will be called when this chunk of data is flushed.
+
+Note: This is the raw HTTP body and has nothing to do with higher-level multi-part body encodings that may be used.
+
+The first time response.write() is called, it will send the buffered header information and the first body to the client. The second time response.write() is called, Node.js assumes you're going to be streaming data, and sends that separately. That is, the response is buffered up to the first chunk of body.
+
+Returns true if the entire data was flushed successfully to the kernel buffer. Returns false if all or part of the data was queued in user memory. 'drain' will be emitted when the buffer is free again.
+
+####response.end([data][, encoding][, callback])
+
+This method signals to the server that all of the response headers and body have been sent; that server should consider this message complete. The method, response.end(), MUST be called on each response.
+
+If data is specified, it is equivalent to calling response.write(data, encoding) followed by response.end(callback).
+
+If callback is specified, it will be called when the response stream is finished.
+
+####response.finished
+
+Boolean value that indicates whether the response has completed. Starts as false. After response.end() executes, the value will be true.
 
 Class: http.Agent   
 
