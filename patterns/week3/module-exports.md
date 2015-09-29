@@ -30,6 +30,7 @@ to use the module:
 
 ```javascript
 //within main.js
+
 var module = require('myModule');
 ```
 
