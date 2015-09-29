@@ -87,6 +87,7 @@ The client-server data exchange takes place when a client connects to the server
 HTTP Agent is used for pooling sockets used in HTTP client requests, allowing you to keep them open until the client is ready to make a request.
 It allows the connection to remain open when experiencing a large number of requests but still does not require the developer to close HTTP clients
 
+An example of when you would want to use http.Agent is when you are making requests for multiple bits of data, like photos on instagram related to a specific user or hashtag. http.Agent keeps the connection open so as the server can continue to respond to the request i.e. continue to send you instagram photos from a specific source.
 
 
 *  new Agent([options])
