@@ -35,10 +35,11 @@ Note that Content-Length is given in bytes not characters. The above example wor
 
 Class: http.Agent   
 
->A socket is an end-point of an inter-process communication across a computer network, it waits on the server for requests from a client
-The client-server data exchange takes place when a client connects to the server through a socket.
+
 HTTP Agent is used for pooling sockets used in HTTP client requests, allowing you to keep them open until the client is ready to make a request.
 It allows the connection to remain open when experiencing a large number of requests but still does not require the developer to close HTTP clients
+>A socket is an end-point of an inter-process communication across a computer network, it waits on the server for requests from a client
+The client-server data exchange takes place when a client connects to the server through a socket.
 
 
 
