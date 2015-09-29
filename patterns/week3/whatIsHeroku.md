@@ -3,7 +3,7 @@
 - It's a cloud-based, scalable server.
 - Allows you to easily manage the deployment of your app 
 - It's free (for 1 Dyno) - great for testing, but insufficient to run a business on.
-- Uses GitHub to deploy the apps.
+- Uses Git to deploy the apps.
 
 # What is Heroku used for?
 
