@@ -38,7 +38,8 @@ If you do not want to use a pre-commit then you can still force a commit by tell
 Define your scripts in the package.json file (In this example we are using, Istanbul for coverage, jshint, and tape).You also need to create an pre-commit array of the scripts that you need to run. Here is an example of this: 
 
 
-'''{
+```
+{
   "name": "learn-pre-commit",
   "version": "1.0.0",
   "description": "Node.js pre-commit tutorial",
@@ -61,7 +62,7 @@ Define your scripts in the package.json file (In this example we are using, Ista
     "jshint",
     "coverage"
   ]
-}'''
+}
+```
 
- 
 Pre-commit will now run everytime before you commit providing that you have pre-installed the relevant modules.
