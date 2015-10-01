@@ -14,9 +14,12 @@ Then to install the env2 module
 
 Create a config.env file and add any variables that you want hidden e.g. passwords and API keys like so:
 ```
-Password = Ilovecoding
-API = 123456789
+Password=Ilovecoding
+API=123456789
 ```
+
+Please note that there can be **no spaces** in the config.env file.
+
 You need to make sure your config.env file is placed in a .gitignore file. You can do this by typing 
 
 ```echo 'config.env' >> .gitignore```
