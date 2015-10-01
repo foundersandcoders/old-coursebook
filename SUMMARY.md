@@ -28,9 +28,11 @@
 * Learning outcomes
    * [Week 1](patterns/week1/README.md)   
    * [Week 2](patterns/week2/README.md)   
+   * [Week 3](patterns/week3/README.md)   
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
+   * [Week 3](projects/week3.md)
 * [Morning challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
 * Weekend assignments
