@@ -18,7 +18,7 @@ Password=Ilovecoding
 API=123456789
 ```
 
-Please note that there can be **no spaces** in the config.env file.
+Please note there can be **no spaces** in the config.env file.
 
 You need to make sure your config.env file is placed in a .gitignore file. You can do this by typing 
 
