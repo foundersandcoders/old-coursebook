@@ -5,12 +5,14 @@
 ## Ongoing actions for FAC6 course
 + More lightning talks 
 + Create template for readmes on Tuesdays
++ Solutions for morning challenges must be put up on GitHub
 
 #### Mondays
 + 10:00 Show & Tell on cool websites and technologies the students have found
 
 #### Tuesdays
-+ Jigsaw classroom in the mornings, paired research in the afternoon
++ Provide a practical task associated with the research topics, so that you know what you're trying to achieve with the research
++ Jigsaw classroom all day, with presentations of what is ready just after lunch
 + Post projects to a readme in the morning so if people want to know what it is we can do so
 
 #### Wednesdays & Thursdays
@@ -20,6 +22,7 @@
 
 #### Fridays
 + Continue pairing to provide feedback on that week's projects
++ Whiteboard diagram walk-throughs as a chance to ask the questions from the week
 
 <br/>
 <br/>
