@@ -11,7 +11,7 @@ When creating a GPA (out of a maximum of 4), code climate considers 3 things.
 
 ### How to Implement Code Climate GPA score
 
- 1. Sign up on the [Code Climate](www.codeclimate.com) website with github account.
+ 1. Sign up on the [Code Climate](https://codeclimate.com/) website with github account.
 
  2. Authorise Code Climate to access your github account
 
