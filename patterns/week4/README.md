@@ -8,7 +8,7 @@ Work in groups of four on one of these databases:
 
 * Redis
 * MongoDB
-* SQL
+* PostgreSQL
 * LevelDB
 
 If there's another database you're interested to learn about (e.g. graph database) feel free to suggest it to the group!
