@@ -143,7 +143,7 @@ Both the keys and values are stored as simply arrays of bytes, so content can be
 ####speed;
 This database is very fast and can handle large amounts of data because it is written in the low level language C++. Google’s snappy compression library is an optional dependancy that can decrease the on disk size of levelDB stores with minimal sacrifice of speed. 
 ####scalability;
-LevelDB is scalable as the command base is small but can be added to, by adding packages from node. You can also implement something like lambada architecture which help you manage big amounts of data which allows you to query large amounts of data using batches. LevelDB structures data in a noSQL format, so you are not confined to adding data which is structured in a certain way.
+LevelDB is scalable as the command base is small but can be added to, by adding packages from node for example the map-reduce package makes it so that when you update one key, only a relevant protion of the data needs to be recalculated. You can also implement something like lambada architecture which help you manage big amounts of data which allows you to query large amounts of data using batches. LevelDB structures data in a noSQL format, so you are not confined to adding data which is structured in a certain way.
 ####data Structure;
 LevelDB provides a highly transparent, light-weight foundation for you to compose higher-level features on top of. For example npm level-js allows you to have the same code running no the server side and the client side so you can see the result of your console.log from the browser.
 ####query performance;
