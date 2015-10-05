@@ -1,3 +1,5 @@
+We highly recommend going through [this tutorial](http://try.redis.io/) before reading the below to give you a good handle on Redis terminology and syntax. Takes roughly 30 mins.
+
 ## When to use Redis?
 
 - Caching - because of its speed. Redis can store any size of string, it can store any content you need to serve in your app; from simple components to entire pages
@@ -40,7 +42,7 @@ Pointing to the correct directory in your terminal for your project. Here are th
 		cd redis-stable
 		make
 		```
-		
+
 ### Windows/ Virtual box
 
 If you are using windows or a virtual box creating a development environment you may wish to use Vagrant [click here ](https://github.com/docdis/learn-redis) for instructions.
