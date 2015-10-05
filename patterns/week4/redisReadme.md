@@ -121,4 +121,4 @@ RSVP to these two events!
 * npm modules https://www.npmjs.com/package/redis
 * Definition of TCP. http://searchnetworking.techtarget.com/definition/TCP
 
-![photo](http://giphy.com/gifs/pokemon-celebration-hooray-MhHXeM4SpKrpC)
+![](https://media.giphy.com/media/MhHXeM4SpKrpC/giphy.gif)
