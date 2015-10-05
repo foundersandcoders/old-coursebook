@@ -65,3 +65,71 @@ graph data bases are another way of storing data using NoSQL, everything is stor
 | Predefined Schema | Dynamic schema for unstructured data |
 | | Better fit for hierarchical data storage. |
 | | Preferred for large data sets (big data). |
+
+
+# How to use LevelDB
+
+Before downloading make sure you have a package.json file.
+
+Download LevelDB ```npm install level --save```.
+This saves it to your package.json under dependencies.
+
+To use LevelDB in your index.js file and create a database:
+```
+var level = require('level')
+var db = level('./db')
+```
+
+Then type ```node index.js``` into command line and it will create the db folder.
+
+The basic operations are put(key,value), get(key), delete(key).
+
+Because LevelDB is a key/value data store, every key has to be unique! If they are not the most recent key will overwrite the last.
+
+To put data into this database:
+
+```
+db.put('sport','football', function(err) {
+    if (err) {
+      console.log ('Erorr!')
+    }
+    else {
+      console.log("It worked!")
+    }
+})
+```
+
+Where 'sport' refers to the key and 'football' refers to the value. Then running ```node index.js``` in your command line will add this to the database. Note: nothing will show up in the command line when you do this.
+
+To get this data from the database:
+
+```
+db.get('sport', function(err, sport) {
+  console.log(sport)
+  })
+```
+
+Now running ```node index.js``` in the command line should print out the value 'football'.
+
+To delete from the database:
+```
+db.del('sport', function (err) {
+
+})
+```
+
+You can specify a value encoding e.g.
+```
+var db = level('./db', { valueEncoding: 'json' })
+```
+This means the value does not have to be a string but instead can look like:
+```
+db.put('sport', { type: 'football', score: '3-1' }, function(err) {
+  db.get('sport', function (err, sport) {
+    console.log(sport.score);
+  });
+});
+```
+Now running ```node index.js``` will print out '3-1'.
+
+Recommended video to watch: https://www.youtube.com/watch?v=sR7p_JbEip0
