@@ -78,7 +78,7 @@ Congratulations you have installed Redis!!!
  - create client
  - set your key-pair value to the client (note the use of redis command **'set'**)  
 
- #####In this example "Hello" is the key and "World" is the value of that key.
+ #####In this example "Username" is the key and "Tom" is the value of that key.
 
  - call the key-pair value using the **'get'** method on client. The value of the key is going to be represented as 'reply'.
 
@@ -86,9 +86,9 @@ Congratulations you have installed Redis!!!
  var redis  = require("redis");
  var client = redis.createClient();
 
- client.set("Hello", "World", redis.print);
+ client.set("Username", "Tom", redis.print);
 
- client.get("Hello", function(err, reply) {
+ client.get("Username", function(err, reply) {
     // reply is null when the key is missing
     console.log('Hello ' + reply);
  });          
@@ -111,6 +111,7 @@ Interested in meeting the brains behind Redis? and talking all things Redis?
 RSVP to these two events!
 
 [2nd Annual Redis Developer Day](https://www.eventbrite.com/e/2nd-annual-redis-developer-day-tickets-18073905538)
+
 [2nd Annual Redis unConference](https://www.eventbrite.com/e/2nd-annual-redis-unconference-tickets-18652995612)
 
 ## Resources
