@@ -99,6 +99,8 @@ Congratulations you have installed Redis!!!
 3. Save the file and start the server **in a separate terminal tab**:  ```redis-server```
 
 4. Run the file in the terminal: ```node basic.js```
+   
+For further examples of Node syntax for using Redis take a look a this [tutorial](http://www.sitepoint.com/using-redis-node-js/)
 
 ![console.log](https://files.gitter.im/Jbarget/Tbs1/Screen-Shot-2015-10-05-at-16.29.11.png)
 
@@ -117,7 +119,7 @@ RSVP to these two events!
 [2nd Annual Redis unConference](https://www.eventbrite.com/e/2nd-annual-redis-unconference-tickets-18652995612)
 
 ## Resources
-
+* [Great guide with Redis commands for Node](http://www.sitepoint.com/using-redis-node-js/)
 * [Tutorial on Redis](https://github.com/docdis/learn-redis)
 * [Redis's quickstart guide with latest version of Redis](http://redis.io/topics/quickstart)
 * [Redis data types](http://redis.io/topics/data-types)
