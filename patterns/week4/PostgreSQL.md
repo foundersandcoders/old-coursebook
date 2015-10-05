@@ -292,3 +292,7 @@ It can be very useful to use an ORM when using SQL databases in a Node project. 
 We understand the bookshelf.js is the best one to go with.
 
 ### Heroku integration
+
+// No references (!!!!!!!!!!!!!!!!!!!!!!!!!) (idiots)
+
+// Get it working with node(!!!!!!!!!!!)
