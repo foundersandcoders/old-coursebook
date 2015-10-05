@@ -2,7 +2,7 @@ We highly recommend going through [this tutorial](http://try.redis.io/) before r
 
 ## When to use Redis?
 
-- Caching - because of its speed. Redis can store any size of string, it can store any content you need to serve in your app; from simple components to entire pages
+- Caching - because of its speed. Redis can store huge string sizes and can store any content you need to serve in your app; from simple components to entire pages
 
 - List online people in a chat application the list of people/devices that are connected changes frequently (as people join/leave).
 
@@ -118,12 +118,13 @@ RSVP to these two events!
 
 ## Resources
 
-* Tutorial on Redis https://github.com/docdis/learn-redis
-* Redis's quickstart guide with latest version of Redis http://redis.io/topics/quickstart
-* Intro to Redis Commands http://try.redis.io/
-* Learn Vagrant to setup developer environment https://github.com/dwyl/learn-vagrant
-* npm modules https://www.npmjs.com/package/redis
-* Definition of TCP. http://searchnetworking.techtarget.com/definition/TCP
+* [Tutorial on Redis](https://github.com/docdis/learn-redis)
+* [Redis's quickstart guide with latest version of Redis](http://redis.io/topics/quickstart)
+* [Redis data types](http://redis.io/topics/data-types)
+* [Intro to Redis Commands](http://try.redis.io/)
+* [Learn Vagrant to setup developer environment](https://github.com/dwyl/learn-vagrant)
+* [npm modules](https://www.npmjs.com/package/redis)
+* [Definition of TCP.](http://searchnetworking.techtarget.com/definition/TCP)
 
 **Vote for us, for RMOTW**
 
