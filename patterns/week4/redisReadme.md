@@ -36,12 +36,12 @@ Installing Redis has two dependencies, a working GCC compiler and libc as Redis 
 Pointing to the correct directory in your terminal for your project. Here are the commands to be entered in command line for getting the latest version of Redis. Full instructions can be found on Redis website.
 [click here](http://redis.io/topics/quickstart)
 
-		```
-		wget http://download.redis.io/redis-stable.tar.gz
-		tar xvzf redis-stable.tar.gz
-		cd redis-stable
-		make
-		```
+```bash
+wget http://download.redis.io/redis-stable.tar.gz
+tar xvzf redis-stable.tar.gz
+cd redis-stable
+make
+```
 
 ### Windows/ Virtual box
 
