@@ -135,8 +135,9 @@ If you are using windows or a virtual box creating a development environment you
 There are a number of npm modules you can install to use with Redis.
 Two recommended node modules are:  
 
-https://www.npmjs.com/package/redis 
-https://github.com/redis/hiredis-node
+https://www.npmjs.com/package/redis.
+
+https://github.com/redis/hiredis-node.
 
 The commands needed to install both modules are : 
 
