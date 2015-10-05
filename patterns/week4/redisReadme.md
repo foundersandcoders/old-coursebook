@@ -1,4 +1,4 @@
-## When to use REDIS?
+## When to use Redis?
 
 - Caching - because of its speed. Redis can store any size of string, it can store any content you need to serve in your app; from simple components to entire pages
 
@@ -10,7 +10,7 @@
 
 - If you need really high performance. Beating the performance Redis provides is nearly impossible
 
-## Who uses REDIS?
+## Who uses Redis?
 
 - Instagram uses Redis heavily to run their main feed, activity feed and session store
 
@@ -120,3 +120,5 @@ RSVP to these two events!
 * Learn Vagrant to setup developer environment https://github.com/dwyl/learn-vagrant
 * npm modules https://www.npmjs.com/package/redis
 * Definition of TCP. http://searchnetworking.techtarget.com/definition/TCP
+
+![photo](http://giphy.com/gifs/pokemon-celebration-hooray-MhHXeM4SpKrpC)
