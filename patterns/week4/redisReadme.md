@@ -14,15 +14,15 @@
 
 - Instagram uses Redis heavily to run their main feed, activity feed and session store
 
-- Github – Github is using Redis for exception handling and queue management
+- Github – Github is using Redis for exception handling and queue management.
 
 - Stack Overflow uses Redis as a caching layer for their entire network.
+ 
+- Pinterest is a heavy user of Redis. They use it for their follower model, which is their graph of who is      following whom.
 
-Pinterest is a heavy user of Redis. They use it for their follower model, which is their graph of who is following whom
+- Twitter makes heavy use of Redis, and has open-sourced some of the projects they built internally to take advantage of Redis.
 
-Twitter makes heavy use of Redis, and has open-sourced some of the projects they built internally to take advantage of Redis
-
-Tumblr uses Redis to power dashboard notifications for their tens of millions of users
+- Tumblr uses Redis to power dashboard notifications for their tens of millions of users.
 
 
 ##Guide to Installing Redis.
