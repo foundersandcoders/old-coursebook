@@ -1,4 +1,4 @@
-### When to use REDIS?
+## When to use REDIS?
 
 - Caching - because of its speed. Redis can store any size of string, it can store any content you need to serve in your app; from simple components to entire pages
 
@@ -10,7 +10,7 @@
 
 - If you need really high performance. Beating the performance Redis provides is nearly impossible
 
-### Who uses REDIS?
+## Who uses REDIS?
 
 - Instagram uses Redis heavily to run their main feed, activity feed and session store
 
@@ -25,12 +25,12 @@ Twitter makes heavy use of Redis, and has open-sourced some of the projects they
 Tumblr uses Redis to power dashboard notifications for their tens of millions of users
 
 
-###Guide to Installing Redis.
+##Guide to Installing Redis.
 
 There are two ways of installing Redis which is open source software. 
 Installing Redis has only two dependencies, a working GCC compiler and libc as Redis is written in C.
 
-#### Linux/Mac
+### Linux/Mac
 
 Pointing to the correct directory in your terminal for your project. Here are the commands to be entered in command line for getting the latest version of Redis. Full instructions can be found on Redis website.
 [click here](http://redis.io/topics/quickstart)
@@ -40,7 +40,7 @@ Pointing to the correct directory in your terminal for your project. Here are th
 		cd redis-stable
 		make```
 		
-#### Windows/ Virtual box
+### Windows/ Virtual box
 
 If you are using windows or a virtual box creating a development environment you may wish to use Vagrant [click here ](https://github.com/docdis/learn-redis) for instructions.
 
@@ -68,7 +68,7 @@ PONG```
 
 Congratulations you have installed Redis!!!
 
-###Using Redis with Node.js
+##Using Redis with Node.js
 
 1. Create a javascript file eg. basic.js  
 
@@ -77,7 +77,7 @@ Congratulations you have installed Redis!!!
  - create client
  - set your key-pair value to the client (note the use of redis command **'set'**)  
 
- ######In this example "Hello" is the key and "World" is the value of that key.
+ #####In this example "Hello" is the key and "World" is the value of that key.
 
  - call the key-pair value using the **'get'** method on client. The value of the key is going to be represented as 'reply'.
 
@@ -100,6 +100,14 @@ Congratulations you have installed Redis!!!
 ![console.log](https://files.gitter.im/Jbarget/Tbs1/Screen-Shot-2015-10-05-at-16.29.11.png)
 
 
-### Exporting the database
+## Exporting the database
 
 If you need to export your current database or use an existing database with your server we recommend following [this tutorial](http://redis4you.com/articles.php?id=005&name=Seamless+migration+from+one+Redis+server+to+another) 
+## Resources
+
+Tutorial on Redis https://github.com/docdis/learn-redis
+Redis's quickstart guide with latest version of Redis http://redis.io/topics/quickstart
+Intro to Redis Commands http://try.redis.io/
+Learn Vagrant to setup developer environment https://github.com/dwyl/learn-vagrant
+npm modules https://www.npmjs.com/package/redis
+Definition of TCP. http://searchnetworking.techtarget.com/definition/TCP
