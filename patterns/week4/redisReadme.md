@@ -18,7 +18,7 @@
 
 - Stack Overflow uses Redis as a caching layer for their entire network.
  
-- Pinterest is a heavy user of Redis. They use it for their follower model, which is their graph of who is      following whom.
+- Pinterest is a heavy user of Redis. They use it for their follower model, which is their graph of who is following whom.
 
 - Twitter makes heavy use of Redis, and has open-sourced some of the projects they built internally to take advantage of Redis.
 
@@ -52,7 +52,7 @@ Two recommended node modules are:
 
 https://www.npmjs.com/package/redis.
 
-https://github.com/redis/hiredis-node.
+https://github.com/redis/hiredis-node. (hiredis-node is a Javascript wrapper which allows us to use Javascript syntax on Redis, even though Redis is written in C)
 
 The commands needed to install both modules are : 
 
