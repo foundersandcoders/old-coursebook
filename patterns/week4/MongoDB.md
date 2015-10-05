@@ -40,6 +40,14 @@ We found a _verrrrry_ useful table:
 ### How does MongoDB store information?
 MongoDB is a NoSQL, document based database. The smallest unit is a _document_, a number of which is formed into _collections_, which in turn make up a _database_. Not every document has to have the same structure, in keeping with the NoSQL style, and one major appeal of MongoDB is that fields in a document can store _arrays_ or _sub-documents_.
 
+A Document! 
+
+![document](https://files.gitter.im/foundersandcoders/databases/xWoB/Document.png)
+
+A Collection! 
+
+![collection](https://files.gitter.im/foundersandcoders/databases/6KpM/Collection.png)
+
 ### What are the different data types that can be stored?
 
 * Strings
@@ -56,18 +64,17 @@ BSON is a data interchange format used within MongoDB, and is based on __JSON__.
 ### What are the advantages and disadvantages of this database?
 * Speed- MongoDB is generally fast, but the way how you structure and index your documents and collections has a big influence on the performance of your application, so care should be taken here
 * Schema-less- MongoDB is a document database, as mentioned above in which one collection holds a number of different documents
-* Flexible - the number of fields, content and size of the document can change
+* Flexible- the number of fields, content and size of the document can change
 * Structure of a single object is clear
-* No complex joins - where joines can be complex in SQL
-* Deep query ability - MongoDB supports dynamic queries on documents. The user can save, query
+* No complex joins- where joins can be complex in SQL
+* Deep query ability- MongoDB supports dynamic queries on documents. The user can save, query
 and retrieve data as BSON
 * Easy scalability
 * Internal memory is used for storing the working set, eliciting faster access of data
 
-
 ### What application areas is it suitable for?
 Below are some examples of its uses and reasons for why MongoDB is suited to the task:
-#### High volume data feeds
+##### High volume data feeds
 * Machine Generated Data
   * More Machines, more sensors, more data
   * Multiple types of structure
@@ -77,21 +84,21 @@ Below are some examples of its uses and reasons for why MongoDB is suited to the
   * Multiple sources of data
   * Constant changes in format
 
-#### Product Data
+##### Product Data
 * E-Commerce sites
   * Involves diverse product portfolios
   * Requires complex querying and filtering
 * Flash Sales
   * Scales for short bursts of high-volume traffic
 
-#### Content Management
+##### Content Management
 * News sites
   * Suits comments and user generated content
   * Suits personalisation of content and layout
 
-#### User Data Management
+##### User Data Management
 * Video Games
-  * User state and session management
+  * User state and session management (Used by the FIFA video game series!)
 
 ### Who is using MongoDB and what are they using it for?
 * LinkedIn is for their backend DB, where they use Voldemort for other areas of their stack. MongoDB is useful here as user profiles can differ hugely in their content, and the site needs to handle large amount of varied search traffic
@@ -100,7 +107,7 @@ Below are some examples of its uses and reasons for why MongoDB is suited to the
 
 ### How do you install MongoDB?
 
-Here are the links that worked for us!
+Here are the links that worked for us:
 
 Walkthrough for Ubuntu [here](http://www.liquidweb.com/kb/how-to-install-mongodb-on-ubuntu-14-04/),
 and their official one [here](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/).
@@ -119,23 +126,23 @@ In another window, begin the MongoDB shell with the command:
 
 >``mongod  --shell``
 
-The database is now accessible from the command line. One can also access MongoDB  through node using the instructions for npm module below.
+The database is now accessible from the command line. One can also access MongoDB  through node using the instructions for npm module below. You may need to use ``sudo`` if you have permission problems. 
 
 
 ##### Sidenote!
 When importing the test database into MongoDB, you need to change into the directory where your .json data file is saved before you run the ``mongo import`` command. Run it in your command line, not the mongo shell.
 
-### Which npm module should you use for this database?
-MongoDB uses one _very_ originally called ``mongodb``. Follow the walkthrough [here](https://docs.mongodb.org/getting-started/node/client/).
+### Which npm module should you use for MongoDB?
+MongoDB uses one _very originally_ called ``mongodb``. Follow the walkthrough [here](https://docs.mongodb.org/getting-started/node/client/).
 
-### How do you host the database on heroku?
+### How do you host MongoDB on heroku?
 Please follow the link [here](https://github.com/FAC6/book/blob/master/patterns/week3/hostApplicationHeroku.md ) for deploying to Heroku.
 
-After this step is completed, you should add the MongoLab add-on:
-1. Go to your Dashboard and click on the app just created by you
-2. Open the Resources tab and then add a new add-on by…
-3. Clicking on EDIT or PLUS button under Add-ons session
-4. Search for MongoLab, and add it!
+After this step is completed, you should add the MongoLab add-on:  
+1. Go to your Dashboard and click on the app just created by you  
+2. Open the Resources tab and then add a new add-on by…  
+3. Clicking on EDIT or PLUS button under Add-ons session  
+4. Search for MongoLab, and add it!  
 
 The MongoLab add-on contributes one config variable to your Heroku environment: MONGOLAB_URI. This variable is a URI containing all the MongoDB connection information needed to connect to your database.
 
