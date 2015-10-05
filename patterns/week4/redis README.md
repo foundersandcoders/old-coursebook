@@ -153,3 +153,39 @@ The first thing to do in order to check if Redis is working properly is sending 
 PONG```
 
 Congratulations you have installed Redis!!!
+
+##Using Redis with Node.js
+
+1. Create a javascript file eg. basic.js  
+
+2. In the basic.js file:
+ - require redis
+ - create client
+ - set your key-pair value to the client (note the use of redis command **'set'**)  
+
+ #####In this example "Hello" is the key and "World" is the value of that key.
+
+ - call the key-pair value using the **'get'** method on client. The value of the key is going to be represented as 'reply'.
+
+ ```javascript
+ var redis  = require("redis");
+ var client = redis.createClient();
+
+ client.set("Hello", "World", redis.print);
+
+ client.get("Hello", function(err, reply) {
+    // reply is null when the key is missing
+    console.log('Hello ' + reply);
+ });          
+ ```
+
+3. Save the file and start the server **in a separate terminal tab**:  ```redis-server```
+
+4. Run the file in the terminal: ```node basic.js```
+
+![console.log](https://files.gitter.im/Jbarget/Tbs1/Screen-Shot-2015-10-05-at-16.29.11.png)
+
+
+## Exporting the database
+
+If you need to export your current database or use an existing database with your server we recommend following [this tutorial](http://redis4you.com/articles.php?id=005&name=Seamless+migration+from+one+Redis+server+to+another) 
