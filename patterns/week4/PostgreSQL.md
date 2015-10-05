@@ -208,7 +208,7 @@ PostgreSQL is an object-relational database management system.
 
 #### MacOS
 
-Go to http://www.postgresapp.com and follow the instructions to install PostgreSQL on Mac.
+Go to http://www.postgresapp.com and follow the instructions to install PostgreSQL on Mac. We recommend using this link to download over homebrew, it was much easier.
 
 #### Linux
 
@@ -286,6 +286,25 @@ This command joins the table *directors* to the table *films* selecting all film
 
 ### Integration with Node
 
+##PG Tips Library
+Using PostgresSQL can be used with node with the ["pg"] (https://www.npmjs.com/package/pg module). 
+
+Below is an example of using the 'pg' module to connect to a postgreSQL database and add a table.
+```
+var pg = require('pg');
+var connectionString = process.env.DATABASE_URL || 'postgres://localhost:5432/todo';
+// the client method from pg module connects a single client to a postgres instance, run some queries, and disconnect.
+var client = new pg.Client(connectionString); 
+var query = client.query('CREATE TABLE items(id SERIAL PRIMARY KEY, text VARCHAR(40) not null, complete BOOLEAN)'); //adding the SQL to creat table in database
+query.on('end', function() { client.end(); });
+```
+
+
+The link below is to a short tutorial on creating a simple app using node and postgreSQL database, that we found useful.
+http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.VhJKDbRVikp
+
+https://github.com/brianc/node-postgres worth visiting the github page of the creator of the 'pg' module, note that there are quite a few open issues at the moment.
+
 #### Object Relational Mapping
 
 It can be very useful to use an ORM when using SQL databases in a Node project. Using an ORM allows you to create, query and manage your SQL database in Node using javascript.
@@ -295,4 +314,4 @@ We understand the bookshelf.js is the best one to go with.
 
 // No references (!!!!!!!!!!!!!!!!!!!!!!!!!) (idiots)
 
-// Get it working with node(!!!!!!!!!!!)
+
