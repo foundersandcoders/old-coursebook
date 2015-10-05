@@ -105,9 +105,9 @@ Congratulations you have installed Redis!!!
 If you need to export your current database or use an existing database with your server we recommend following [this tutorial](http://redis4you.com/articles.php?id=005&name=Seamless+migration+from+one+Redis+server+to+another) 
 ## Resources
 
-Tutorial on Redis https://github.com/docdis/learn-redis
-Redis's quickstart guide with latest version of Redis http://redis.io/topics/quickstart
-Intro to Redis Commands http://try.redis.io/
-Learn Vagrant to setup developer environment https://github.com/dwyl/learn-vagrant
-npm modules https://www.npmjs.com/package/redis
-Definition of TCP. http://searchnetworking.techtarget.com/definition/TCP
+*Tutorial on Redis https://github.com/docdis/learn-redis
+*Redis's quickstart guide with latest version of Redis http://redis.io/topics/quickstart
+*Intro to Redis Commands http://try.redis.io/
+*Learn Vagrant to setup developer environment https://github.com/dwyl/learn-vagrant
+*npm modules https://www.npmjs.com/package/redis
+*Definition of TCP. http://searchnetworking.techtarget.com/definition/TCP
