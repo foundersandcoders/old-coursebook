@@ -145,7 +145,17 @@ This database is very fast and can handle large amounts of data because it is wr
 ####scalability;
 LevelDB is scalable as the command base is small but can be added to, by adding packages from node for example the map-reduce package makes it so that when you update one key, only a relevant protion of the data needs to be recalculated. You can also implement something like lambada architecture which help you manage big amounts of data which allows you to query large amounts of data using batches. LevelDB structures data in a noSQL format, so you are not confined to adding data which is structured in a certain way.
 ####data Structure;
-LevelDB provides a highly transparent, light-weight foundation for you to compose higher-level features on top of. For example npm level-js allows you to have the same code running no the server side and the client side so you can see the result of your console.log from the browser.
+LevelDB provides a highly transparent, light-weight foundation for you to compose higher-level features on top of.
+
+There is only one table in LevelDB. To store different types of data you need to express a hierarchy in the key names. As the keys in level are stored in unicode order, the ‘~’ (tilde) character seems to be a good choice for separating parts of a key, like this:
+
+customers~customer1~orders~
+
+You can then retrieve all orders for customer1 using this range (use this for the options object in the previous example):
+
+{start:'customers~customer1~', end: 'customers~customer1~~'};
+
+The double tilde as the end of the range ensures you get all the orders for ‘customer1’. 
 ####query performance;
 callers can provide a custom comparison function to override the sort order. One limitation is that this is not an SQL database, so the data model is not relational, this means that SQL language cant be used to query the data. 
 
