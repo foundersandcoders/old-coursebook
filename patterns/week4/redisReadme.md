@@ -27,18 +27,19 @@ Tumblr uses Redis to power dashboard notifications for their tens of millions of
 
 ##Guide to Installing Redis.
 
-There are two ways of installing Redis which is open source software. 
-Installing Redis has only two dependencies, a working GCC compiler and libc as Redis is written in C.
+Installing Redis has two dependencies, a working GCC compiler and libc as Redis is written in C.
 
 ### Linux/Mac
 
 Pointing to the correct directory in your terminal for your project. Here are the commands to be entered in command line for getting the latest version of Redis. Full instructions can be found on Redis website.
 [click here](http://redis.io/topics/quickstart)
 
-		```wget http://download.redis.io/redis-stable.tar.gz
+		```
+		wget http://download.redis.io/redis-stable.tar.gz
 		tar xvzf redis-stable.tar.gz
 		cd redis-stable
-		make```
+		make
+		```
 		
 ### Windows/ Virtual box
 
