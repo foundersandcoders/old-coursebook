@@ -40,11 +40,11 @@ We found a _verrrrry_ useful table:
 ### How does MongoDB store information?
 MongoDB is a NoSQL, document based database. The smallest unit is a _document_, a number of which is formed into _collections_, which in turn make up a _database_. Not every document has to have the same structure, in keeping with the NoSQL style, and one major appeal of MongoDB is that fields in a document can store _arrays_ or _sub-documents_.
 
-A Document! 
+##### A Document! 
 
 ![document](https://files.gitter.im/foundersandcoders/databases/xWoB/Document.png)
 
-A Collection! 
+##### A Collection! 
 
 ![collection](https://files.gitter.im/foundersandcoders/databases/6KpM/Collection.png)
 
