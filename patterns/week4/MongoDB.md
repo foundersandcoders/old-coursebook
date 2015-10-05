@@ -122,7 +122,7 @@ In another window, begin the MongoDB shell with the command:
 The database is now accessible from the command line. One can also access MongoDB  through node using the instructions for npm module below.
 
 
-###### Sidenote!
+##### Sidenote!
 When importing the test database into MongoDB, you need to change into the directory where your .json data file is saved before you run the ``mongo import`` command. Run it in your command line, not the mongo shell.
 
 ### Which npm module should you use for this database?
