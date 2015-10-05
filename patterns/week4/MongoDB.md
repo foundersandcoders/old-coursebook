@@ -29,6 +29,8 @@ In short, relational databases are linked by virtual keys or IDs between tables 
 
 ## What is the difference between an SQL and NoSQL database?
 
+We found a _verrrrry_ useful table: 
+
 ![SQL vs NoSQL table](https://files.gitter.im/foundersandcoders/databases/KfA0/rsz_sqlvsnosql.png)
 
  * NoSQL doesn’t necessarily mean there is no SQL, it means ‘not only’ SQL
