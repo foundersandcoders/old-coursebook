@@ -27,6 +27,16 @@ For the specific database you're working on do some research about these topics:
 * [ ] What application areas is it suitable for?
 * [ ] Who else is using it and what are they using it for? 
 
+
+* [ ] How do you install the database? 
+* [ ] How do you access the database from the command line?
 * [ ] Which npm module should you use for this database?
 * [ ] How do you host the database on heroku?
+
+
+## Your task: Write a README summarising your research on these questions. 
+
+## Stretch goal: present a working demo showing how to add to the database from an HTML form.
+
+
  
