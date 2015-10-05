@@ -2,24 +2,30 @@
 
 A database describes the structure in which data can be stored and accessed.
 
-# why do we need them?
+# Why do we need them?
 
 **Size**
- - Databases allow you to manipulate large amounts of data without opening up a large spreadsheet - if you had 2 million lines of data you wouldn't be able to open it in a spreadsheet.
+
+Databases allow you to manipulate large amounts of data without opening up a large spreadsheet - if you had 2 million lines of data you wouldn't be able to open it in a spreadsheet.
 
 **Ease of Updating**
+
 Multiple people can update at any one time, changes won't be over written,
 
 **Accuracy**
+
 Rules can be applied to ensure consistency - e.g. defining the format of dates, and how they are inputted.  
 
 **Security**
+
 You can determine who has what 'rights' - i.e. control who can view and/or edit files. This is important because it is required by law in many area and professions.
 
 **Redundancy**
+
 Redundancy can be eliminated to give consistent data. For example you do not want, and therefore should not have exactly the same product in two places within the database, as this could lead to conflicts.
 
 **Importance**
+
 If there is a crash files are automatically backed up.
 
 
@@ -43,12 +49,19 @@ It stands for Structured Query Language. it s a declarative query language, whic
 SQL uses the CRUD (create, read, update, delete),
 The acronym CRUD refers to all of the major functions that are implemented in relational database applications. Each letter in the acronym can map to a standard SQL statement, HTTP method or DDS operation:
 
-| #  | #  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+![screenshot from 2015-10-05 14 48 24](https://cloud.githubusercontent.com/assets/13470325/10281996/2ce3dbb0-6b70-11e5-89d7-8bd340e5fb9c.png)
 
 NoSQL (not only SQL)
 Typically does not use SQL but may support the language. There is no predefined schema this means that data can be added to the data base in any format. Documents can be stored instead of just updating columns and rows as you would in relational database. You can store data of different compositions i.e. a string or an object. Each document you add to the database has a unique ID.
 key values stores are a way of storing data, you have a two column table, with keys in one column with any type of value in the other i.e. string, object ect.
 graph data bases are another way of storing data using NoSQL, everything is stored as connected nodes, located in, works in, manages, reports to,  
+
+| **SQL**  | **NoSQL**  |
+| ------------- | ------------- |
+| Good fit for complex queries (powerful) | Simplicity of Design |
+| Vertically scalable | Horizontally scalable  |
+| Scale by increasing hardware horse-power | Scaled by increasing the number of database servers |
+| More stable → Better fit for heavy duty, transactional type applications | Partition Tolerance <br> ‘Eventually’ consistent - i.e. database changes are propagated to all nodes eventually. <br> ...data loss happens though - not stable enough |
+| Predefined Schema | Dynamic schema for unstructured data |
+| | Better fit for hierarchical data storage. |
+| | Preferred for large data sets (big data). |
