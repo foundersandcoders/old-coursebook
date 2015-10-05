@@ -11,6 +11,9 @@
    * [Playbook](about/playbook.md)
 * [Giving back](giving/README.md)
 * [Business development](business/README.md)
+  * [You](business/you.md) 
+  * [Employers](business/jobs.md) 
+  * [Projects](business/projects.md) 
 * Timetable
    * Week 1
       * [Day 1](timetable/week1/day1.md) 
@@ -25,9 +28,11 @@
 * Learning outcomes
    * [Week 1](patterns/week1/README.md)   
    * [Week 2](patterns/week2/README.md)   
+   * [Week 3](patterns/week3/README.md)   
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
+   * [Week 3](projects/week3.md)
 * [Morning challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
 * Weekend assignments

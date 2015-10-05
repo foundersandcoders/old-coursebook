@@ -1,27 +1,26 @@
-# Week 2
+# Week 3
 
 ## Monday
-10:00 Show & Tell from students    
+10:00 Show & Tell from students [forgot this one!]    
 10:20 Workshop  
 18:30 Coding for everyone
 
 ## Tuesday
-10:00 Jigsaw classroom  
-12:00 Research presentations  
-14:00 Coding challenge  
-15:00 Paired research    
-16:30 Research presentations    
-17:30 [@katpas](https://github.com/katpas) talk on F&C business development
+10:00 Morning challenge    
+11:15 Jigsaw classroom
+14:30 Jigsaw interim reports  
+17:00 Jigsaw presentations    
+[Note: we reverted to whole day Jigsaw groups this week] 
 
 ## Wednesday
 10:00 Morning challenge    
-11:00 Project    
-18:00 Write your biggest learning from today on the wall    
+11:15 Project    
+17:45 Learning points review    
 
 ## Thursday
-10:00 Project 
+10:00 Project    
 12:00 Mid project code reviews     
-18:00 Write your biggest learning from today on the wall
+17:45 Learning points review    
 
 ## Friday
 10:30 Code reviews    

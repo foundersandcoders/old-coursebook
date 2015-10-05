@@ -36,7 +36,8 @@ Do not hesitate to plunder material from previous courses and do not take on mor
 ## Contact time
 
 ### Monday
-10:00 Workshop    
+10:00 Weekend discoveries  
+10:30 Workshop    
 17:00 Introduce invited speaker    
 
 ### Tuesday
