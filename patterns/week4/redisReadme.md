@@ -103,6 +103,15 @@ Congratulations you have installed Redis!!!
 ## Exporting the database
 
 If you need to export your current database or use an existing database with your server we recommend following [this tutorial](http://redis4you.com/articles.php?id=005&name=Seamless+migration+from+one+Redis+server+to+another) 
+
+## Meet the Redis team!
+
+Interested in meeting the brains behind Redis? and talking all things Redis?
+RSVP to these two events!
+
+[2nd Annual Redis Developer Day](https://www.eventbrite.com/e/2nd-annual-redis-developer-day-tickets-18073905538)
+[2nd Annual Redis unConference](https://www.eventbrite.com/e/2nd-annual-redis-unconference-tickets-18652995612)
+
 ## Resources
 
 * Tutorial on Redis https://github.com/docdis/learn-redis
