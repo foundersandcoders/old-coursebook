@@ -26,6 +26,7 @@ For the specific database you're working on do some research about these topics:
 * [ ] What are the advantages and disadvantages of this database? e.g. speed, scalability, data structure, query performance
 * [ ] What application areas is it suitable for?
 * [ ] Who else is using it and what are they using it for? 
+* [ ] What other databases is it similar to?
 
 
 * [ ] How do you install the database? 
