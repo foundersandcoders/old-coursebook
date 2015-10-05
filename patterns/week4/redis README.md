@@ -126,11 +126,11 @@ Pointing to the correct directory in your terminal for your project. Here are th
 		cd redis-stable
 		make```
 		
-## Windows/ Virtual box
+# Windows/ Virtual box
 
 If you are using windows or a virtual box creating a development environment you may wish to use Vagrant [click here ](https://github.com/docdis/learn-redis) for instructions.
 
-## Which Node Modules ?  
+# Which Node Modules ?  
 
 There are a number of npm modules you can install to use with Redis.
 Two recommended node modules are:  
@@ -143,7 +143,7 @@ The commands needed to install both modules are :
 
 ```npm install redis hiredis --save```
 
-## Check if Redis is working
+# Check if Redis is working
 
 External programs talk to Redis using a [TCP](http://searchnetworking.techtarget.com/definition/TCP) socket and a Redis specific protocol. This protocol is implemented in the Redis client libraries for the different programming languages. However to make hacking with Redis simpler Redis provides a command line utility that can be used to send commands to Redis. This program is called redis-cli.
 The first thing to do in order to check if Redis is working properly is sending a PING command using redis-cli (Note you need to open a new terminal window for this and the redis needs to be running ```redis-server```).
