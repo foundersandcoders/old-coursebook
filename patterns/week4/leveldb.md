@@ -1,8 +1,10 @@
-# What are databases?
+#LevelBD
+
+## What are databases?
 
 A database describes the structure in which data can be stored and accessed.
 
-# Why do we need them?
+## Why do we need them?
 
 **Size**
 
@@ -30,7 +32,7 @@ If there is a crash files are automatically backed up.
 
 
 
-# What is a relational database?
+## What is a relational database?
 
 A relational database is built up of data in tabular forms.
 
@@ -41,7 +43,7 @@ For example you may have a table for customer information and a table for employ
 With a relational database you can get a row using a key, which is a unique value e.g. social security number, repetition will be disallowed. This unique key could have a computer generated number(synthetic key/ surrogate key).
 
 
-# What is the difference between an SQL and NoSQL database?
+## What is the difference between an SQL and NoSQL database?
 
 SQL
 It stands for Structured Query Language. it s a declarative query language, which used to make queries in databases these tend to be relational databases. You start by writing what you want in broad terms so the algorithm is not specify written out, i.e. select all books over 40 pounds is written as select* from books where list price > £40.
@@ -132,4 +134,37 @@ db.put('sport', { type: 'football', score: '3-1' }, function(err) {
 ```
 Now running ```node index.js``` will print out '3-1'.
 
+###How does the DB store information? 
+LevelDB uses a key / value data store. Keys are sorted lexicographically, this is useful when querying. The basic operations which levelDB uses are Get() Put() Del() and Batch(), these operations manipulate your database a similar way to http requests. The Batch operation links a series of the other operations together, it will either fail or succeed. 
+
+###What are the different data types that can be stored? e.g. strings, lists, hashes, sets
+Both the keys and values are stored as simply arrays of bytes, so content can be anything from strings to binary.
+###What are the advantages and disadvantages of this database? 
+####speed;
+This database is very fast and can handle large amounts of data because it is written in the low level language C++. Google’s snappy compression library is an optional dependancy that can decrease the on disk size of levelDB stores with minimal sacrifice of speed. 
+####scalability;
+LevelDB is scalable as the command base is small but can be added to, by adding packages from node. You can also implement something like lambada architecture which help you manage big amounts of data which allows you to query large amounts of data using batches. LevelDB structures data in a noSQL format, so you are not confined to adding data which is structured in a certain way.
+####data Structure;
+LevelDB provides a highly transparent, light-weight foundation for you to compose higher-level features on top of. For example npm level-js allows you to have the same code running no the server side and the client side so you can see the result of your console.log from the browser.
+####query performance;
+callers can provide a custom comparison function to override the sort order. One limitation is that this is not an SQL database, so the data model is not relational, this means that SQL language cant be used to query the data. 
+
+###What application areas is it suitable for?
+The core functionality of levelDB is quite basic, this has lead to the open source community creating a large amount of packages which can be used to make Levedb useful for a wide selection of applications, this is shown by the difference in the types of companies who are using it.
+google: chrome,
+Bit coin: blockchain database,
+Minecraft: pocket edition,
+Autodesk: AutoCAD
+
 Recommended video to watch: https://www.youtube.com/watch?v=sR7p_JbEip0
+
+Recommended reading:
+
+https://en.wikipedia.org/wiki/LevelDB
+
+http://leveldb.org/
+
+http://dailyjs.com/2013/04/18/leveldb-and-node-1/
+
+http://dailyjs.com/2013/05/02/leveldb-and-node-2/
+
