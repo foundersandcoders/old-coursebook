@@ -298,7 +298,7 @@ var client = new pg.Client(connectionString);
 var query = client.query('CREATE TABLE items(id SERIAL PRIMARY KEY, text VARCHAR(40) not null, complete BOOLEAN)'); //adding the SQL to creat table in database
 query.on('end', function() { client.end(); });
 ```
-
+*handy tip - you may want to open two window of terminal to run the node server and query the postgreSQL database.
 
 The link below is to a short tutorial on creating a simple app using node and postgreSQL database, that we found useful.
 http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.VhJKDbRVikp
