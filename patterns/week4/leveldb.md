@@ -150,11 +150,7 @@ LevelDB provides a highly transparent, light-weight foundation for you to compos
 callers can provide a custom comparison function to override the sort order. One limitation is that this is not an SQL database, so the data model is not relational, this means that SQL language cant be used to query the data. 
 
 ###What application areas is it suitable for?
-The core functionality of levelDB is quite basic, this has lead to the open source community creating a large amount of packages which can be used to make Levedb useful for a wide selection of applications, this is shown by the difference in the types of companies who are using it.
-google: chrome,
-Bit coin: blockchain database,
-Minecraft: pocket edition,
-Autodesk: AutoCAD
+The core functionality of levelDB is quite basic, this has lead to the open source community creating a large amount of packages which can be used to make Levedb useful for a wide selection of applications, this is shown by the difference in the types of companies who are using it. Google: chrome, Bit coin: blockchain database, Minecraft: pocket edition, Autodesk: AutoCAD. One common themes with these with all these use cases of LevelDB is that they have to store large amounts of data and make it immediately editable by a large body of users, the snappy commpression library makes editing proccess fast.
 
 Recommended video to watch: https://www.youtube.com/watch?v=sR7p_JbEip0
 
