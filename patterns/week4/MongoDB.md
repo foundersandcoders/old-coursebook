@@ -48,6 +48,8 @@ MongoDB is a NoSQL, document based database. The smallest unit is a _document_, 
 
 ![collection](https://files.gitter.im/foundersandcoders/databases/6KpM/Collection.png)
 
+Each document in this collection doesn't necessarily have to follow the same 4 key-value pair structure shown here. MongoDB is flexible so pairs can be included or excluded depending on the person. 
+
 ### What are the different data types that can be stored?
 
 * Strings
