@@ -109,3 +109,46 @@ e.g.
 ``HGETALL user:1000`` --> returns password "secret", email "john.smith@example.com"
 
 ``HGET`` e.g. ``HGET user:1000 email`` --> returns john.smith@example.com
+
+
+##Guide to Installing Redis
+
+There are two ways of installing Redis which is open source software. 
+Installing Redis has only two dependencies, a working GCC compiler and libc as Redis is written in C.
+
+## Linux/Mac
+
+Pointing to the correct directory in your terminal for your project. Here are the commands to be entered in command line for getting the latest version of Redis. Full instructions can be found on Redis website.
+[click here](http://redis.io/topics/quickstart)
+
+		```wget http://download.redis.io/redis-stable.tar.gz
+		tar xvzf redis-stable.tar.gz
+		cd redis-stable
+		make```
+		
+## Windows/ Virtual box
+
+If you are using windows or a virtual box creating a development environment you may wish to use Vagrant [click here ](https://github.com/docdis/learn-redis) for instructions.
+
+## Which Node Modules ?  
+
+There are a number of npm modules you can install to use with Redis.
+Two recommended node modules are:  
+
+https://www.npmjs.com/package/redis 
+https://github.com/redis/hiredis-node
+
+The commands needed to install both modules are : 
+
+```npm install redis hiredis --save```
+
+## Check if Redis is working
+
+External programs talk to Redis using a [TCP](http://searchnetworking.techtarget.com/definition/TCP) socket and a Redis specific protocol. This protocol is implemented in the Redis client libraries for the different programming languages. However to make hacking with Redis simpler Redis provides a command line utility that can be used to send commands to Redis. This program is called redis-cli.
+The first thing to do in order to check if Redis is working properly is sending a PING command using redis-cli (Note you need to open a new terminal window for this and the redis needs to be running ```redis-server```).
+
+
+```$ redis-cli ping
+PONG```
+
+Congratulations you have installed Redis!!!
