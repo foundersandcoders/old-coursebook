@@ -2,21 +2,20 @@
 _Requested: More on callbacks_
 
 ## Monday
-10:00 Show & Tell from students
-10:20 Workshop  
-17:00 BitHound Talk | Code Quality
-18:30 Coding for everyone
-
-## Tuesday
-10:00 Morning challenge    
-10:45 Morning challenge review
+10:00 Show & Tell from students   
 11:30 Jigsaw classroom
 13:30 Discuss your learnings as a team
 14:00 Jigsaw interim presentations  
 15:00 Further research
 15:45 Discuss your learnings as a team
-16:00 Jigsaw presentations  
-17:00 Marisa Fewtrell Talk | UX  
+17:00 BitHound Talk | Code Quality
+17:45 Jigsaw presentations  
+18:30 Coding for everyone
+
+## Tuesday
+10:00 Morning challenge    
+10:45 Morning challenge review
+11:30 Workshop  
 
 ## Wednesday
 10:00 Morning challenge    
