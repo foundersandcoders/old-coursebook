@@ -122,6 +122,7 @@ RSVP to these two events!
 * [Great guide with Redis commands for Node](http://www.sitepoint.com/using-redis-node-js/)
 * [Tutorial on Redis](https://github.com/docdis/learn-redis)
 * [Redis's quickstart guide with latest version of Redis](http://redis.io/topics/quickstart)
+* [An example of using Redis on Github](https://github.com/nelsonic/hits)
 * [Redis data types](http://redis.io/topics/data-types)
 * [Intro to Redis Commands](http://try.redis.io/)
 * [Learn Vagrant to setup developer environment](https://github.com/dwyl/learn-vagrant)
