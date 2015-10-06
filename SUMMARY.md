@@ -15,26 +15,30 @@
   * [Employers](business/jobs.md) 
   * [Projects](business/projects.md) 
 * Timetable
-   * Week 1
-      * [Day 1](timetable/week1/day1.md) 
-      * [Day 2](timetable/week1/day2.md) 
-      * [Day 3](timetable/week1/day3.md) 
-      * [Day 4](timetable/week1/day4.md) 
-      * [Day 5](timetable/week1/day5.md) 
+   * [Week 1](timetable/week1.md) 
    * [Week 2](timetable/week2.md) 
+   * [Week 3](timetable/week3.md) 
+   * [Week 4](timetable/week4.md) 
 * Workshops
    * [Week 1](workshops/week1.md)
    * [Week 2](workshops/week2.md)
+   * [Week 3](workshops/week3.md)
+   * [Week 4](workshops/week4.md)
 * Learning outcomes
    * [Week 1](patterns/week1/README.md)   
    * [Week 2](patterns/week2/README.md)   
    * [Week 3](patterns/week3/README.md)   
+   * [Week 4](patterns/week4/README.md)   
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
    * [Week 3](projects/week3.md)
+   * [Week 4](projects/week3.md)
 * [Morning challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
+   * [Week 2](challenges/week2.md)
+   * [Week 3](challenges/week3.md)
+   * [Week 4](challenges/week4.md)
 * Weekend assignments
    * [Week 1](assignments/week1.md)  
    * [Week 2](assignments/week2.md)  
