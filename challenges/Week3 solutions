@@ -3,6 +3,21 @@
 
 var nums = [3, 5, 9, 1, 6, 8, 1, 19, 3, 6, 8, 1];
 
+/////////////////////////conor & jack solution
+function doubleArray() { 
+  nums = [3, 5, 9, 1, 6, 8, 1, 19, 3, 6, 8, 1];
+  var double = [];
+   for(var i = 0; i < nums.length; i++) { 
+     if(nums[i] > 4) { 
+       double.push(nums[i]*=2);
+     }
+   }
+  console.log(double);
+}
+
+doubleArray();
+///////////////////////
+
 // Return an object with the key being the name of the person and the value
 // being their favourite food with the most letters
 
