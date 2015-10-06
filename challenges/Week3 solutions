@@ -3,21 +3,6 @@
 
 var nums = [3, 5, 9, 1, 6, 8, 1, 19, 3, 6, 8, 1];
 
-/////////////////////////conor & jack solution
-function doubleArray() { 
-  nums = [3, 5, 9, 1, 6, 8, 1, 19, 3, 6, 8, 1];
-  var double = [];
-   for(var i = 0; i < nums.length; i++) { 
-     if(nums[i] > 4) { 
-       double.push(nums[i]*=2);
-     }
-   }
-  console.log(double);
-}
-
-doubleArray();
-///////////////////////
-
 // Return an object with the key being the name of the person and the value
 // being their favourite food with the most letters
 
@@ -109,3 +94,64 @@ function findMax() {
 }
 findMax(1,3,4455,6666665,4323232,32,12,121)
 
+////////// Solutions from Eoin pc /////////////////
+
+var people = [
+        {
+            name: 'Lily',
+            age: 33,
+            favFoods: ['Rice', 'Water', 'Air']
+        },
+        {
+            name: 'Jacob',
+            age: 0.4,
+            favFoods: ['Jelly', 'Foie Gras']
+        },
+        {
+            name: 'Sarah',
+            age: 999,
+            favFoods: ['Ambulance', 'Fire engine', 'Police car']
+        },
+        {
+            name: 'Gregory',
+            age: 55,
+            favFoods: ['Jacoby', 'Sarahy', 'Lilyy']
+        }
+    ];
+
+
+var obj = {};
+people.forEach(function(elem) { 
+  obj[elem.name] = myReduce(compareLengths, '', elem.favFoods);
+});
+console.log(obj);
+
+function compareLengths(longestFood, curFood) {
+  if (curFood.length > longestFood.length) {
+    return curFood;
+  } else {
+    return longestFood;
+  }
+}
+
+function myReduce(callback, start, arr) {
+  var i;
+  var best = start;
+  for (i = 0; i < arr.length; i++) {
+    best = callback(best, arr[i]);
+  }
+  return best;
+}
+
+
+
+// Write a function that takes any number of arguments and returns
+// the largest *number* passed to it.
+// If no numbers are passed to it, return `undefined`
+
+function theFunction () {
+    return [].reduce.call(arguments, function(max, next) {
+      return (max > next) ? max : next;
+    }, 0);
+}
+console.log(theFunction(0, 10, 2));
