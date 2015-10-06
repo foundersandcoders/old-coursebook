@@ -79,3 +79,18 @@ favFood();
 function theFunction () {
     // TODO
 }
+
+LAST SOLUTION ----------
+function findMax() {
+    var args = [].slice.call(arguments);
+    var i;
+    var max = 0;
+    for (i = 0; i < arguments.length; i++) {
+        if (arguments[i] > max) {
+            max = arguments[i];
+        }
+    }
+    return max;
+}
+findMax(1,3,4455,6666665,4323232,32,12,121)
+
