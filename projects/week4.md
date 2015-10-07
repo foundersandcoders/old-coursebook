@@ -21,7 +21,7 @@ You probably know how Twitter works already, but the aim is to allow people to w
 ### Step 5
 + Add real-time updates of tweets using *front-end JavaScript*
 
-### Step 6
+### Stretch goal
 + Implement real-time updates using *Socket.IO* instead
 
 
