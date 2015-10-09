@@ -37,5 +37,5 @@ _Requested: More on callbacks_
 14:45 Weekend assignments     
 15:00 Business development      
 15:30 In-team project review     
-16:00 Whiteboard walk-throughs & Question time
+16:00 Whiteboard walk-throughs & Question time    
 17:00 Speaker + Project presentations
