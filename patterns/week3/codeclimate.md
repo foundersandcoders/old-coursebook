@@ -59,6 +59,7 @@ When creating a GPA (out of a maximum of 4), code climate considers 3 things.
 
   * **note here we have changed the path of `lcov.info` to reflect our file structure**
   * run `npm install codeclimate-test-reporter --save-dev` in you root folder to install and add the reporter to your dependancies.
+  * `npm run coverage`
   * `npm run codeclimate`
 
  6. Go to code climate and get your badge!
