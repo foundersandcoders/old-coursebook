@@ -199,3 +199,15 @@ header.
 What is bcrypt and how do you use it?
 
 What method of authentication would you recommend?
+
+### Useful Links
+
+jwt.io
+stormpath.com/blog/jwt-the-right-way/
+https://docs.oracle.com/cd/B28196_01/idmanage.1014/b25990/v2authen.htm#BABGAEAE
+https://msdn.microsoft.com/en-us/library/ms789031(v=vs.110).aspx
+http://searchsecurity.techtarget.com/definition/authentication
+
+### Video
+
+https://www.youtube.com/watch?v=ls6Cfm50RgY
