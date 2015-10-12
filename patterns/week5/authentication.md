@@ -59,7 +59,7 @@ For example: Authorization: Basic IUGWnjkfohdeuhPUHUFKJ123
 * Digest Access Authentication
 
 
-Basic Authentication Scheme
+### Basic Authentication Scheme
 
 Assumes that your credentials (the client) consists of a username and password (Base64-encoded string).
 When you try to gain access to a protected realm, the server responds with a 401 which will consist of
