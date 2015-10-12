@@ -13,6 +13,7 @@
 ` npm install fakeredis`
 
 You can use fakeredis as you would use node_redis, just changing the module name from redis to fakeredis.
+Read more about it here: https://www.npmjs.com/package/fakeredis
 
 ## Advantages
 Fake redis helps with writing tests in the following ways:
