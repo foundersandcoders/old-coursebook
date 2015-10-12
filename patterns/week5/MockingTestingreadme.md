@@ -59,7 +59,8 @@ module.exports = function handler(req, res) {
 }
 }
 ```
-Test to see if database has replied 'OK' meaning data entry has been successfully added.
+Test to see if database has replied 'OK' (this is determined in the payload repsonse), meaning data entry has been successfully added.
+
 ``` js
 var shot = require("shot");
 var handler = require("./handler.js");
@@ -76,3 +77,8 @@ test('have we added an entry to the database', function(test){
   })
 })
 ```
+## Rescources
+
+[Link to Github guide to using fakeredis]https://github.com/hdachev/fakeredis
+
+
