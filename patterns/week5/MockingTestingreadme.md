@@ -79,6 +79,6 @@ test('have we added an entry to the database', function(test){
 ```
 ## Rescources
 
-[Link to Github guide to using fakeredis]https://github.com/hdachev/fakeredis
+[Link to Github guide to using fakeredis](https://github.com/hdachev/fakeredis)
 
 
