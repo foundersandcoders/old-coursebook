@@ -77,9 +77,7 @@ client.lrange('Dates', 0, -1)
 
 ### Form
 
-```
 key - { Member *(unique)* }
-```
 
 ### Example / commands
 
