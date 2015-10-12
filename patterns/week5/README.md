@@ -49,15 +49,15 @@ Now that you're using databases, you're opening your web apps up to some serious
 #### Mocking
 Some people like to mock databases for the purposes of testing; we suggest having a debate on the pros and cons of mocking.
 
-* [ ] Why do some people mock databases for testing?
+* [ ] What does mocking mean in relation to testing?
+* [ ] What are some advantages and disadvantages of mocking?
 * [ ] Why might it be unreliable?
 * [ ] How might you mock a redis database?
 
 #### Testing
 * [ ] How can you test your Redis database fully without mocking?
 * [ ] How do you ensure you don't fill your database with test insertions?
-* [ ] What are some best practices for testing your functions fully?
-* [ ] How do you test for error handling?
+* [ ] How do you test for error cases?
 
 
 ## Task for all: write a README summarising your research on these topics.
