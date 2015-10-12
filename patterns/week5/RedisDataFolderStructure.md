@@ -201,7 +201,41 @@ We have seen a number of different examples of files and folders but some common
 │   ├── index.html
 │   └── page.html
 ```
+### Hapi folder structure
+To begin with, the important parts of the structure for now are:
+```
+package.json
+index.js
+node_modules/
+src/
+|-config/
+  |-constants.js
+|-controllers/
+|-dao/
+|-middleware/
+  |-basic-auth.js
+  |-db.js
+|-models/
+|-routes/
+|-util/
+|-validate/
+```
 
+*package.json: Holds project configuration.
+*index.js: The starting point for the API.
+*node_modules/: All modules described in package.json will be automatically placed here using npmcommands such as npm install mysql --save.
+*src/: Our source code base folder.
+*src/config/: Application level configuration files.
+*src/config/constants.js: Application level configuration constants.
+*src/controllers/: Controllers modules/files.
+*src/dao/: Data Access Object modules/files.
+*src/middleware/: Holds modules/files that deals with different code environments.
+*src/middleware/basic-auth.js: Our Basic Authentication strategy module. We'll see it latter.
+*src/middleware/db.js: Abstracts our database initialization and manipulation.
+*src/models/: Modules/files abstraction of our database schema.
+*src/routes/: Modules/files that know which controllers should handle the incoming requests.
+*src/util/: Help us with mixins methods.
+*src/validate/: Knows how the incoming request should behave.
 
 
  * __test__ - a folder designated for all frontend _and / or_ backend testing
