@@ -45,7 +45,7 @@ rules specify information that identifies who can access a resource it protects.
 ### What are the main authentication schemes?
 
 
-HTTP Access Authentication Framework
+HTTP Access Authentication Framework  
 If you're going the HTTP header route, you have to use a header value to authenticate
 a REST client. The server is using this header value to perform authentication. It is
 composed of three tokens usually:
