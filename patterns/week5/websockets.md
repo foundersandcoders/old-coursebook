@@ -36,6 +36,8 @@ https://en.wikipedia.org/wiki/WebSocket
 
 http://socket.io/
 
+Our example of a chat room using socket.io: https://github.com/RachBLondon/socketchat
+
 
 
 
