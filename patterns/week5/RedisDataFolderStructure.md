@@ -223,30 +223,13 @@ src/
 |-validate/
 ```
 
-*package.json: Holds project configuration.
-*index.js: The starting point for the API.
-*node_modules/: All modules described in package.json will be automatically placed here using npmcommands such as npm install mysql --save.
-*src/: Our source code base folder.
-*src/config/: Application level configuration files.
-*src/config/constants.js: Application level configuration constants.
-*src/controllers/: Controllers modules/files.
-*src/dao/: Data Access Object modules/files.
-*src/middleware/: Holds modules/files that deals with different code environments.
-*src/middleware/basic-auth.js: Our Basic Authentication strategy module. We'll see it latter.
-*src/middleware/db.js: Abstracts our database initialization and manipulation.
-*src/models/: Modules/files abstraction of our database schema.
-*src/routes/: Modules/files that know which controllers should handle the incoming requests.
-*src/util/: Help us with mixins methods.
-*src/validate/: Knows how the incoming request should behave.
-
-
+ * __package.json__ - this file holds project configuration
+ * __node_modules__ -  all modules described in package.json will be automatically placed here using npmcommands such as ```npm install mysql --save```
  * __test__ - a folder designated for all frontend _and / or_ backend testing
  * __public__ - a folder which usually contains the so-called ‘public’ files in a repo - think index.html or main.css
  * __config__ - usually contains filenames which configure the environment for the application to be run in, so you _may_ find environment variables in this folder
  * __src__ or __lib__ may contain _specific_ resources or libraries which are required to decorate or run the webpage / application. Some SCSS or other styling files _could_ be found here
  * __file names__ shouldn’t be too long (e.g huwmongous.md), but also shouldn’t be __meaningless and short__ (e.g. hm.md). Make sure that the name represents the actual function of the file
-
-
 
 ### How your folder's tree structure could look :+1::+1:
 
