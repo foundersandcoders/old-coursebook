@@ -50,9 +50,9 @@ client.dbsize(function(err, reply){
 ## Lists
 
 ### Form (A Javascript outline of the list)
-
-key - { number (unique) : string }
-
+```
+Key - { number *(unique)* : string }
+```
 ```
 eg  { 1: A, 2: B, 3: B} or [A, B, B]
 ```
@@ -78,7 +78,7 @@ client.lrange('Dates', 0, -1)
 ### Form
 
 ```
-key - { Member (unique) }
+key - { Member *(unique)* }
 ```
 
 ### Example / commands
@@ -101,9 +101,9 @@ client.smembers('gethSet', function(err, reply) {
 ## Sorted sets
 
 ### Form
-
-key - { Score (floating point/number) : Member (unique) }
-
+```
+Key - { Score (floating point/number) : Member (unique) }
+```
 ### Example
 
 For a full list of Sorted Set commands see [here](http://redis.io/commands#sorted_set)!
@@ -126,7 +126,9 @@ client.zcard ('gethSSet', function(err, reply) {
 Everything in a Redis database is in _key-value pairs_. The value has to take one of the following forms: string, hash, list, set and sorted set.
 
 ### Form
-Object { key: value }
+```
+Key - { Field: value }
+```
 
 ### Example
 
@@ -243,6 +245,7 @@ src/
  * __config__ - usually contains filenames which configure the environment for the application to be run in, so you _may_ find environment variables in this folder
  * __src__ or __lib__ may contain _specific_ resources or libraries which are required to decorate or run the webpage / application. Some SCSS or other styling files _could_ be found here
  * __file names__ shouldn’t be too long (e.g huwmongous.md), but also shouldn’t be __meaningless and short__ (e.g. hm.md). Make sure that the name represents the actual function of the file
+
 
 
 ### How your folder's tree structure could look :+1::+1:
