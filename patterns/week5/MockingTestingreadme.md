@@ -5,10 +5,6 @@
 #### What does mocking mean in relation to testing? 
  - creating objects that simulate the behaviour of real objects e.g. fake redis and shot
 
-#### Advantages and disadvantages of mocking
-- your tests won't require use of the real object
-
-
 # Fake redis #
 
 ` npm install fakeredis`
@@ -18,9 +14,9 @@ Read more about it here: https://www.npmjs.com/package/fakeredis
 
 ## Advantages
 Fake redis helps with writing tests in the following ways:
-- your tests won't require an actual redis
-- allows you to safely run multiple tests in parallel
-
+- your tests won't require an actual redis.
+- allows you to safely run multiple tests in parallel.
+- Doesn't add test entries to the real database.
 
 ## Disadvantages
 - the output of some commands e.g. `SMEMBERS`, `HKEYS`, `HVALS` comes out sorted alphabetically to provide for simpler texting. However, this means that some tests that make use of undocumented Redis behaviours such as the chronological order of retrieval for members in a set may fail when attempted with fake redis.
@@ -63,7 +59,8 @@ module.exports = function handler(req, res) {
 }
 }
 ```
-Test to see if database has replied 'OK' meaning data entry has been successfully added.
+Test to see if database has replied 'OK' (this is determined in the payload repsonse), meaning data entry has been successfully added.
+
 ``` js
 var shot = require("shot");
 var handler = require("./handler.js");
@@ -80,3 +77,10 @@ test('have we added an entry to the database', function(test){
   })
 })
 ```
+## Rescources
+
+[Link to Github guide to using fakeredis](https://github.com/hdachev/fakeredis)
+
+[npm fakeredis module](https://www.npmjs.com/package/fakeredis)
+
+
