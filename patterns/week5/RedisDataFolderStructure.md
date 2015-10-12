@@ -3,13 +3,14 @@
 This readme offers __significant__ introductions to Lists, Sets, Sorted Sets and Hashes. This list is not exhaustive: there are many Redis data types, and certain facets of this __byzantine__ underworld shall also be examined in a more superficial fashion.
 
 ## Redis Data Types Summary
-* __Lists__- collections of string elements sorted according to the order of insertion. They are basically linked lists
-* __Sets__- collections of unique, unsorted string elements.
-* __Sorted sets__- _similar_ to Sets but where every string element is associated to a floating number value, called a __score__. The elements are always taken sorted by their score, so unlike Sets it is possible to retrieve a range of elements (for example you may ask: give me the top 10, or the bottom 10).
-* __Hashes__- maps composed of fields associated with __values__. Both the field and the value are __strings__. This is _very_ similar to javascript objects.
-* __Bit arrays__- it is possible, using special commands, to handle String values like an array of __bits__: you can set and clear individual bits, count all the bits set to 1, find the first set or unset bit, and so forth.
-* __HyperLogLogs__- this is a probabilistic data structure which is used in order to estimate the cardinality of a set. Don't be scared, it is simpler than it seems... See later in the HyperLogLog section of this tutorial
-* For a list of commands for these data types, please refer to a previous FAC readme [here](https://github.com/FAC6/book/blob/master/patterns/week4/redisCheatsheet.md)
+* __Lists__ - collections of string elements sorted according to the order of insertion. They are basically linked lists
+* __Sets__ - collections of unique, unsorted string elements.
+* __Sorted sets__ - _similar_ to Sets but where every string element is associated to a floating number value, called a __score__. The elements are always taken sorted by their score, so unlike Sets it is possible to retrieve a range of elements (for example you may ask: give me the top 10, or the bottom 10).
+* __Hashes__ - maps composed of fields associated with __values__. Both the field and the value are __strings__. This is _very_ similar to javascript objects.
+* __Bit arrays__ - it is possible, using special commands, to handle String values like an array of __bits__: you can set and clear individual bits, count all the bits set to 1, find the first set or unset bit, and so forth.
+* __HyperLogLogs__ - this is a probabilistic data structure which is used in order to estimate the cardinality of a set. Don't be scared, it is simpler than it seems... See later in the HyperLogLog section of this tutorial
+
+For a list of commands for these data types, please refer to a previous FAC readme [here](https://github.com/FAC6/book/blob/master/patterns/week4/redisCheatsheet.md)
 
 ## Translating between Redis and Node-redis commands
 
