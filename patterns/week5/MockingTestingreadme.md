@@ -5,10 +5,6 @@
 #### What does mocking mean in relation to testing? 
  - creating objects that simulate the behaviour of real objects e.g. fake redis and shot
 
-#### Advantages and disadvantages of mocking
-- your tests won't require use of the real object
-
-
 # Fake redis #
 
 ` npm install fakeredis`
