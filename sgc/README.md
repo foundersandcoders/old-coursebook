@@ -13,17 +13,18 @@
 + Morning challenges are _solved as a class_ from scratch again rather than talking through one person's existing solution
 
 #### Mondays - now Research days (used to be workshop day)
++ 10:00 Show & Tell on cool websites and technologies the students have found
 + Provide a practical task associated with the research topics, so that you know what you're trying to achieve with the research
+  + If this isn't possible, provide more directed questions so people don't spend large chunks of the day researching irrelevant information
 + Jigsaw classroom all day (this is still a hit in week 4), ~~with presentations of what is ready just after lunch~~
-  + After lunch, everyone gets 45 minutes to _read all the readmes_ by themselves
-  + Presentations at the end of the day are now more of a Q&A session "rather than just reading out the readmes"
+  + Presentations will take place **without a projector**
 + Keep structuring the research topics well, week 4 is a good example of what worked well
 + Post projects to a readme in the morning so if people want to know what it is we can do so
 (++ this keeps being requested, again in week 4)
 
 
 #### Tuesdays - now Workshop days (used to be Research on Learning outcomes)
-+ 10:00 Show & Tell on cool websites and technologies the students have found
++ Workshops for **half to two thirds of the day**, with the last half or couple of hours of the day dedicated to starting the project
 
 #### Wednesdays & Thursdays
 + Add mid-project code review at lunch
@@ -54,6 +55,7 @@
 + Make sure people know from the beginning:
   + The emphasis of projects is on _learning_, not on finishing every possible thing on the project or presenting a beautiful product
   + Everyone has to commit to wash up straight after using their dishes
++ If Pivotal Tracker is introduced (and the feeling in the room was that it wasn't a helpful tool for the task at hand) this should be done at the very beginning of the project, not on day two
 
 ### Week 1
 + Review use of Jekyll
