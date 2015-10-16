@@ -31,7 +31,7 @@
 ## Friday
 10:30 Code reviews    
 11:30 Respond to issues     
-13:00 Stop, Go, Continue     
+13:00 Close issues and add Stop, Go, Continue suggestions     
 13:30 Stop, Go, Continue review     
 14:15 Upstairs project presentation    
 14:45 Weekend assignments     
