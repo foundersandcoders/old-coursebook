@@ -1,0 +1,118 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Chart.js</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+  <style>
+    body {
+      font-family: Helvetica;
+    }
+
+    .key {
+      width: .7em;
+      height: .7em;
+      display: inline-block;
+    }
+
+    li {
+      color: white;
+    }
+
+    .legend {
+      position: absolute;
+      left: 60%;
+    }
+  </style>
+</head>
+
+<body style="background-color:rgb(69, 69, 69);">
+  <div class="container" style="width:50%;height:50vh;margin:0 auto;">
+    <div class="">
+      <h2 style="text-align:center;color:white;">Github Compare</h2>
+    </div>
+    <div class="legend">
+      <ul class="radar-legend" style="list-style:none;text-align:left">
+        <li>
+          <div class='key' style="background-color:rgba(255, 0, 0, 1)"></div> Eoin
+        </li>
+        <li>
+          <div class='key' style="background-color:rgba(0, 191, 31, 1)"></div> Sohil
+        </li>
+        <li>
+          <div class='key' style="background-color:rgba(0, 170, 255, 1)"></div> Kata
+        </li>
+        <li>
+          <div class='key' style="background-color:rgba(251, 181, 0, 1)"></div> Rachel
+        </li>
+      </ul>
+    </div>
+    <div class="">
+      <canvas id="myChart" width="800" height="400"></canvas>
+
+    </div>
+  </div>
+
+  <script>
+    var options = {
+      pointLabelFontColor: "#ffffff",
+      responsive: true,
+      animationSteps: 200,
+      animationEasing: "easeOutExpo",
+      pointLabelFontSize: 18,
+      scaleLineColor: "#ffffff",
+      scaleLineWidth: 1,
+      maintainAspectRatio: false,
+      legendTemplate: "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><li><span style=\"background-color:<%=datasets[i].strokeColor%>\"></span><%if(datasets[i].label){%><%=datasets[i].label%><%}%></li><%}%></ul>",
+    }
+    var data = {
+      labels: ["Followers", "Following", "Starred", "Total Commits", "Longest Streak"],
+      datasets: [{
+        label: "Eoin",
+        fillColor: "rgba(255, 0, 0, 0.2)",
+        strokeColor: "rgba(255, 0, 0, 1)",
+        pointColor: "rgba(255, 0, 0, 1)",
+        pointStrokeColor: "#fff",
+        pointHighlightFill: "#fff",
+        pointHighlightStroke: "rgba(220,220,220,1)",
+        data: [23, 28, 9, 38.5, 19]
+      }, {
+        label: "Sohil",
+        fillColor: "rgba(16, 200, 0, 0.2)",
+        strokeColor: "rgba(0, 191, 31, 1)",
+        pointColor: "rgba(16, 196, 0, 1)",
+        pointStrokeColor: "#fff",
+        pointHighlightFill: "#fff",
+        pointHighlightStroke: "rgba(151,187,205,1)",
+        data: [16, 19, 19, 30.2, 12]
+      }, {
+        label: "Kata",
+        fillColor: "rgba(0, 170, 255, 0.2)",
+        strokeColor: "rgba(0, 170, 255, 1)",
+        pointColor: "rgba(9, 173, 255, 1)",
+        pointStrokeColor: "#fff",
+        pointHighlightFill: "#fff",
+        pointHighlightStroke: "rgba(151,187,205,1)",
+        data: [22, 24, 27, 26.5, 12]
+      }, {
+        label: "Rachel",
+        fillColor: "rgba(246, 111, 0, 0.2)",
+        strokeColor: "rgba(251, 181, 0, 1)",
+        pointColor: "rgba(255, 184, 0, 1)",
+        pointStrokeColor: "#fff",
+        pointHighlightFill: "#fff",
+        pointHighlightStroke: "rgba(151,187,205,1)",
+        data: [25, 37, 31, 26.5, 11]
+      }]
+    };
+
+    var ctx = document.getElementById('myChart').getContext("2d");
+
+    var myChart = new Chart(ctx).Radar(data, options);
+    console.log(myChart.generateLegend());
+
+    //  myChart.labels = ["J", "F", "M", "A", "M", "J", "J"];
+  </script>
+</body>
+
+</html>
