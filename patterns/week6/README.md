@@ -14,7 +14,7 @@ Leaflet is an awesome library for creating interactive maps. The only way to see
 ## Google Maps
 
 Google provide an [Api](https://developers.google.com/maps/?hl=en) which allows you to use google maps in a project. The Google maps library allows for quit a bit of customization.
-Please checkout the website and then give [this](http://www.w3schools.com/googleapi/) tutorial ago.
+Please checkout the website and then give [this](http://www.w3schools.com/googleapi/) tutorial a go.
 
 * [ ] What problem does the Google Maps Api solve.
 * [ ] What are the positives and negatives to using Google Maps.
