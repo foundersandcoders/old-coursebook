@@ -1,11 +1,13 @@
 # Leaflet
 
-This is a _quick_ and _basic_ introduction to the Leaflet map library. Let’s start out by giving you a summary of why you may (or _may not_) want to use Leaflet!
+This is a _quick_ and _basic_ introduction to the Leaflet map library.   
 
-Checkout the splendid repo here for tips and tricks!
+Checkout the repo we put together with sample code here. (It corresponds to a tutorial further down the page).  
+  
+https://github.com/hdrdavies/trying-leaflet  
 
-https://github.com/hdrdavies/trying-leaflet
-
+Let’s start out by giving you a summary of why you may (or _may not_) want to use Leaflet!    
+  
 #### Pros
 * __Open Source__! So almost _anything_ can be customised. Google Maps make you stick to their view of what a map should look like (and you're too much of a creative flower :hibiscus: for that)
 * Commercial APIs like Google or Yahoo can change terms at _any time_. So... not great if your app is built on top of it. Leaflet isn’t susceptible to this as Open Source is the best! :+1:
@@ -23,7 +25,7 @@ https://github.com/hdrdavies/trying-leaflet
 
 Leaflet has some __excellent__ [tutorials](http://leafletjs.com/examples.html) on their website. A good introductory one can be found [here](http://leafletjs.com/examples/quick-start.html).  
 
-We followed this walkthrough and left the code in a repo [here](https://github.com/hdrdavies/trying-leaflet). We’ve commented throughout the code to show you what each part is doing. Remember to add two script tags to the html file! (we didn’t for a long time) :disappointed:  
+Remember to add two script tags to the html file! (we didn’t for a long time) :disappointed:  
 
 The first script tag:
 
