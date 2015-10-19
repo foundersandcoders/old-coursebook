@@ -5,7 +5,7 @@ Tutorial for using google maps API
  1. Load the google API using ```<script src="http://maps.googleapis.com/maps/api/js"></script>```
  2. If you plan for heavy traffic, get your API key from https://console.developers.google.com and add the script tag ```<script src="http://maps.googleapis.com/maps/api/js?key=YOUR_KEY"></script>```
  3. Set map properties by creating a function to initialize the map. Within this function you set up your map object with properties center, zoom and mapTypeId.
- 4. Create a new map. You can create as may map objets as you wish. 
+ 4. Create a new map. You can create as many map objets as you wish. 
  
     ```javascript
     function initialize() {
@@ -105,11 +105,15 @@ We have created a quick example of how you can use the Google Maps API. The func
 
 Clone our [repo](https://github.com/Conorc1000/GoogleMapsAPI) to follow along.
 
-1. To see the basic HTML outline go to start.html
-2. We first created the initialize function which put a map onto the page when it loads.
-3. We then created the findAddress function which is sending a request to the Google Maps API.
-4. When the response is sent back from the API we go through the JSON object to access the longitude and latitude coordinates.
-5. The function createMarker is then run with these coordinates to make the marker and zoom to it.
+To see the basic HTML outline go to start.html. finished.html shows a working example where you can type in an address, the map then zooms to that address and sets a marker. 
+
+Use start.html as a starting point to make your own google map functions.
+
+Here are the steps we took to create our finished.html file.
+1. We first created the initialize function which put a map onto the page when it loads.
+2. We then created the findAddress function which is sending a request to the Google Maps API.
+3. When the response is sent back from the API we go through the JSON object to access the longitude and latitude coordinates.
+4. The function createMarker is then run with these coordinates to make the marker and zoom to it.
 
 ## References
 http://www.w3schools.com/googleapi/default.asp
