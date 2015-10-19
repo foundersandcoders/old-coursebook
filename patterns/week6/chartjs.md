@@ -1,6 +1,6 @@
 ### Chart.js
 
-##### Chart.js is a simple tool that allows you to build charts! Below is an example of a Radar chart that we've made especially for you!
+##### Chart.js is a simple tool that allows you to build charts! Below is an example of a Radar chart that we've made especially for you! [Live Demo](http://codepen.io/anon/pen/avVgaw)
 
 ![screen shot 2015-10-19 at 15 01 31](https://cloud.githubusercontent.com/assets/2305591/10579872/7d2e366c-7672-11e5-85fd-dd1a9a433fa7.png)
 
