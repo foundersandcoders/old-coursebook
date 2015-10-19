@@ -107,14 +107,14 @@ You can create six chart types using chart.js and we thouroughly recommend going
 
 ##### Summary
 ### Pro
-Very Simple to use
-Good Documetation
-Open Source
-Lots of customisation
+- Very Simple to use
+- Good Documetation
+- Open Source
+- Lots of customisation
 ### Cons
-Not SVG based
-No Inbuild Legend
-only 6 chart types
+- Not SVG based
+- No Inbuild Legend
+- only 6 chart types
 
 
 
