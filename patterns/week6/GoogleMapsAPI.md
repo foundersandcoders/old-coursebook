@@ -110,3 +110,8 @@ Clone our [repo](https://github.com/Conorc1000/GoogleMapsAPI) to follow along.
 3. We then created the findAddress function which is sending a request to the Google Maps API.
 4. When the response is sent back from the API we go through the JSON object to access the longitude and latitude coordinates.
 5. The function createMarker is then run with these coordinates to make the marker and zoom to it.
+
+## References
+http://www.w3schools.com/googleapi/default.asp
+
+https://developers.google.com/maps/documentation/javascript/
