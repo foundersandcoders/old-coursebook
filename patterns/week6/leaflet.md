@@ -2,6 +2,10 @@
 
 This is a _quick_ and _basic_ introduction to the Leaflet map library. Let’s start out by giving you a summary of why you may (or _may not_) want to use Leaflet!
 
+Checkout the splendid repo here for tips and tricks!
+
+https://github.com/hdrdavies/trying-leaflet
+
 #### Pros
 * __Open Source__! So almost _anything_ can be customised. Google Maps make you stick to their view of what a map should look like (and you're too much of a creative flower :hibiscus: for that)
 * Commercial APIs like Google or Yahoo can change terms at _any time_. So... not great if your app is built on top of it. Leaflet isn’t susceptible to this as Open Source is the best! :+1:
