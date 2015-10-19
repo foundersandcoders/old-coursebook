@@ -3,7 +3,7 @@ Tutorial for using google maps API
 
 ## How to set up Google Maps API
 1. Load the google API using ```<script src="http://maps.googleapis.com/maps/api/js"></script>```
-2. If you plan for heavy traffic, get your API key from https://console.developers.google.com and add the script tag ```<script src="http://maps.googleapis.com/maps/api/js?key=YOUR_KEY"></script>```
+2. If you plan for heavy traffic(25,000+ requests perday), get your API key from https://console.developers.google.com and add the script tag ```<script src="http://maps.googleapis.com/maps/api/js?key=YOUR_KEY"></script>```
 3. Set map properties by creating a function to initialize the map. Within this function you set up your map object with properties center, zoom and mapTypeId.
 4. Create a new map. You can create as may map objets as you wish.
 ```javascript
