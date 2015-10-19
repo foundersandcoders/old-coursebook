@@ -4,7 +4,7 @@
 
 ![screen shot 2015-10-19 at 15 01 31](https://cloud.githubusercontent.com/assets/2305591/10579872/7d2e366c-7672-11e5-85fd-dd1a9a433fa7.png)
 
-To view the interactive chart itself please have a look at this [repo](my link)
+To view the interactive chart itself please have a look at this [repo](https://github.com/FAC6/book/blob/master/patterns/week6/chartjs.html)
 
 Chart.js requires HTML5 canvas elements, it is responsive, modular, interactive and most importantly its OPEN SOURCE!
 
@@ -104,6 +104,18 @@ You can create six chart types using chart.js and we thouroughly recommend going
     }
 ```
 - You are now done, if you view the html in the browser you will view a Radar chart very similar to ours. Well Done!
+
+##### Summary
+### Pro
+Very Simple to use
+Good Documetation
+Open Source
+Lots of customisation
+### Cons
+Not SVG based
+No Inbuild Legend
+only 6 chart types
+
 
 
 Links:
