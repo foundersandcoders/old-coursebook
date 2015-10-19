@@ -103,7 +103,7 @@ We have created a quick example of how you can use the Google Maps API. The func
   - create marker from search value
   - zoom on the searched marker
 
-Clone our repo to follow along.
+Clone our [repo](https://github.com/Conorc1000/GoogleMapsAPI) to follow along.
 
 1. To see the basic HTML outline go to start.html
 2. We first created the initialize function which put a map onto the page when it loads.
