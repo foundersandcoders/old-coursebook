@@ -76,7 +76,7 @@ You can create six chart types using chart.js and we thouroughly recommend going
     };
 
  ```
- At this point have another look at the (Radar chart.js documentation)[http://www.chartjs.org/docs/#radar-chart]
+ At this point have another look at the [Radar chart.js documentation](http://www.chartjs.org/docs/#radar-chart)
  - Get the context object from your canvas using the following script, this is the object that provides us the tools required 2d rendering, in this case it is `chart` which uses the context:
  
  ```javascript
@@ -92,7 +92,7 @@ You can create six chart types using chart.js and we thouroughly recommend going
  ``` javascript
  myChart.Radar(data, options);
  ```
- - The options parameter allows users to customise the look and feel of the charts, we have provided an example of the option object which changes certain styles of the chart. To view all the options available please view the [following](http://www.chartjs.org/docs/#radar-chart-chart-options)
+ - The options parameter allows users to customise the look and feel of the charts, we have provided an example of the option object which changes certain styles of the chart. To view all the options available please view [this link](http://www.chartjs.org/docs/#radar-chart-chart-options)
 ```javascript
      var options = {
       pointLabelFontColor: "#ffffff",
@@ -113,7 +113,8 @@ You can create six chart types using chart.js and we thouroughly recommend going
 - Very Simple to use
 - Good Documetation
 - Open Source
-- Lots of customisation  
+- Lots of customisation
+
 ### Cons
 - Not SVG based
 - No Inbuild Legend
