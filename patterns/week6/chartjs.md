@@ -4,7 +4,7 @@
 
 ![screen shot 2015-10-19 at 15 01 31](https://cloud.githubusercontent.com/assets/2305591/10579872/7d2e366c-7672-11e5-85fd-dd1a9a433fa7.png)
 
-To view the interactive chart itself by downloading the html and running it [html](https://github.com/FAC6/book/blob/master/patterns/week6/chartjs.html)
+To view the interactive chart itself by downloading the [html](https://github.com/FAC6/book/blob/master/patterns/week6/chartjs.html) and running it 
 
 Chart.js requires HTML5 canvas elements, it is responsive, modular, interactive and most importantly its OPEN SOURCE!
 
