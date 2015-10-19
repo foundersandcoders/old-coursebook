@@ -121,5 +121,6 @@ You can create six chart types using chart.js and we thouroughly recommend going
 Links:
 - http://www.chartjs.org/
 - http://www.chartjs.org/docs/
+- http://www.fusioncharts.com/javascript-charting-comparison/
 
 
