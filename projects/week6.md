@@ -10,7 +10,7 @@ The aim of this project is to use a real-time api like     [Instagram](https://i
 
 ## Core Aims
 
- #### Step 1
+#### Step 1
  Create a server which interacts with the api of your choosing. Make some super simple interactions like a basic search.
 
  - Make sure that all handlers are extracted into a handlers folder as separate files and that all handlers are well tested.
@@ -18,15 +18,15 @@ The aim of this project is to use a real-time api like     [Instagram](https://i
  ](https://www.npmjs.com/package/router) or create your own and create another file called route.js where these routes are specified.
 
 
- #### Step 2
+#### Step 2
 
   Choose a library and create a front-end that uses the data that you obtained from the api and displays it on a map.
 
 
- #### Step 3
+#### Step 3
 
  Now it's time to get creative, take a look at what data your chosen api provides and use it to create something fun and interesting.
 
 #### Extra points
-- ##### No for loops
-- ##### Aim for full coverage
+- **No for loops**
+- **Aim for full coverage**
