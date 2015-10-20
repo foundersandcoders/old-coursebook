@@ -20,7 +20,7 @@ The aim of this project is to use a real-time api like     [Instagram](https://i
 
 #### Step 2
 
-  Choose a library and create a front-end that uses the data that you obtained from the api and displays it on a map.
+  Choose a library and create a front-end that uses the data that you obtained from the api and displays it on a map or chart.
 
 
 #### Step 3
