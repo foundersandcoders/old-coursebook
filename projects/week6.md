@@ -15,7 +15,7 @@ The aim of this project is to use a real-time api like     [Instagram](https://i
 
  - Make sure that all handlers are extracted into a handlers folder as separate files and that all handlers are well tested.
  - Use a [node routing module
- ](https://www.npmjs.com/package/router) or create your own and create another file called route.js where these routes are specified.
+ ](https://www.npmjs.com/package/routes) or create your own and create another file called route.js where these routes are specified.
 
 
  #### Step 2
