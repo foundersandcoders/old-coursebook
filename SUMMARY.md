@@ -12,7 +12,8 @@
 * [Giving back](giving/README.md)
 * [Business development](business/README.md)
   * [You](business/you.md) 
-  * [Employers](business/jobs.md) 
+  * [Employers](business/jobs.md)
+  * [LinkedIn template](about/jobs/template.md)
   * [Projects](business/projects.md) 
 * Timetable
    * [Week 1](timetable/week1.md) 
