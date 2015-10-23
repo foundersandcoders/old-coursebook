@@ -1,5 +1,20 @@
 # Stop, Go, Continue notes
 
+### Week 6
+
+**STOP**    
++ Seriously, stop closing issues you haven't opened
++ Writing code until the README is done
+
+**Go**    
++ At 3pm on Tuesday, intro the project, then create READMEs + do wireframing
++ Create a *suggested workshops* issue on the FAC6/book repo and add to it
++ Start using labels (i.e. "fixed") in your repo issues
+
+**Continue**    
++ FAQ ime for morning challenges
++ Best practice READMEs, e.g. [Node starter kit](https://github.com/sofer/sssk)
+
 ## Immediate changes
 + **Week 4:** Everyone commits to washing their dishes _as soon as they've used them_
 
