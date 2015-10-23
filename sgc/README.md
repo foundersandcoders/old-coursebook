@@ -2,11 +2,14 @@
 
 ## Immediate changes
 + **Week 4:** Everyone commits to washing their dishes _as soon as they've used them_
++ Create a *suggested workshops* issue on the FAC6/book repo and add to it
+
 
 ## Ongoing actions for FAC6 course
 + More lightning talks
 + Week 4 - keep booking speakers, they love them
 + Create template for readmes on Tuesdays
++ Best practice READMEs, e.g. [Node starter kit](https://github.com/sofer/sssk)
 
 ## Morning challenges
 + Solutions for morning challenges must be put up on GitHub
@@ -25,8 +28,10 @@
 
 #### Tuesdays - now Workshop days (used to be Research on Learning outcomes)
 + Workshops for **half to two thirds of the day**, with the last half or couple of hours of the day dedicated to starting the project
++ **15h00:** intro the project, then create READMEs + do wireframing
 
 #### Wednesdays & Thursdays
++ Don't write code until the README is done
 + Add mid-project code review at lunch
 + **18h00:** everyone writes on a wall what their biggest learning (or what they struggled most with) from the day was
   + People now know who to go to for help with those topics
@@ -34,6 +39,8 @@
 #### Fridays
 + Definitely keep code reviews first thing in the morning
 + Continue pairing to provide feedback on that week's projects
++ Seriously, stop closing issues you haven't opened
++ Start using labels (i.e. "fixed") in your repo issues
 + Whiteboard diagram walk-throughs as a chance to ask the questions from the week
 
 <br/>
