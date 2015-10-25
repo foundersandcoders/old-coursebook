@@ -21,6 +21,7 @@
    * [Week 4](timetable/week4.md) 
    * [Week 5](timetable/week5.md) 
    * [Week 6](timetable/week6.md) 
+   * [Week 7](timetable/week7.md) 
 * Workshops
    * [Week 1](workshops/week1.md)
    * [Week 2](workshops/week2.md)
@@ -28,6 +29,7 @@
    * [Week 4](workshops/week4.md)
    * [Week 5](workshops/week5.md)
    * [Week 6](workshops/week6.md)
+   * [Week 7](workshops/week7.md)
 * Learning outcomes
    * [Week 1](patterns/week1/README.md)   
    * [Week 2](patterns/week2/README.md)   
@@ -35,6 +37,7 @@
    * [Week 4](patterns/week4/README.md)   
    * [Week 5](patterns/week5/README.md)   
    * [Week 6](patterns/week6/README.md)   
+   * [Week 7](patterns/week7/README.md)   
 * Projects
    * [Week 1](projects/week1.md)
    * [Week 2](projects/week2.md)
@@ -42,6 +45,7 @@
    * [Week 4](projects/week4.md)
    * [Week 5](projects/week5.md)
    * [Week 6](projects/week6.md)
+   * [Week 7](projects/week7.md)
 * [Morning challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
    * [Week 2](challenges/week2.md)
@@ -49,6 +53,7 @@
    * [Week 4](challenges/week4.md)
    * [Week 5](challenges/week5.md)
    * [Week 6](challenges/week6.md)
+   * [Week 7](challenges/week7.md)
 * No more weekend assignments
    * [Week 1](assignments/week1.md)  
    * [Week 2](assignments/week2.md)  
