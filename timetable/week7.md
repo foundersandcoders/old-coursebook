@@ -36,6 +36,6 @@
 13:30 Stop, Go, Continue review     
 14:15 Upstairs project review       
 15:00 Business development      
-15:30 In-team project review     
-16:00 Whiteboard walk-throughs & Question time   
-17:00 Project presentations
+15:15 In-team project review     
+15:45 Whiteboard walk-throughs & Question time   
+16:30 Project presentations
