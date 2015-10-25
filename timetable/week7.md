@@ -13,7 +13,7 @@
 ## Tuesday
 10:00 Morning challenge    
 10:45 Morning challenge review  
-11:30 Project     
+11:30 Workshop         
 15:00 Start on Project READMEs and wireframes    
 
 ## Wednesday
