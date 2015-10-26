@@ -66,10 +66,7 @@ https://github.com/Conorc1000/Oauth2Tutorial
 
 #### Resources
 
-OAuth2 Authorisation Framework:
-http://tools.ietf.org/html/rfc6749  
-Toolkit for NodeJS:  
-https://github.com/t1msh/node-oauth20-provider  
-OAuth via Github:
-https://developer.github.com/v3/oauth/  
+OAuth2 Authorisation Framework: http://tools.ietf.org/html/rfc6749  
+Toolkit for NodeJS: https://github.com/t1msh/node-oauth20-provider  
+OAuth via Github: https://developer.github.com/v3/oauth/  
 OAuth Authorisations API documentation: https://developer.github.com/v3/oauth_authorizations/  
