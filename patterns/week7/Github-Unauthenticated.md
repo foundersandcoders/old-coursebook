@@ -1,5 +1,5 @@
 # Github API (Unauthenticated)
-
+:trollface:
 You can access the Github API as either an authenticated our unauthenticated users. Unauthenticated users can make 60 API requests per hour, whereas are authenticated users can make 5000 API requests an hour.
 
 Unauthenticated requests can also enjoy higher rate limits given they include client ID and secret in the query string. This method should only be used for server-to-server calls. You should never share your client secret with anyone or include it in client-side browser code! 
