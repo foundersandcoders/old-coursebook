@@ -7,7 +7,7 @@ Plumbing - commands that do a lot of things under the hood eg. ls-remote, ls-fil
 
 ### .git directory
 
-1. Find an old project repo and move into the folder             locally
+1. Find an old project repo and move into the folder locally
 2. In the root folder move into the `.git` folder
 3. Now run `ls -F1` and you should see the below (without the comments)
 
@@ -27,7 +27,7 @@ refs/ - stores pointers into commit objects in the data. (THIS SMALL SECTION NEE
 
 Git stores everything in a database as key-value pairs (like Redis). You may see this being called a Content Addressable Filesystem. You can view this database in the `objects/` folder mentioned above.
 
-When you create different versions of work in Git (eg. branches, commits) Git saves the contents of each file as a hash in the objects folder so it can access the different data when you need it. If you follow [this tutorial](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects) you will learn the underlying (Plubming) commands that run when we call our Porcelain commands that we are used to.
+When you create different versions of work in Git (eg. branches, commits) Git saves the contents of each file as a hash in the objects folder so it can access the different data when you need it. If you follow [this tutorial](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects) you will learn the underlying (Plumbing) commands that run when we call our Porcelain commands that we are used to.
 
 ### Git Stash Tutorial
 
