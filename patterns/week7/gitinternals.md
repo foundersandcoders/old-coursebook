@@ -104,3 +104,7 @@ When running commands from the command line, for example
 #### References
 
 You can create powerful programs in BASH, using for and while loops, running any command you can access from the terminal. Do read into it at the following references:
+
+
+['sed commands'](http://www.grymoire.com/Unix/Sed.html)
+['Into to BASH programming'](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
