@@ -36,26 +36,31 @@ Do not hesitate to plunder material from previous courses and do not take on mor
 ## Contact time
 
 ### Monday
-10:00 Weekend discoveries  
-10:30 Workshop    
-17:00 Introduce invited speaker    
+10:00 Run Show & Tell session   
+10:15 Introduce learning topics for jigsaw classroom, project preview    
+13:30 Remind jigsaw teams to review learnings   
+14:00 Remind people to pair up to review READMEs  
+14:45 Remind people to get back into jigsaw teams      
+15:30 Remind jigsaw teams to get together for a final review     
+16:00 Run Jigsaw presentations     
+17:00 Present invited Speaker        
+18:00 Wrap up by 6    
+* the exact timetable for jigsaw days is still somewhat in flux.    
 
 ### Tuesday
 10:00 Introduce morning challenge    
 10:45 Review morning challenge    
 11:15 Run morning challenge solution walk-through    
-11:30 introduce learning topics    
-13:00 Announce In-team review    
-13:30 Run Jigsaw reviews    
-15:30 Announce In-team review    
-16:00 Run Jigsaw presentations            
-17:00 Introduce invited speaker    
+11:30 Introduce and run workshop    
+15:00 Introduce project       
+17:00 Present invited Speaker        
+18:00 Wrap up by 6    
 
 ### Wednesday
 10:00 Introduce morning challenge    
 10:45 Review morning challenge    
 11:15 Run morning challenge solution walk-through    
-11:30 Project kick-off    
+11:30 Projects resume    
 17:00 Office hours    
 17:45 Run learning points review    
 
@@ -69,11 +74,8 @@ Do not hesitate to plunder material from previous courses and do not take on mor
 13:00 Remind people to close their own issues and announce Stop, Go, Continue    
 13:30 Stop, Go, Continue review    
 14:15 Introduce Upstairs project presentation    
-14:45 Introduce weekend assignments    
 15:00 Remind people about [business development](../business/README.md)    
-15:30 Remind people to stop work and do an in-team project review    
-16:00 Run the *whiteboard walkthrough*    
-17:00 Introduce invited speaker and run project presentations    
+15:15 Remind people to stop work and do an in-team project review    
+15:45 Run the *whiteboard walkthrough*    
+16:30 Introduce invited speaker and run project presentations    
 
-## Note on workshops
-For the workshop day on Monday, aim to split the day up into two self-contained parts of about three hours each, which can either be two self-contained workshops or one workshop followed by a related assignment. We intend to start delivering these workshops as self-contained evening workshops for the general public.
