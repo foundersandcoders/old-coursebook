@@ -1,5 +1,7 @@
 ### 10.1 Git internals - Plumbing & Porcelain
 
+![lxriddleboy](https://files.gitter.im/RachelBLondon/libert-x/nLdP/logo-blue-shirt-07.png)
+
 Porcelain - user friendly commands eg. git branch and commands we have all been using over the past 6 weeks so far.
 
 Plumbing - commands that do a lot of things under the hood eg. ls-remote, ls-files, rev-parse, give you access to inner workings of git, help demonstrate how and why git does what it does.
