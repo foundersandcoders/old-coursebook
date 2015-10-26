@@ -1,4 +1,5 @@
-### Git internals - Plumbing & Porcelain
+# Git internals 
+### Plumbing & Porcelain
 
 Porcelain - user friendly commands eg. git branch and commands we have all been using over the past 6 weeks so far.
 
