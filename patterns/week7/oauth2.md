@@ -44,7 +44,7 @@ The steps for authentication are as follows:
 
 4) The **client application** says to the **auth server** "Can I have a token please?" n.b. a few substeps here  
 
-5) The **auth server** asks the **resource owner** for a username (D Sofer) and password (1L0v3L1b3rtyX)  
+5) The **auth server** asks the **resource owner** for a username (D Sofer) and password (H8L1b3rtyX)  
 
 6) The **resource owner** responds to the **auth server** with the password and *very* wisely picked password  
 
