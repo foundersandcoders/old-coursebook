@@ -58,5 +58,6 @@
    * [Week 1](assignments/week1.md)  
    * [Week 2](assignments/week2.md)  
 * [Stop, Go, Continue](sgc/README.md)  
+* [Learning resources](resources.md)  
 * [Course leaders](leaders/README.md)  
 
