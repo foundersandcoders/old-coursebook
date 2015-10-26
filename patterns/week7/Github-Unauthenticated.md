@@ -46,10 +46,18 @@ cURL stands for command line url and allows a user to query an api from their co
 e.g. 
 This is an unauthenticated GET request for gihub ``` curl https://api.github.com/users/[usrename] ```
 
-
-
-
-
 Try this tutorial : 
 [tutorial] (https://gist.github.com/caspyin/2288960)
+
+ ## Errors 
+ 
+In some places, requests requiring authentication will return 404 Not Found, instead of ‘403 Forbidden’, to prevent leaks of private repositories to unauthorised users.
+Invalid credentials will return 401 Unauthorized. - After several incorrect attempts, API will temporary reject all attempts of authentication with 403 Forbidden.
+
+ [unauthenticated errors](https://developer.github.com/v3/#client-errors)
+ 
+ ## Conditonal requests
+ 
+ The
+ Most responses return
 
