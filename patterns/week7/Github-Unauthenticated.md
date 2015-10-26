@@ -58,6 +58,7 @@ Invalid credentials will return 401 Unauthorized. - After several incorrect atte
  
  ## Conditonal requests
  
- The
- Most responses return
+ These are another way to reduce the number of requests you make, so use this whenever possible!
+ 
+ Most responses return an ETag and Last-Modified header. By using the values of these two, you can tell which ones have been updated since your previous request, and therefore use these to adapt subsequent requests. If the server has not been changed, the server will return a 304 Not Modified. If this be the case, this won't count as an extra request. Read [here](https://developer.github.com/v3/#conditional-requests) for mor info.
 
