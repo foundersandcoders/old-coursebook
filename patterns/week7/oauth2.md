@@ -60,9 +60,7 @@ The steps for authentication are as follows:
 
 ### Walkthrough for creating a simple Github login using OAuth2
 
-As promised, here is our walkthrough:
-
-https://github.com/Conorc1000/Oauth2Tutorial
+As promised, here is our walkthrough: https://github.com/Conorc1000/Oauth2Tutorial
 
 #### Resources
 
