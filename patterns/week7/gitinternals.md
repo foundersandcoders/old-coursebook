@@ -1,6 +1,4 @@
-### 10.1 Git internals - Plumbing & Porcelain
-
-![lxriddleboy](https://files.gitter.im/RachelBLondon/libert-x/nLdP/logo-blue-shirt-07.png)
+### Git internals - Plumbing & Porcelain
 
 Porcelain - user friendly commands eg. git branch and commands we have all been using over the past 6 weeks so far.
 
