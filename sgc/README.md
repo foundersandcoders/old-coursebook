@@ -2,18 +2,29 @@
 
 ## Immediate changes
 + **Week 4:** Everyone commits to washing their dishes _as soon as they've used them_
-+ Create a *suggested workshops* issue on the FAC6/book repo and add to it
++ Create a *suggested workshops* issue on the FAC6/book repo and add to it  
++ From Week 8 onwards, start reviewing other teams' code on each project day, ending in a review of all three teams' projects on Friday morning  
++ Stop giving too many options (e.g. ways of doing auth) - make the cohort aware of the different ways of doing things, but whittle them down to two options  
++ FAC6-wide discussion around processes for Coding For Everyone (getting people on the Gitter channel, introductory talks, general process)
++ 
++ 
 
 
 ## Ongoing actions for FAC6 course
 + More lightning talks
 + Week 4 - keep booking speakers, they love them
 + Create template for readmes on Tuesdays
-+ Best practice READMEs, e.g. [Node starter kit](https://github.com/sofer/sssk)
++ Best practice READMEs, e.g. [Node starter kit](https://github.com/sofer/sssk)  
++ Stop working when you're supposed to be reviewing people's code  
++ Start keeping the volume down during reading days - and less rowdiness in general (but mainly Monday mornings)  
++ Start - a forum for unanswered questions - FAQ repo within FAC6 to raise issues on  
+
 
 ## Morning challenges
 + Solutions for morning challenges must be put up on GitHub
-+ Morning challenges are _solved as a class_ from scratch again rather than talking through one person's existing solution
++ Morning challenges are _solved as a class_ from scratch again rather than talking through one person's existing solution  
++ Continue - morning challenge solving other people’s problems using github readmes
+
 
 #### Mondays - now Research days (used to be workshop day)
 + 10:00 Show & Tell on cool websites and technologies the students have found
@@ -28,7 +39,8 @@
 
 #### Tuesdays - now Workshop days (used to be Research on Learning outcomes)
 + Workshops for **half to two thirds of the day**, with the last half or couple of hours of the day dedicated to starting the project
-+ **15h00:** intro the project, then create READMEs + do wireframing
++ **15h00:** intro the project, then create READMEs + do wireframing  
++ As part of workshop include a session on reviewing modules and discussing best practices / patterns  
 
 #### Wednesdays & Thursdays
 + Don't write code until the README is done
@@ -62,7 +74,9 @@
 + Make sure people know from the beginning:
   + The emphasis of projects is on _learning_, not on finishing every possible thing on the project or presenting a beautiful product
   + Everyone has to commit to wash up straight after using their dishes
-+ If Pivotal Tracker is introduced (and the feeling in the room was that it wasn't a helpful tool for the task at hand) this should be done at the very beginning of the project, not on day two
++ If Pivotal Tracker is introduced (and the feeling in the room was that it wasn't a helpful tool for the task at hand) this should be done at the very beginning of the project, not on day two  
++ Simplify teaching of Auth  
++ 
 
 ### Week 1
 + Review use of Jekyll
