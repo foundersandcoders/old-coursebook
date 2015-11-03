@@ -1,6 +1,6 @@
 # Data fetching, NPM publishing, and SEMVER
 
-## Data Fetching how and when to make requests
+## Data Fetching: How and when to make requests
 
 This tutorial is guide to an API request to Github to get a users information
 
