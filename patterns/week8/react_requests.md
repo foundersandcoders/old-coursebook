@@ -53,10 +53,66 @@ var GithubUser = React.createClass({
     
 module.exports =  GithubUser;
 ```
+##### Points to note regarding this code are:
 
-###Step 3: enter your component in your API 
+```componentDidMount``` is a method of React which is automaticaly called when the component is rendered.
+``this.isMounted()``` This indicates that the component ```this`` is has been mounted to the DOM . 
+```this.setState()``` This defines the dynamic state of the component by assiging values to the keys in the 'state' object which you have defined in the ```getInitialState()``` function.
+```render()``` function will display the output of the repsonse on your UI. 
 
-componentDidMount 
+###Step 3: Entering your component into your app for rendering. 
+
+In our example we use an 'app.js' file where we require each component and set the properties and states specific to that page.  
+
+```javascript
+
+var React = require('react');
+var Header =require('./Header.js');
+var List= require('./List.js');
+var Listbox = require('./Listbox.js');
+var Footer =require('./Footer.js');
+var Request = require('./Request.js');
+
+
+var App = React.createClass({
+
+
+  getInitialState: function () {
+    return {
+       
+       items:["oranges","chicken","milk","hairy-baws","apples"]
+
+    };
+  },
+
+
+
+  render: function () {
+
+    return (
+      <div className='app-container' >
+        <Header title="Fridge" />
+        <List items={this.state.items} />
+        <Listbox placeholder="Enter your food"/>
+        <GitHubUser src="https://api.github.com/users/sohilpandya"/>
+        <Footer name="signature" />
+      </div>
+    );
+  }
+
+});
+
+module.exports = App;
+
+```
+
+####Points to not regarding this code are : 
+
+
+
+
+
+
 
 ## Semantic Versioning
 
