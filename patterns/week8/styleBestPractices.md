@@ -5,6 +5,8 @@ Layout — how an element/component looks in relationship to others
 Appearance — the characteristics of an element/component  
 Behavior and state — how an element/component looks in a given state
 
+
+
 ### Inline Styling
 
 Those of you who are new to REACT.js are probably used to styling your web apps  
@@ -78,3 +80,14 @@ class MyNotification extends React.CSSComponent {
 Another way to style your app is to use separate CSS files for each of your components. Here's an example file structure that uses this method:
 
 ![SCREENSHOT](https://cloud.githubusercontent.com/assets/12450298/10915361/5f872a3c-824e-11e5-8f7f-2a7db70eee07.png)
+
+They have to be required into the CSS ```main.js``` individually in the following format:
+
+```javascript
+'use strict';
+
+require('./components/App.css');
+require('./components/Header.css');
+require('./components/List.css');
+require('./components/Footer.css');
+```
