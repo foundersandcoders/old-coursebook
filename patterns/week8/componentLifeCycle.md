@@ -13,7 +13,7 @@ The full component lifecycle is made up of the following:
 * Props Changes
 * Unmounting
 
-// Simple explanation of difference between props and state here, perhaps this code example.
+// Simple explanation of difference between props and state here, perhaps a code example.
 
 ### Initialisation
 
@@ -21,23 +21,34 @@ Order methods are invoked:
 
 ![diag](http://busypeoples.github.io/img/lifecycle_init.png)
 
-```getDefaultProps```
+
+```
+getDefaultProps
+```
 
 (wip)
 
-```getInitialState```
+```
+getInitialState
+```
 
 (wip)
 
-```componentWillMount```
+```
+componentWillMount
+```
 
-Access to the properties here. Can also set states.
+Access to the properties here. You can also set states.
 
-```render```
+```
+render
+```
 
 Page will render as commanded within the function
 
-```componentDidMount```:
+```
+componentDidMount
+```
 
 You can access the component elements in the DOM. Any DOM interactions should happen in this phase, not the ```render``` phase - you only want to modify DOM elements after they have already been rendered and are present in the page.
 
@@ -51,19 +62,27 @@ Order methods are invoked:
 
 ![diag](http://busypeoples.github.io/img/lifecycle_state.png)
 
-```shouldComponentUpdate```
+```
+shouldComponentUpdate
+```
 
 (wip)
 
-```componentWillUpdate```
+```
+componentWillUpdate
+```
 
 (wip)
 
-```render```
+```
+render
+```
 
 Page will render as commanded within the function
 
-```componentDidUpdate```
+```
+componentDidUpdate
+```
 
 (wip)
 
@@ -93,11 +112,13 @@ Order methods are invoked:
 
 ![unmounting](http://busypeoples.github.io/img/lifecycle_unmount.png)
 
-```componentWillUnmount```
+```
+componentWillUnmount
+```
 
 This method gets called before the component is removed from the DOM. You might want to perform clean-up operations, for example if you wanted to remove any timers defined in ```componentDidMount```.
 
 ### Further Reading
 
 Documentation - https://facebook.github.io/react/docs/component-specs.html
-More detail on above - http://busypeoples.github.io/post/react-component-lifecycle/ 
+More detail on above - http://busypeoples.github.io/post/react-component-lifecycle/
