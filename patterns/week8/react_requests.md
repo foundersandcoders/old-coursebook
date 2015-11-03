@@ -71,7 +71,7 @@ var Header =require('./Header.js');
 var List= require('./List.js');
 var Listbox = require('./Listbox.js');
 var Footer =require('./Footer.js');
-var Request = require('./Request.js');
+var GitHubUser = require('./GitHubUser.js');
 
 
 var App = React.createClass({
@@ -85,9 +85,7 @@ var App = React.createClass({
     };
   },
 
-
-
-  render: function () {
+render: function () {
 
     return (
       <div className='app-container' >
@@ -106,7 +104,7 @@ module.exports = App;
 
 ```
 
-####Points to not regarding this code are : 
+####Points to note regarding this code are : 
 
 
 
