@@ -10,20 +10,55 @@ Hint  you can find one [here]
 
 ###Step 2: Create a GithubUsers component.
 
-'''javascript 
-insertwacky content here
-'''
+```javascript 
+
+var React = require('react');
+
+var GithubUser = React.createClass({
+
+	getInitialState: function() {
+	    return {
+	      username: 'vadda',
+	      userUrl: 'bong'
+	    };
+	},
+
+	  componentDidMount: function() {
+	       var request = new XMLHttpRequest();
+	     
+	      request.onreadystatechange = function() {
+	          var user = JSON.parse(request.responseText);
+	        
+	          if (this.isMounted()) {
+	          	  this.setState({
+	                  username: user.login,
+	                  userUrl: user.html_url
+	              })
+
+	          }
+	      }.bind(this)
+	    
+	      request.open('GET', this.props.src);
+	      request.send();
+
+	  },
+
+     render: function() {
+	    return (<a href={this.state.userUrl}>{this.state.username}</a>)
+	  }
+
+});
+    
+module.exports =  GithubUser;
+```
 
 ###Step 3: enter your component in your API 
-
-
 
 componentDidMount 
 
 ## Semantic Versioning
 
 http://semver.org/
-
 
 ##References
 
