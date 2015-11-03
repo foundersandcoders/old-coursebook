@@ -10,6 +10,8 @@ Hint  you can find one [here]
 
 ###Step 2: Create a GithubUsers component.
 
+We have created a file for each seperate component and exported this.
+
 ```javascript 
 
 var React = require('react');
