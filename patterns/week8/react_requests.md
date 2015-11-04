@@ -107,12 +107,7 @@ module.exports = App;
 ####Points to note regarding this code are : 
 
 We require the file './GitHubUsers.js
-We use the component ```<GitHubUser src="https://api.github.com/users/sohilpandya"/>``` and include the endpoint in our source which in the component is referred to as the ```this.props.src```.
-
-
-
-
-
+We define the property username in the component ```name="sohilpandya"```.
 
 ## Semantic Versioning
 
