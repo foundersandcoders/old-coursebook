@@ -40,8 +40,8 @@ var GithubUser = React.createClass({
 	          }
 	      }.bind(this)
 	    
-	      request.open('GET', this.props.src);
-	      request.send();
+   	      request.open('GET', 'https://api.github.com/users/' + this.props.username); // http specific to API. 
+   	      request.send();
 
 	  },
 
@@ -55,10 +55,10 @@ module.exports =  GithubUser;
 ```
 ##### Points to note regarding this code are:
 
-```componentDidMount``` is a method of React which is automaticaly called when the component is rendered.
-``this.isMounted()``` This indicates that the component ```this`` is has been mounted to the DOM . 
-```this.setState()``` This defines the dynamic state of the component by assiging values to the keys in the 'state' object which you have defined in the ```getInitialState()``` function.
-```render()``` function will display the output of the repsonse on your UI. 
+--```componentDidMount``` is a method of React which is automaticaly called when the component is rendered.
+--``this.isMounted()``` This indicates that the component ```this`` is has been mounted to the DOM . 
+--```this.setState()``` This defines the dynamic state of the component by assiging values to the keys in the --'state' object which you have defined in the ```getInitialState()``` function.
+--```render()``` function will display the output of the repsonse on your UI. 
 
 ###Step 3: Entering your component into your app for rendering. 
 
@@ -80,7 +80,7 @@ var App = React.createClass({
   getInitialState: function () {
     return {
        
-       items:["oranges","chicken","milk","hairy-baws","apples"]
+       items:["oranges","chicken","milk","ham","apples"]
 
     };
   },
@@ -92,7 +92,7 @@ render: function () {
         <Header title="Fridge" />
         <List items={this.state.items} />
         <Listbox placeholder="Enter your food"/>
-        <GitHubUser src="https://api.github.com/users/sohilpandya"/>
+        <GitHubUser username="sohilpandya"/>
         <Footer name="signature" />
       </div>
     );
