@@ -106,8 +106,8 @@ module.exports = App;
 
 ####Points to note regarding this code are : 
 
-We require the file './GitHubUsers.js
-We define the property username in the component ```name="sohilpandya"```.
+* We require the file './GitHubUsers.js
+* We define the property username in the component ```name="sohilpandya"```.
 
 ## Semantic Versioning
 
