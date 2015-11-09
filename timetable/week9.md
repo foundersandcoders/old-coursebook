@@ -6,4 +6,5 @@
 13:00 Stop, Go, continue   
 14:00 Review React  
 16:00 Bizdev, Show & tell   
-15:30 Invited speaker  
+17:30 Invited speaker  
+18:30 Coding for everyone
