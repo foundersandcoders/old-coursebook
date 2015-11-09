@@ -1,5 +1,17 @@
 # Stop, Go, Continue notes
 
+## Week 8
+
+###Stop
+
+### Go
+Smoothies: ?
+Quiet time: Tuesday/README day is quiet day this week.  
+Workshops: show projects that do not work rather than ones that do.  
+Teams: mix them up this week according to MVP groups (or lolly sticks)
+Patterns: reorganise the FAC6 book and index the READMEs
+C4E: meeting required...
+
 ## Immediate changes
 + **Week 4:** Everyone commits to washing their dishes _as soon as they've used them_
 + Create a *suggested workshops* issue on the FAC6/book repo and add to it  
