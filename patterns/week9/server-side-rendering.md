@@ -16,12 +16,20 @@ The static content is visible almost immediately, whilst the bundle.js file is r
 
 (Sidenote: Isomorphism is also a mathematical term that means something different, but whatever. This is about JS)
 
-### Why is it useful?
+## Why is it useful?
 
-* FasterPerceived Load Times + Better Global UX
+**FasterPerceived Load Times + Better Global UX**
 
-* Search Engine Indexability
+Since a static version (rendered server side) is visible while the javascript loads. 
 
-* Free Progressive Enhancements
+**Search Engine Indexability**
 
-* Easier Code Maintenance
+Since a static version (rendered server side) is visible by search engine bots.
+
+**Free Progressive Enhancements**
+
+Since not everyone will have javascript enabled, they will at least be able to see the static version (rendered server side).
+
+**Easier Code Maintenance**
+
+All your code is in one place.
