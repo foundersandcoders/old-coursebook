@@ -6,6 +6,14 @@ https://github.com/rackt/react-router
 
 It was created by Ryan Florence, who was inspired by [Ember's framework](http://guides.emberjs.com/v1.10.0/routing/).
 
+### Why would you use it :question:
+
+* Really fast rendering for different components
+* Can add screens and UI easily
+* Nesting is dealt with simply
+* Manages back buttons and history locations
+* Gives links and routes active classes so you don’t have to :+1:
+
 ### How do I use it :question:
 
 First make sure you have required React and ReactDom
@@ -56,13 +64,6 @@ render((
 ), document.body)
 ```
 
-### Why would you use it :question:
-
-* Really fast rendering for different components
-* Can add screens and UI easily
-* Nesting is dealt with simply
-* Manages back buttons and history locations
-* Gives links and routes active classes so you don’t have to :+1:
 
 ### What other solutions are there to routing in react :question:
 Here’s a tutorial on how to build something that works in *pure* react. Advantages are you’re not relying on someone else’s routing api for your app to work:   
