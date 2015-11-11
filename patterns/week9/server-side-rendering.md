@@ -37,9 +37,9 @@ Since not everyone will have javascript enabled, they will at least be able to s
 All your code is in one place.
 
 ### Further Reading 
-[Isomorphic JS and Why It Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters)
-[Your missing the point of server-side rendered JS apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
-[David Wells isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) Note:He uses renderToString() which is now deprecated.
-[A case to change the usage of Isomorphic to Universal JS](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
+- [Isomorphic JS and Why It Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters)
+- [Your missing the point of server-side rendered JS apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
+- [David Wells isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) Note:He uses renderToString() which is now deprecated.
+- [A case to change the usage of Isomorphic to Universal JS](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 
 
