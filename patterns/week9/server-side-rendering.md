@@ -8,7 +8,7 @@ Server side, the react app or component is rendered into html (without interacti
 
 ### Client-side rendering
 
-When the page loads in the browser, as well as the static content, there will be a script tag linking to your bundle file (created in webpack or browserift or similar).
+When the page loads in the browser, as well as the static content, there will be a script tag linking to your bundle file (created in webpack or browserify or similar).
 ```
 <script src="bundle.js" ></script>
 ```
