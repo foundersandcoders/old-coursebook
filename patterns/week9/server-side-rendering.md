@@ -22,7 +22,7 @@ The static content is visible almost immediately, whilst the bundle.js file is r
 
 Since a static version (rendered server side) is visible while the javascript loads. 
 
-With many of the popular[MVC](https://developer.chrome.com/apps/app_frameworks) frameworks such as backbone, angular, and ember you need the DOM to load before the user can start viewing or using the site, until then the only thing you'll probably see is an egg timer. When rendering from the server side however the Mark-up is ready to view straightaway, and the style sheet and script tags follow suit swiftly after. 
+With many of the popular [MVC](https://developer.chrome.com/apps/app_frameworks) frameworks such as backbone, angular, and ember you need the DOM to load before the user can start viewing or using the site, until then the only thing you'll probably see is an egg timer. When rendering from the server side however the Mark-up is ready to view straightaway, and the style sheet and script tags follow suit swiftly after. 
 
 **Search Engine Indexability**
 
@@ -40,4 +40,6 @@ All your code is in one place.
 [Isomorphic JS and Why It Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters)
 [Your missing the point of server-side rendered JS apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 [David Wells isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) Note:He uses renderToString() which is now deprecated.
+[A case to change the usage of Isomorphic to Universal JS](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
+
 
