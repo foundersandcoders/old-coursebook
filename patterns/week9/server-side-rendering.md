@@ -22,7 +22,7 @@ The static content is visible almost immediately, whilst the bundle.js file is r
 
 Since a static version (rendered server side) is visible while the javascript loads. 
 
-With many of the popular [MVC](https://developer.chrome.com/apps/app_frameworks) frameworks such as backbone, angular, and ember you need the DOM to load before the user can start viewing or using the site, until then the only thing you'll probably see is an egg timer. When rendering from the server side however the Mark-up is ready to view straightaway, and the style sheet and script tags follow suit swiftly after. 
+With many of the popular [MVC](https://developer.chrome.com/apps/app_frameworks) frameworks such as backbone, angular, and ember you need the DOM to load before the user can start viewing or using the site, until then the only thing you'll probably see is an egg timer. When rendering from the server side however the Mark-up is ready to view straightaway, and the style sheet and script tags follow suit swiftly after with the static content. 
 
 **Search Engine Indexability**
 
