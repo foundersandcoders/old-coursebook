@@ -4,7 +4,7 @@ TL;DR: JavaScript rendered on the server AND the client.
 In a nutshell, you are rendering your application markup on the server & piping it down as the complete html to the browser.
 (Sidenote: Isomorphism is also a mathematical term that means something different, but whatever. This is about JS)
 
-Why is it useful?
+### Why is it useful?
 
 Isomorphic JavaScript is useful for a number of reasons, lets run through the major ones.
 
