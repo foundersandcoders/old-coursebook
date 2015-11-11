@@ -18,5 +18,10 @@ Links:
 
 [Applying React.js CSS Transitions on initial render](https://web-design-weekly.com/2015/02/05/applying-react-js-css-transitions-initial-render/)
 
+###Velocity React
+React components for interacting with the Velocity DOM animation library.
+[velocity-react online examples](http://twitter-fabric.github.io/velocity-react/)
+[velocity-react github] (https://github.com/twitter-fabric/velocity-react)
+
 
 
