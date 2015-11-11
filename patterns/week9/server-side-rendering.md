@@ -41,5 +41,5 @@ All your code is in one place.
 - [Your missing the point of server-side rendered JS apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
 - [David Wells isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) Note:He uses renderToString() which is now deprecated.
 - [A case to change the usage of Isomorphic to Universal JS](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
-
+-[Understand the basics of search engine indexability](https://moz.com/beginners-guide-to-seo/basics-of-search-engine-friendly-design-and-development)
 
