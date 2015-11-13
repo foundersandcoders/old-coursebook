@@ -16,10 +16,10 @@ this talk by [Ryan Florence](https://twitter.com/ryanflorence) , who is the
 co-author of [React Router](https://github.com/rackt/react-router) is
 really good to watch:
 
-https://www.youtube.com/watch?v=3DBF58ZJ1ZQxY
+https://www.youtube.com/watch?v=BF58ZJ1ZQxY
 
 If you want to use classes and sleep at night, you should read [Dan Abramov](https://twitter.com/dan_abramov)'s Medium post, ["How to Use Classes and
-Sleep at Night"](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8=de78ccb4)
+Sleep at Night"](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
 
 
