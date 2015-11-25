@@ -2,17 +2,17 @@
 #### [about]()  
 #### [assignments]()   
 #### [business]()
-  - [jobs]() /  [projects]()  / [you]()
+-   [jobs]() /  [projects]()  / [you]()
 #### [Mornging challenges]()
-  -  [week1 -create CSS grid]() / [week2 -]() / [week3 -]()
-  -  [week4 -]() / [week5 -]() / [week6 -]() / [week7 -]()
-  -  [week8 -]() / [week9 -]() / [week10 -]()
+-    [week1 -create CSS grid]() / [week2 -]() / [week3 -]()
+-    [week4 -]() / [week5 -]() / [week6 -]() / [week7 -]()
+-    [week8 -]() / [week9 -]() / [week10 -]()
 #### [giving]()
-+ Giving back , helping with meetups and running the next course
+- Giving back , helping with meetups and running the next course
 #### [leaders]()
-+ Checklist for course leaders
+- Checklist for course leaders
 #### [patterns]()
-+ Readme files covering weekly topics, a full contents page can be found  [here]()
+- Readme files covering weekly topics, a full contents page can be found  [here]()
 #### [projects]()
 +    [week1 -Personal Blog]() / [week2 -Client side API's ]() / [week3 - Auto-complete, servers and TDD]()
 +    [week4 - Twitter and Databases]() / [week5 -Voting application with sockets]() / 
@@ -30,5 +30,3 @@
 +    [week4 -]() / [week5 -]() / [week6 -]() / [week7 -]()
 +    [week8 -]() / [week9 -]() / [week10 -]()
 #### [resources]()
-
-
