@@ -6,9 +6,9 @@
 
 #### [Mornging challenges]()
 
--    [week1 -create CSS grid]() / [week2 -]() / [week3 -]()
--    [week4 -]() / [week5 -]() / [week6 -]() / [week7 -]()
--    [week8 -]() / [week9 -]() / [week10 -]()
+  *   [week1 -create CSS grid]() /   [week2 -]() /   [week3 -]()
+  *   [week4 -]() /   [week5 -]() /    [week6 -]() /   [week7 -]()
+  *   [week8 -]() /   [week9 -]() /    [week10 -]()
 
 #### [giving]()
 - Giving back , helping with meetups and running the next course
