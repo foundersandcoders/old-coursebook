@@ -6,8 +6,6 @@
 + From Week 8 onwards, start reviewing other teams' code on each project day, ending in a review of all three teams' projects on Friday morning  
 + Stop giving too many options (e.g. ways of doing auth) - make the cohort aware of the different ways of doing things, but whittle them down to two options  
 + FAC6-wide discussion around processes for Coding For Everyone (getting people on the Gitter channel, introductory talks, general process)
-+ 
-+ 
 
 
 ## Ongoing actions for FAC6 course
@@ -74,11 +72,26 @@
 + Make sure people know from the beginning:
   + The emphasis of projects is on _learning_, not on finishing every possible thing on the project or presenting a beautiful product
   + Everyone has to commit to wash up straight after using their dishes
-+ If Pivotal Tracker is introduced (and the feeling in the room was that it wasn't a helpful tool for the task at hand) this should be done at the very beginning of the project, not on day two  
++ If Pivotal Tracker is introduced (and the feeling in the room was that it wasn't a helpful tool for the task at hand) this should be done at the very beginning of the project, not on day two 
++ GitHub issues seems to work very well as a project management tool (instead of Pivotal tracker) and should be **introduced earlier in the course** (for FAC6 we introduced it on week 12 _officially_, though we talked about it throughout)
+ 
 + Simplify teaching of Auth  
-+ 
+
++ Commitment was _low_ for a good portion of students in week 12. It was discussed that this was because:
+  1. **Everyone needed a break** - people were tired and definitely needed time off to rest
+  + A lot of people were attending to 'life admin'; things that had been piling up for the previous weeks
+  + It was the week before the first set of MVPs and everyone spent a good chunk of time locking down the scope for those
+  
+### List of things to review every week
+In week 12 it was agreed that there should be a list of things up on a wall of things that everyone should keep in mind at all times. This includes:
++ This is a _learning experience_, not a competition
++ Remember to switch driver every 30 minutes or so when pairing
++ Always take time to push your code and update the issue you're working on _before you leave_ in the evening
+  + i.e. Ensure that someone else can easily pick up where you left off
++ Readme driven development - pretty much every PR should include a contribution to the readme
 
 ### Week 1
++ Have a(n external) speaker to speak about how to do pair programming _the right way_
 + Review use of Jekyll
   + _Pros:_ introduces templating and file structure
   + _Cons:_ wasted a lot of time trying to understand Jekyll-specific things that won't be useful, SCSS file confused _everyone_
@@ -91,3 +104,10 @@
 ### Week 2
 + Consider adding to week 2 learning outcomes: CORS, JSONP and callbacks
 + Definitely continue giving students 3 different APIs, they really liked comparing the use of different APIs
+
+### Weeks 9-12
++ Introduce more practice on splitting up problems into tasks to be divided amongst a team earlier on
++ Maybe students can pitch ideas for projects to ensure everyone is working on something they enjoy
++ Working for **one** week in a team of 8 in a very valuable experience - the feeling in the room was that this would not be enjoyable for more than one week
+  + These larger teams should have a scrum master (this should be enforced rather than suggested)
+  + Some people became unengaged because there was less pressure to deliver _as individuals_ - keep the pressure and accountability up
