@@ -6,6 +6,10 @@ Just because you are leading the week, it does not mean that you have to do all 
 
 Do not hesitate to plunder material from previous courses and do not take on more work that you can comfortably handle. Work in pairs or threes or even groups of four, but make sure that at least one person each day is responsible for keeping to the timetable.
 
+## Well in advance
++ Assemble your team
++ Invite a speaker (or two)
+
 ## In advance
 + **Actions to take**:
   + Meet with the previous week's course leaders
