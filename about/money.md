@@ -2,7 +2,7 @@
 
 Our main sources of income are:
 + a proportion (10%) of the income of graduates who are freelancing in the space;
-+ Fees received from employers for hiring our graduates.
++ fees received from employers for hiring our graduates.
 
 We have two main costs: rent and Dan's salary.
 
