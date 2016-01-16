@@ -1,14 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
+
+
+IGNORE
+
 * [About](about/README.md)
    * [Company](about/company.md)
+
    * [Mentors](about/mentors.md)
    * [Survival](about/money.md)
    * [Schedule](about/schedule.md)
    * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
    * [Playbook](about/playbook.md)
+
+
 * [Giving back](giving/README.md)
 * [Business development](business/README.md)
   * [You](business/you.md) 
