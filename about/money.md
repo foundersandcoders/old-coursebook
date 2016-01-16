@@ -6,4 +6,4 @@ Our main sources of income are:
 
 We have two main costs: rent and Dan's salary.
 
-After one year of operation, we are not yet breaking even, but we intend to by the end of the year.
+After one year of operation, we are not yet breaking even, but we intend to by the end of this year.
