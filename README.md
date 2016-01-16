@@ -1,3 +1,3 @@
 # README
 
-Welcome to Founders & Coders.
+Welcome.
