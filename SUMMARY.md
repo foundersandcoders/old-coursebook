@@ -1,10 +1,4 @@
-# Summary
-
-* [Introduction](README.md)
-
-
-IGNORE
-
+* [Welcome](README.md)
 * [About](about/README.md)
    * [Company](about/company.md)
    * [Mentors](about/mentors.md)
@@ -13,10 +7,10 @@ IGNORE
    * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
 * [House rules]
-  (nothing here yet)
+   * (nothing here yet)
 * [Giving back](giving/README.md)
 * [Business development](business/README.md)
-  (nothing here yet) 
+    * (nothing here yet) 
 * Timetable
    * [Week 1](timetable/week1.md) 
 * Workshops
