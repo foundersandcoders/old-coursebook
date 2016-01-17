@@ -8,7 +8,7 @@
    * [Facilities](about/facilities.md)
 * [House rules](rules/house-rules.md)
 * [Weekly timetable](rules/classroom-schedule.md)
-* [Pair programming](pair-programming.md)
+* [Pair programming](rules/pair-programming.md)
 * [Giving back](giving/README.md)
    * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
