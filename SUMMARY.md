@@ -1,6 +1,7 @@
 * [Welcome](README.md)
 * [About](about/README.md)
-   * [Company](about/company.md)
+   * [The company](about/company.md)
+   * [The space](about/space.md)
    * [Mentors](about/mentors.md)
    * [Survival](about/money.md)
    * [Schedule](about/schedule.md)
