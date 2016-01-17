@@ -5,11 +5,11 @@
    * [Survival](about/money.md)
    * [Schedule](about/schedule.md)
    * [Facilities](about/facilities.md)
+* [House rules] - coming soon
 * [Giving back](giving/README.md)
    * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
    * [Week 1] - coming soon   
-* [House rules] - coming soon
 * [Timetable](README.md)
 * Learning outcomes
    * [Week 1] - coming soon   
