@@ -1,3 +1,0 @@
-# Timetable
-
-(to be confirmed)

@@ -1,7 +1,10 @@
-# Schedule for FAC7
+# Schedule
 
-    January 19th: FAC7 begins
-    March   25th: Easter break 
-    April    4th: First two-week project
-    April   18th: First two-week project
-    May     16th: FAC8 begins
+    September 14th: FAC6 begins
+    November   9th: Two-week project #1
+    November  23rd: Two-week project #2
+    December   7th: Commercial projects begin
+    December  21st: Course break
+    January    4th: Projects continue
+
+    January   18th: FAC7 begins
