@@ -4,18 +4,19 @@
    * [The space](about/space.md)
    * [Mentors](about/mentors.md)
    * [Survival](about/money.md)
-   * [Schedule](about/schedule.md)
+   * [Calendar](about/schedule.md)
    * [Facilities](about/facilities.md)
-* [House rules] - coming soon
+* [House rules](rules/house-rules.md)
+* [Weekly timetable](rules/classroom-schedule.md)
+* [Pair programming](pair-programming.md)
 * [Giving back](giving/README.md)
    * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
    * [Week 1] - coming soon   
-* [Timetable](README.md)
 * Learning outcomes
    * [Week 1] - coming soon   
 * Workshops
-   * [Week 1] - coming soon
+   * [Week 1](workshops/week1.md)
 * [Challenges](challenges/README.md)
    * [Week 1] - coming soon
 * Projects
