@@ -8,7 +8,7 @@ In particular, we ask you to get involved in running our [Meetup groups](http://
 
 ## Communications
 
-We have identified 16 communication tasks that need doing and we are going to ask you ti sign up for one of them.
+We have identified 16 communication tasks that need doing and we are going to ask you to sign up for one of them.
 
 ## The space
 
