@@ -1,63 +1,25 @@
-# Summary
-
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [About](about/README.md)
-   * [Company](about/company.md)
+   * [The company](about/company.md)
+   * [The space](about/space.md)
    * [Mentors](about/mentors.md)
    * [Survival](about/money.md)
    * [Schedule](about/schedule.md)
-   * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
-   * [Playbook](about/playbook.md)
+* [House rules] - coming soon
 * [Giving back](giving/README.md)
+   * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
-  * [You](business/you.md) 
-  * [Employers](business/jobs.md) 
-  * [Projects](business/projects.md) 
-* Timetable
-   * [Week 1](timetable/week1.md) 
-   * [Week 2](timetable/week2.md) 
-   * [Week 3](timetable/week3.md) 
-   * [Week 4](timetable/week4.md) 
-   * [Week 5](timetable/week5.md) 
-   * [Week 6](timetable/week6.md) 
-   * [Week 7](timetable/week7.md) 
-* Workshops
-   * [Week 1](workshops/week1.md)
-   * [Week 2](workshops/week2.md)
-   * [Week 3](workshops/week3.md)
-   * [Week 4](workshops/week4.md)
-   * [Week 5](workshops/week5.md)
-   * [Week 6](workshops/week6.md)
-   * [Week 7](workshops/week7.md)
+   * [Week 1] - coming soon   
+* [Timetable](README.md)
 * Learning outcomes
-   * [Week 1](patterns/week1/README.md)   
-   * [Week 2](patterns/week2/README.md)   
-   * [Week 3](patterns/week3/README.md)   
-   * [Week 4](patterns/week4/README.md)   
-   * [Week 5](patterns/week5/README.md)   
-   * [Week 6](patterns/week6/README.md)   
-   * [Week 7](patterns/week7/README.md)   
+   * [Week 1] - coming soon   
+* Workshops
+   * [Week 1] - coming soon
+* [Challenges](challenges/README.md)
+   * [Week 1] - coming soon
 * Projects
-   * [Week 1](projects/week1.md)
-   * [Week 2](projects/week2.md)
-   * [Week 3](projects/week3.md)
-   * [Week 4](projects/week4.md)
-   * [Week 5](projects/week5.md)
-   * [Week 6](projects/week6.md)
-   * [Week 7](projects/week7.md)
-* [Morning challenges](challenges/README.md)
-   * [Week 1](challenges/week1.md)
-   * [Week 2](challenges/week2.md)
-   * [Week 3](challenges/week3.md)
-   * [Week 4](challenges/week4.md)
-   * [Week 5](challenges/week5.md)
-   * [Week 6](challenges/week6.md)
-   * [Week 7](challenges/week7.md)
-* No more weekend assignments
-   * [Week 1](assignments/week1.md)  
-   * [Week 2](assignments/week2.md)  
+   * [Week 1] - coming soon
 * [Stop, Go, Continue](sgc/README.md)  
 * [Learning resources](resources.md)  
-* [Course leaders](leaders/README.md)  
-
+* [For course leaders](leaders/README.md)  
