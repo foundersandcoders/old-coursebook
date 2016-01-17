@@ -6,22 +6,18 @@
    * [Schedule](about/schedule.md)
    * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
-* [House rules]
-   * (nothing here yet)
 * [Giving back](giving/README.md)
 * [Business development](business/README.md)
-    * (nothing here yet) 
-* Timetable
-   * [Week 1](timetable/week1.md) 
-* Workshops
-   * [Week 1](workshops/week1.md)
+* [House rules] - coming soon
+* [Timetable](README.md)
 * Learning outcomes
-   * [Week 1](patterns/week1/README.md)   
+   * [Week 1] - coming soon   
+* Workshops
+   * [Week 1] - coming soon
+* [Challenges](challenges/README.md)
+   * [Week 1] - coming soon
 * Projects
-   * [Week 1](projects/week1.md)
-* [Morning challenges](challenges/README.md)
-   * [Week 1](challenges/week1.md)
+   * [Week 1] - coming soon
 * [Stop, Go, Continue](sgc/README.md)  
 * [Learning resources](resources.md)  
-* [Course leaders](leaders/README.md)  
-
+* [For course leaders](leaders/README.md)  
