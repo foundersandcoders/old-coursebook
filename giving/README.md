@@ -18,7 +18,7 @@ Help us keep this space clean and in a good state of repair.
 
 After you graduate we are very keen for you to help us deliver the next course. It's success will be very dependent on your willingness to get involved.
 
-## Let us help you find you work
+## Let us help you find work
 
 We intend to find work for everyone who wants it. Please let us help you.
 
