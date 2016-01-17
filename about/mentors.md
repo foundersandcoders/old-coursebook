@@ -4,9 +4,9 @@ We have no paid teaching staff, but everyone in this space is here to assist you
 
 Here is a list of people currently in FAC:
 
-* Dan Sofer (director)
-* Ines Teles (director)
-* Nelson Correia (lead technical mentor)
+* [Dan Sofer](https://github.com/sofer) (director)
+* [Ines Teles](https://github.com/iteles) (director)
+* [Nelson Correia](https://github.com/nelsonic) (lead technical mentor)
 * Besart Hoxhaj (FAC2)
 * Izaak Rogan (FAC2)
 * Alex Rubner (FAC5)
