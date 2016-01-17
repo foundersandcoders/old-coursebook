@@ -4,10 +4,11 @@
    * [Mentors](about/mentors.md)
    * [Survival](about/money.md)
    * [Schedule](about/schedule.md)
-   * [Meetups](about/meetups.md)   
    * [Facilities](about/facilities.md)
 * [Giving back](giving/README.md)
+   * [Week 1](giving/meetups.md)   
 * [Business development](business/README.md)
+   * [Week 1] - coming soon   
 * [House rules] - coming soon
 * [Timetable](README.md)
 * Learning outcomes
