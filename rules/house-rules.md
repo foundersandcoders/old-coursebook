@@ -4,6 +4,10 @@
 
 +  **Tidy up after yourself** (at least!). With so many of us in the space, it's easy for the kitchen area to get dirty really quickly - wash up your crockery rather than forgetting about it in the sink and wipe down the counter area you've been using it and we'll all be a lot happier :blush:
 
+
++  **Recyling and Rubbish**
+  +  Please all take responsibility for this, both the recyling and rubbish get taken out and  are stored at the end of the road in a trash bin. Take the keys and ask someone to show you where it is.
+
 + **Clean desk policy**. We have a clean-desk policy. Please leave your desk clear before you leave each day.
 
 + **Hot desking**. Please sit anywhere downstairs when you arrive each morning.
