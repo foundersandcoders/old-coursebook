@@ -1,8 +1,10 @@
 # Week 1: Learning outcomes
 
-Open this page [in GitHub](https://github.com/FAC6/book/blob/master/patterns/week1/README.md).
+Open this page [in GitHub](https://github.com/foundersandcoders/book/edit/FAC6/patterns/week1/README.md).
 
-Find a pair, pick a topic, mark it off the list (by adding an `X` inside the `[ ]` ), create a README and start researching. When you have finished, go and review somebody else's completed topic and raise issues.
+Each of the four topics below are assigned to a jigsaw group. Each jigsaw group should produce a single readme.
+
+Within your jigsaw groups divide the topics as you see fit. When you have finished, mark it off the list (by adding an `X` inside the `[ ]` (Commit directly to master by editing on github)) then go and review somebody else's completed topic and raise issues.
 
 Then pick another topic.
 
