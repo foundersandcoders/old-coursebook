@@ -42,3 +42,9 @@ You are also welcome to add topics.
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 - [ ] What is refactoring and when might you want to do it?
 - [ ] D-R-Y
+
+## DOM Manipulation 
+- [ ] What is the DOM ? 
+- [ ] Examples of web and XML development using the DOM.
+- [ ] Advantages of HTML5 over HTML 
+- [ ]
