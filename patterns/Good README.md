@@ -10,5 +10,5 @@
 
 e.g. 
 
-[Mobile first design](https://github.com/FAC6/book/blob/master/patterns/week2/mobilefirst.md)
-[level DB](https://github.com/FAC6/book/blob/master/patterns/week4/leveldb.md)
+- [Mobile first design](https://github.com/FAC6/book/blob/master/patterns/week2/mobilefirst.md)
+- [level DB](https://github.com/FAC6/book/blob/master/patterns/week4/leveldb.md)
