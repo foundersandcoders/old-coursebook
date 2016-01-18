@@ -12,6 +12,7 @@ You are also welcome to add topics.
 
 ## Comfort with git/github
 - [ ] Effective use of branches (master vs. other)
+- [ ] Git flow diagram
 - [ ] Forking projects
 - [ ] Making/merging pull requests
 - [ ] Dealing with merge conflicts
