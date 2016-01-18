@@ -48,7 +48,7 @@ You are also welcome to add topics.
 - [ ] Events and the DOM.  please provide examples of event listeners. 
 - [ ] What are DOM interfaces and how do they inherit from each other ? 
 - [ ] Advantages of HTML5. 
--
+
 ## Project Management
 - [ ] Understand importance of initialising a project with a README file.
 - [ ] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
