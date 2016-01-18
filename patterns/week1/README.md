@@ -32,6 +32,7 @@ You are also welcome to add topics.
 ## Project Management
 - [ ] Understand importance of initialising a project with a README file
 - [x] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
+- [ ] Advantages of Paired programming
 
 ## Development basics
 - [x] Wireframing (what is it, why is it important and how to do it effectively?)
