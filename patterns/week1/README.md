@@ -45,6 +45,8 @@ You are also welcome to add topics.
 
 ## DOM Manipulation 
 - [ ] What is the DOM ? 
-- [ ] Examples of web and XML development using the DOM.
-- [ ] Advantages of HTML5 over HTML 
-- [ ]
+- [ ] How can we manipulate the DOM ? please provide examples.  
+- [ ] Events and the DOM.  please provide examples of event listeners. 
+- [ ] What are DOM interfaces and how do they inherit from each other ? 
+- [ ] Advantages of HTML5. 
+
