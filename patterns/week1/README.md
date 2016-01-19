@@ -21,7 +21,7 @@ You are also welcome to add topics.
 - [ ] How to use branches, master, sub-master and gh-pages.
 - [ ] Forking vs Cloning  projects.
 - [ ] Git flow -description and diagrams. 
-- [ ] Making/merging pull requests, best practice summary.
+- [x] Making/merging pull requests, best practice summary.
 - [ ] Dealing with merge conflicts.
 - [ ] Raising/closing issues -commit messages. 
 - [ ] Git on the command line. Cheat sheet of commands.
