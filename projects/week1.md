@@ -28,3 +28,7 @@ As a minimum requirement, your blog should have profiles of each of your group m
 * Social Media
 * Mobile first design
  
+## Some cool profile pages
+
+* [dcmedia](http://dcmedia.me/about_us/)
+* [electric pulp] (http://electricpulp.com/about/)
