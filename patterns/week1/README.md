@@ -1,4 +1,12 @@
-# Week 1: Learning outcomes
+# Week 1: Course Basics
+
+Learning Objectives 
+
+- topics below
+- how to write a readme - markdown
+- collaborative git skills
+- use the web for research (learn how to learn)
+
 
 Form Jigsaw groups, each memember of your Project group will study one of the four topics below in their new jigsaw group.
 Once you return to your Project group you'll be able to share your expertise.
