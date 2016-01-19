@@ -20,12 +20,12 @@ You are also welcome to add topics.
 ## Comfort with git/github
 - [x] How to use branches, master and gh-pages.
 - [ ] Forking vs Cloning  projects.
-- [ ] Git flow -description and diagrams. 
+- [x] Git flow -description and diagrams. 
 - [x] Making/merging pull requests, best practice summary.
-- [ ] Dealing with merge conflicts.
+- [x] Dealing with merge conflicts.
 - [ ] Raising/closing issues -commit messages. 
 - [ ] Git on the command line. Cheat sheet of commands.
-- [ ] What is a .gitignore file ?
+- [x] What is a .gitignore file ?
 
 
 ## CSS
