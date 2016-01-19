@@ -27,6 +27,7 @@ html5 is an improves on previous verions of html4 in many ways. Here are a few o
 
 - In HTML4, JavaScript and the browser interface run in the same thread which was a significant drain on performance.
 - HTML5 now contains a JS Web Worker API which allows JavaScript and Browser interface to run in separate threads.
+
 #### So much speed!!
 ![roadrunner](http://www.nationalnannies.com/wp-content/uploads/2012/03/Roadrunner.gif)
 
