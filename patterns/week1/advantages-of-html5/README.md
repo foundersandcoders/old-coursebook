@@ -36,4 +36,4 @@ html5 is an improves on previous verions of html4 in many ways. Here are a few o
 
 w3 html spec: [https://www.w3.org/TR/html5-diff/](https://www.w3.org/TR/html5-diff/)
 
-A summary of differences: [http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
+A summary of key differences: [http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
