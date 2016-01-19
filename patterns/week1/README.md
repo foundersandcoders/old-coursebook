@@ -38,7 +38,7 @@ You are also welcome to add topics.
 - [ ] @media queries.
 - [ ] Responsive font & div sizing.
 - [X] What are CSS pre-processors? When might you want to use them? When might you not?
-- [ ] What are front-end frameworks? When might you want to use them? When might you not?
+- [X] What are front-end frameworks? When might you want to use them? When might you not?
 
 ## Development basics
 - [ ] Wireframing (what is it, why is it important and how to do it effectively? any suggested tools ?).
