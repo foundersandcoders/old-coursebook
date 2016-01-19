@@ -8,7 +8,7 @@ When making any changes it is essential that you do not work directly onto maste
 
 This also allows multiple team members to work on their own separate branches for individual features and merge them into master when they are ready. Having branches that are for specific pieces of work also reduces the likelyhood of merge conflicts.
 
-<h3> Great, how do I a branch? </h3>
+<h3> Great, how do I create a branch? </h3>
 ```
 git branch # list branches
 git branch <branchname> # Create a new branch
