@@ -5,8 +5,9 @@ What is Master?
 In github when you first create a repository all the code within that is now in the 'master'. It's a rule that everything in master is deployable and so only quality controlled, peer-reviewed code should make it into the master branch. While you are adding features or changing code this should all be done on an individual branch that can be merged into master later after being checking by your team.
 
 So what are branches?
-When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps'.   
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg" width="600">
+When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps'.
+
+<img src="https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg" width="600" align="middle">
 
 This also allows multiple team members to work on their own separate branches for individual features and merge them into master when they are ready. Having branches that are for specific pieces of work also reduces the likelyhood of merge conflicts.
 
