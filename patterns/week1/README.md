@@ -18,7 +18,7 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [ ] How to use branches, master, sub-master and gh-pages.
+- [x] How to use branches, master, sub-master and gh-pages.
 - [ ] Forking vs Cloning  projects.
 - [ ] Git flow -description and diagrams. 
 - [x] Making/merging pull requests, best practice summary.
