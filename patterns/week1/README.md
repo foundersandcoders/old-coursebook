@@ -43,7 +43,7 @@ You are also welcome to add topics.
 ## Development basics
 - [ ] Wireframing (what is it, why is it important and how to do it effectively? any suggested tools ?).
 - [ ] Comfortable writing in markdown (cheat sheet). 
-- [ ] Familiarity with developer tools (chrome/firefox).
+- [x] Familiarity with developer tools (chrome/firefox).
 - [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 - [ ] What is refactoring and when might you want to do it?
