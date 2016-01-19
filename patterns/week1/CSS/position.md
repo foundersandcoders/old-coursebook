@@ -20,4 +20,28 @@
 
   ![](http://s15.postimg.org/sthw1ijxn/Screen_Shot_2016_01_19_at_11_42_40_AM.png)
 
- 
+  ##Floats & how to clear floats
+
+  ###Floats
+
+  The float property affects all its child elements : if a div is floating on the right, everything that's in that div will be floating on the right as well.
+
+  none|left|right|initial|inherit are the possible values for the property `float` in CSS.
+
+  `none` is the default behaviour of the element
+  `left` floats the element to the left and `right` floats the element to the right
+  ![](http://s30.postimg.org/xtyel4vnl/Screen_Shot_2016_01_19_at_12_52_32_PM.png)
+  `initial` will bring back the default value of the element
+  `inherit` the element inherits the float from its parent
+
+  ###Clear floats
+
+  The clear property prevents floating element to exceed their container. It indicates that an element is to be placed below the floating elements that precede it.
+
+  `none`	is the default behaviour of the element
+  `left`	the element is moved down to free floating elements on the left
+  `right`	the element is moved down to free floating elements on the right
+  ![](http://s17.postimg.org/u093684mn/Screen_Shot_2016_01_19_at_1_13_59_PM.png)
+  `both`	no floating elements allowed on either the left or the right side
+  `initial`	sets this property to its default value
+  `inherit`	the element inherits the float from its parent
