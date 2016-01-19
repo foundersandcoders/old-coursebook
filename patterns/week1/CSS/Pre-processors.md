@@ -30,18 +30,23 @@ Why use these? Because they make things easier and save time and typing. They gi
 * **Variables, functions, and other programming capability**: In conventional CSS we would write this:
 ```css
 h1 {
-    
+    background: #eeffcc;
 }
 body {
     background: #eeffcc;
 }
 ```
-* In Sass we can do this using a *for loop*:
+* In Sass we can do this using a *variable*:
 ```css
-@for $col from 1 to 6
-    .col-#{$col}
-        width: 40px * $col
+$primaryColor: #eeffcc;
+h1 {
+    background: $primaryColor;
+}
+body {
+    background: $primaryColor;
+}
 ```
+* This saves us typing out the same tricky color combination lots of times.
 
 ## Pros and Cons
 ### Pros:
@@ -59,3 +64,5 @@ body {
 * Top recommendation: [An Introduction to CSS Pre-Processors](http://vanseodesign.com/css/css-preprocessors/)
 * More detailed: [A walkthrough of the capabilities of Sass](http://learn.shayhowe.com/advanced-html-css/preprocessors/#scss-sass)
 * [Ten Reasons You Should Be Using CSS Pre-Processors](https://www.urbaninsight.com/2012/04/12/ten-reasons-you-should-be-using-css-preprocessor)
+* More detailed: [An Introduction To CSS Pre-Processors (Sass, LESS, Stylus)](http://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus)
+* Further Resources (just Sass): [Getting Started with Sass](https://scotch.io/tutorials/getting-started-with-sass)
