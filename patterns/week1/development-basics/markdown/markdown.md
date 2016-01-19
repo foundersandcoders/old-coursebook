@@ -21,7 +21,7 @@ The following are **great for mastering the basics**.
 
 ## MORE SPECIFIC FEATURES
 - #### EMBEDDING AND ALIGNING IMAGES
- image description in square brackets preceded by "!".
+ image **description in square brackets** preceded by "!", **url in parentheses**. 
  ```
  ![imgDescription](imageUrl)
  ```
