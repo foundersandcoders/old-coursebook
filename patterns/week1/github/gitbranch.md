@@ -6,7 +6,8 @@ In github when you first create a repository all the code within that is now in 
 
 So what are branches?
 When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps'.   
-![alt tag](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg)
+#![alt tag](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg)
+<img src="https://github.com/favicon.ico" width="150">
 
 This also allows multiple team members to work on their own separate branches for individual features and merge them into master when they are ready. Having branches that are for specific pieces of work also reduces the likelyhood of merge conflicts.
 
@@ -37,6 +38,6 @@ then you need to commit them, like in the above example
 Cool, my super awesome feature is finished, how do i get it into master?
 First you need to push your branch, then create a pull request so your team can review your changes and comment on your proposed code.
 ![alt pull-request](https://www.atlassian.com/git/images/tutorials/collaborating/making-a-pull-request/02.svg)
-```git push <branchname>
+```git push --set-upstream origin <branchname>
 ```
 Then you need to create a pull request, which is fully explained <a href=https://yangsu.github.io/pull-request-tutorial/> here </a>
