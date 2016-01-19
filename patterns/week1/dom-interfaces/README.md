@@ -6,9 +6,7 @@ The Document Object Model (DOM) is a programming interface for interacting with 
 
 - *although the DOM can be altered using other languages, JS is the most common*
 
-<!-- ![this is the dom](https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg) -->
-
-![this is the dom](./img/DOM-model.svg)
+![this is the dom](https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg)
 
 The key idea of the DOM is:
 
