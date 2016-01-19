@@ -153,3 +153,7 @@ The footer `<footer>` could be used to complete what was left undone in the head
 ## Further reading
 
 * http://www.html-5-tutorial.com/
+
+## Final comment
+
+* add auto complete html to atom
