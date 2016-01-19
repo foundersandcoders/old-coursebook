@@ -18,7 +18,7 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [x] How to use branches, master, sub-master and gh-pages.
+- [x] How to use branches, master and gh-pages.
 - [ ] Forking vs Cloning  projects.
 - [ ] Git flow -description and diagrams. 
 - [x] Making/merging pull requests, best practice summary.
@@ -37,7 +37,7 @@ You are also welcome to add topics.
 - [x] `display` property.
 - [ ] @media queries.
 - [ ] Responsive font & div sizing.
-- [ ] What are CSS pre-processors? When might you want to use them? When might you not?
+- [X] What are CSS pre-processors? When might you want to use them? When might you not?
 - [ ] What are front-end frameworks? When might you want to use them? When might you not?
 
 ## Development basics
