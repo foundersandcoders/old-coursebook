@@ -18,14 +18,14 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [x] How to use branches, master, sub-master and gh-pages.
+- [x] How to use branches, master and gh-pages.
 - [ ] Forking vs Cloning  projects.
-- [ ] Git flow -description and diagrams.
+- [x] Git flow -description and diagrams.
 - [x] Making/merging pull requests, best practice summary.
-- [ ] Dealing with merge conflicts.
-- [ ] Raising/closing issues -commit messages.
+- [x] Dealing with merge conflicts.
+- [x] Raising/closing issues -commit messages.
 - [ ] Git on the command line. Cheat sheet of commands.
-- [ ] What is a .gitignore file ?
+- [x] What is a .gitignore file ?
 
 
 ## CSS
@@ -37,8 +37,8 @@ You are also welcome to add topics.
 - [x] `display` property.
 - [ ] @media queries.
 - [ ] Responsive font & div sizing.
-- [ ] What are CSS pre-processors? When might you want to use them? When might you not?
-- [ ] What are front-end frameworks? When might you want to use them? When might you not?
+- [X] What are CSS pre-processors? When might you want to use them? When might you not?
+- [X] What are front-end frameworks? When might you want to use them? When might you not?
 
 ## Development basics
 - [ ] Wireframing (what is it, why is it important and how to do it effectively? any suggested tools ?).
@@ -55,7 +55,7 @@ You are also welcome to add topics.
 - [ ] What is the DOM ?
 - [ ] How can we manipulate the DOM ? please provide examples.  
 - [ ] Events and the DOM. Please provide examples of event listeners.
-- [ ] What are DOM interfaces and how do they inherit from each other ?
+- [x] What are DOM interfaces and how do they inherit from each other ?
 - [ ] Advantages of HTML5.
 - [ ] Understand importance of initialising a project with a README file.
 - [ ] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
