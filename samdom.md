@@ -125,6 +125,8 @@ The following is an example of using `<div>` tags
 </div>
 ```
 
+![](http://www.html-5-tutorial.com/images/layout.gif)
+
 #### Nav tags
 
 The `<nav>` tag is used when assigning a major navigation block
@@ -147,3 +149,7 @@ The last essential tag is the `<footer>` tag.
 As a rule of thumb, most pages should have a `<header>`, `<nav>`, `<article>` and `<footer>` tag.
 
 The footer `<footer>` could be used to complete what was left undone in the header and nav or act as some kind of broad navigation for the page.
+
+## Further reading
+
+* http://www.html-5-tutorial.com/
