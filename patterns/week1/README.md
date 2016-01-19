@@ -29,7 +29,7 @@ You are also welcome to add topics.
 
 
 ## CSS
-- [ ] What is the box model?
+- [x] What is the box model?
 - [ ] CSS positioning :
   - [ ] Fixed, absolute and relative positioning.
   - [ ] Floats & how to clear floats.
