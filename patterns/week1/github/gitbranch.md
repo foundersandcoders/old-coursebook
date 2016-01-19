@@ -5,7 +5,7 @@ https://www.atlassian.com/git/tutorials/using-branches/git-branch
 In github when you first create a repository all the code within that is now in the 'master'. It's a rule that everything in master is deployable and so only quality controlled, peer-reviewed code should make it into the master branch. While you are adding features or changing code this should all be done on an individual branch that can be merged into master later after being checking by your team.
 
 <h3> So what are branches? </h3>
-When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps'.
+When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps' so I can tinker safely. Make sure not to use spaces or capital letters!
 
 <p style='text-align:center;'>
 <img src="https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg" width="600">
@@ -46,3 +46,6 @@ First you need to push your branch, then create a pull request so your team can 
 git push --set-upstream origin <branchname>
 ```
 Then you need to create a pull request, which is fully explained <a href=https://yangsu.github.io/pull-request-tutorial/> here </a>
+
+<h3><a href='https://pages.github.com/'>Github Pages</a></h3>
+Github pages is a webpage for your github project that is hosted directly on github.
