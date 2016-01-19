@@ -14,9 +14,9 @@ This also allows multiple team members to work on their own separate branches fo
 
 Great, how do I a branch?
 ```
-git branch // list branches
-git branch <branchname> // create a new branch
-git checkout <branchname> // Actually switch to your branch
+git branch # list branches
+git branch <branchname> # Create a new branch
+git checkout <branchname> # Actually switch to your branch
 ```
 git checkout allows you to switch between branches in your code.
 You should now work on this branch, committing to the branch as usual until you are ready to push your changes to the master
@@ -31,7 +31,7 @@ Your files might still be untracked, you can check this out with
 ```
 
 You can start tracking them in a few ways
-```git add * #Will add all files in a folder
+```git add * # Add all files in the folder
 git add <filename> # will add specific files
 ```
 then you need to commit them, like in the above example
