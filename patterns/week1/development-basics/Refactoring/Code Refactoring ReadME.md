@@ -4,7 +4,7 @@ Code refactoring is the process of restructuring existing
  computer code – changing the factoring – without changing its external behavior.
 
 ## Why?
-Refactoring improves non functional attributes, code readability and simplicity.
+Refactoring improves code readability and simplicity.
 The person who benefits most from refactoring is your coworker, the person who has to read your code, understand it and add new features.
 In addition, if you do want to change the codes functionality, it is much easier to do
 once the code has been simplified (refactored).Code simplicity, manageability is paramount to productivity.
@@ -31,5 +31,3 @@ A sophisticated example of code debugging is the Rubber duck method, pictured ab
 
 ## Background Reading
 [General information](http://c2.com/cgi/wiki?WhatIsRefactoring)
-[*Refactoring* by Martin Fowler](http://www.cs.umss.edu.bo/doc/material/mat_gral_137/M.Fowler%20et%20al%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing.pdf)
-I'm sure a riveting read...
