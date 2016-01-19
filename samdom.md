@@ -68,9 +68,15 @@ Google ranks "relevancy" in a number of ways. Heading tags are one of the ways t
 
 ## Other tags
 
+#### Paragraph tags
+
 The paragraph `<p>` tag is probably the handiest and most commonly used tag.
 
+#### List tags
+
 We have next the List tags `<ul>`, `<ol>` and `<li>`
+
+#### Definition list tag
 
 We have the definition list tags `<dl>`. They work in a similar way to `<li>` tags. It is good for formatting in these ways:
 
@@ -82,9 +88,13 @@ Question?
 
 &nbsp;&nbsp;&nbsp;Answer
 
+#### Anchor tags
+
 We have anchor tags. Hyperlinks, or links, are how you move around the web. An a or anchor tag is how you make hyperlinks in HTML. They look like this:
 
 `<a href="http://www.html-5-tutorial.com/a-tag.htm">a tag</a>`
+
+#### Table tags
 
 Table tags
 
@@ -101,6 +111,8 @@ Table tags
 </table>
 ```
 
+#### Div tags
+
 The `<div>` tag is a generic container for flow content that by itself does not represent anything. The `<div>` tag is the principle tool used to put pages together.
 
 The following is an example of using `<div>` tags
@@ -113,7 +125,11 @@ The following is an example of using `<div>` tags
 </div>
 ```
 
+#### Nav tags
+
 The `<nav>` tag is used when assigning a major navigation block
+
+#### Article tags
 
 The `<artcile>` tag is used for the main article of the document
 
@@ -123,6 +139,8 @@ The `<artcile>` tag is used for the main article of the document
   <p>This is the contents of the article element.</p>
 </article>
 ```
+
+#### Footer tags
 
 The last essential tag is the `<footer>` tag.
 
