@@ -2,19 +2,17 @@
 
 What are DOM interfaces and how do they inherit from each other?
 
-The Document Object Model (DOM) is a programming interface for interacting with HTML documents (SVG and XML too) - it lets YOU as a javascript programmer interact with and change different parts of the document.
+The Document Object Model (DOM) is a programming interface for interacting with HTML documents (SVG and XML too) - it lets YOU as a JavaScript programmer interact with and change different parts of the document.
 
-- *although the DOM can be altered using other languages, JS is the most common*
+- *although the DOM can be altered using other languages, JavaScript is the most common*
 
-<!-- ![this is the dom](https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg) -->
-
-![this is the dom](./img/DOM-model.svg)
+![this is the dom](https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg)
 
 The key idea of the DOM is:
 
 ### Every node is a particular type of Object.
 
-In the DOM, all HTML elements are defined as objects! This is great, it means we can access these elements via javascript
+In the DOM, all HTML elements are defined as objects! This is great, it means we can easily access these elements via JavaScript
 
 ### So what on earth is a DOM interface then?!
 
