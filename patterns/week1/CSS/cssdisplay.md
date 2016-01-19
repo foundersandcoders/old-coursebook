@@ -1,6 +1,6 @@
 ## `display` property
 
-display property is CSS's most important property for controlling layout.
+`display` property is CSS's most important property for controlling layout.
 
 #### What?
 The `display` property specifies if/how an element is displayed.
