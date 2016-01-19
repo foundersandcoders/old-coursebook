@@ -18,32 +18,32 @@ Then pick another topic.
 You are also welcome to add topics.
 
 ## Comfort with git/github
-- [ ] How to use branches, master, sub-master and gh-pages.
+- [x] How to use branches, master and gh-pages.
 - [ ] Forking vs Cloning  projects.
-- [ ] Git flow -description and diagrams. 
-- [ ] Making/merging pull requests, best practice summary.
-- [ ] Dealing with merge conflicts.
+- [x] Git flow -description and diagrams. 
+- [x] Making/merging pull requests, best practice summary.
+- [x] Dealing with merge conflicts.
 - [ ] Raising/closing issues -commit messages. 
 - [ ] Git on the command line. Cheat sheet of commands.
-- [ ] What is a .gitignore file ?
+- [x] What is a .gitignore file ?
 
 
 ## CSS
-- [ ] What is the box model?
+- [x] What is the box model?
 - [ ] CSS positioning :
   - [ ] Fixed, absolute and relative positioning.
   - [ ] Floats & how to clear floats.
   - [ ] Grids. 
-- [ ] `display` property.
+- [x] `display` property.
 - [ ] @media queries.
 - [ ] Responsive font & div sizing.
-- [ ] What are CSS pre-processors? When might you want to use them? When might you not?
+- [X] What are CSS pre-processors? When might you want to use them? When might you not?
 - [ ] What are front-end frameworks? When might you want to use them? When might you not?
 
 ## Development basics
 - [ ] Wireframing (what is it, why is it important and how to do it effectively? any suggested tools ?).
 - [ ] Comfortable writing in markdown (cheat sheet). 
-- [ ] Familiarity with developer tools (chrome/firefox).
+- [x] Familiarity with developer tools (chrome/firefox).
 - [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 - [ ] What is refactoring and when might you want to do it?
