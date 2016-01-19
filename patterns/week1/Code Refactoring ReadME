@@ -1,0 +1,27 @@
+# Code Refactoring
+## What is it?
+Code refactoring is the process of restructuring existing
+ computer code – changing the factoring – without changing its external behavior.
+
+## Why use it
+Refactoring improves non functional attributes, code readability and simplicity.
+The person who benefits most from refactoring is your coworker, the person who has to read your code, understand it and add new features.
+In addition, if you do want to change the codes functionality, it is much easier to do
+once the code has been simplified (refactored).
+Code simplicity, manageability is paramount to productivity.
+
+## How does it work
+Normally, refactoring applies a series of standard basic micro-refactorings. These micro-refactorings change
+in a computer program's source code. This either preserves the behavior of the software
+or at least does not modify it.
+Refactoring is not rewriting. It doesn't change the functionality (or information content) of the system whereas rewriting does.
+
+**Methods**
+*Refactor Mercilessly*
+This means to clean up your code after every edit, not stopping until you can't clean any more.
+For example, when you find two methods that look the same, you refactor the code to combine them. When you find two objects with common functionality, you refactor to make there be just one (see ParameterizeMethod).
+
+Many development environments provide automated support for the performing the mechanical aspects of these
+basic refactoring.
+## Background Reading
+[Refactoring basics](http://c2.com/cgi/wiki?WhatIsRefactoring)
