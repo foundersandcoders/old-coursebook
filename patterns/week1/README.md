@@ -23,7 +23,7 @@ You are also welcome to add topics.
 - [x] Git flow -description and diagrams. 
 - [x] Making/merging pull requests, best practice summary.
 - [x] Dealing with merge conflicts.
-- [ ] Raising/closing issues -commit messages. 
+- [x] Raising/closing issues -commit messages. 
 - [ ] Git on the command line. Cheat sheet of commands.
 - [x] What is a .gitignore file ?
 
