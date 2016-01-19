@@ -7,9 +7,8 @@ In github when you first create a repository all the code within that is now in 
 <h3> So what are branches? </h3>
 When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps' so I can tinker safely. Make sure not to use spaces or capital letters!
 
-<p style='text-align:center;'>
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg" width="600">
-</p>
+![alt branching](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg)
+
 This also allows multiple team members to work on their own separate branches for individual features and merge them into master when they are ready. Having branches that are for specific pieces of work also reduces the likelyhood of merge conflicts.
 
 <h3> Great, how do I a branch? </h3>
@@ -48,4 +47,6 @@ git push --set-upstream origin <branchname>
 Then you need to create a pull request, which is fully explained <a href=https://yangsu.github.io/pull-request-tutorial/> here </a>
 
 <h3><a href='https://pages.github.com/'>Github Pages</a></h3>
-Github pages is a webpage for your github project that is hosted directly on github.
+Github pages is a webpage for your github project that is hosted directly on github. Check out the official page for details on how to start.
+
+<h3>
