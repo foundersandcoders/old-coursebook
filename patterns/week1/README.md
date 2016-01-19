@@ -34,7 +34,7 @@ You are also welcome to add topics.
   - [ ] Fixed, absolute and relative positioning.
   - [ ] Floats & how to clear floats.
   - [ ] Grids. 
-- [ ] `display` property.
+- [x] `display` property.
 - [ ] @media queries.
 - [ ] Responsive font & div sizing.
 - [ ] What are CSS pre-processors? When might you want to use them? When might you not?
