@@ -18,3 +18,25 @@ Often times issues are dependent on other issues, or at least relate to them and
 
 Hey @kneath, I think the problem started in #42
 When you do this, we’ll create an event inside of issue #42.
+
+<h3> Best-practice commit messages </h3>
+The commit messages service at least 3 important purposes
+* To speed up the reviewing process
+* To help write good release notes
+* To help people figure out where and why a change was made in the future
+
+You should structure the commit messages like so, take not to include the blank lines:
+
+Short summary of changes (50 characters max)<br>
+<------ Blank line ------><br>
+A short explanation if necessary (72 characters max)<br>
+<-------Blank line ------><br>
+Further paragraphs if needed<br>
+
+<h3>DO</h3>
+* Write the summary line and description of what you have done in the imperative mode, that is as if you were commanding someone. Start the line with "Fix", "Add", "Change" instead of "Fixed", "Added", "Changed".
+* Always leave the second line blank.
+* Line break the commit message (to make the commit message readable without having to scroll horizontally in gitk).
+
+<h3>DON'T</h3>
+Don't end the summary line with a period - it's a title and titles don't end with a period.
