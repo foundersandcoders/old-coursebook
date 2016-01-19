@@ -19,14 +19,14 @@ Why use these? Because they make things easier and save time and typing. They gi
 * Whereas in Sass you would be able to write this;
 ``` css
 .container {
-    width: 100%
+    width: 100%;
     h1{
       color: red;
     }
 }
 ```
 
-* This is quicker because there are no curly brackets, no semi-colons, and it nests in an intuitive way.
+* This is quicker because it nests in an intuitive way and you have to write less.
 * **Variables, functions, and other programming capability**: In conventional CSS we would write this:
 ```css
 h1 {
