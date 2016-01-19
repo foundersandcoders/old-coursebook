@@ -1,10 +1,7 @@
-Crucial reference:
-https://www.atlassian.com/git/tutorials/using-branches/git-branch
-
 <h3> What is Master?</h3>
 In github when you first create a repository all the code within that is now in the 'master'. It's a rule that everything in master is deployable and so only quality controlled, peer-reviewed code should make it into the master branch. While you are adding features or changing code this should all be done on an individual branch that can be merged into master later after being checking by your team.
 
-<h3> So what are branches? </h3>
+<h3><a href='https://www.atlassian.com/git/tutorials/using-branches/git-branch'> So what are branches? </a></h3>
 When making any changes it is essential that you do not work directly onto master. To get around this you should create your own branch, making sure to name it something that is relevant. For example if I'm adding a new GPS feature to my app I might call my branch 'feature-gps' so I can tinker safely. Make sure not to use spaces or capital letters!
 
 ![alt branching](https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg)
