@@ -22,5 +22,5 @@ A Framework is a collection of tools or components that developers can use to ma
 
 ## Links
 * [Pros and Cons of using a front-end framework](http://www.qdigitalstudio.com/library/the-pros-and-cons-of-using-a-front-end-framework)
-* Good slideshow on Frameworks: [Front-End Frameworks: A Quick Overview](http://www.slideshare.net/Diacode/frontend-frameworks-a-quick-overview
+* Good slideshow on Frameworks: [Front-End Frameworks: A Quick Overview](http://www.slideshare.net/Diacode/frontend-frameworks-a-quick-overview)
 * [Introduction to some popular frameworks](http://www.merixstudio.com/blog/front-end-frameworks-introduction-part-1/)
