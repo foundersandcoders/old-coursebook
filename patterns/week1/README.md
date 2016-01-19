@@ -1,6 +1,6 @@
 # Week 1: Course Basics
 
-Learning Objectives 
+Learning Objectives
 
 - topics below
 - how to write a readme - markdown
@@ -20,20 +20,20 @@ You are also welcome to add topics.
 ## Comfort with git/github
 - [x] How to use branches, master, sub-master and gh-pages.
 - [ ] Forking vs Cloning  projects.
-- [ ] Git flow -description and diagrams. 
+- [ ] Git flow -description and diagrams.
 - [x] Making/merging pull requests, best practice summary.
 - [ ] Dealing with merge conflicts.
-- [ ] Raising/closing issues -commit messages. 
+- [ ] Raising/closing issues -commit messages.
 - [ ] Git on the command line. Cheat sheet of commands.
 - [ ] What is a .gitignore file ?
 
 
 ## CSS
 - [x] What is the box model?
-- [ ] CSS positioning :
-  - [ ] Fixed, absolute and relative positioning.
-  - [ ] Floats & how to clear floats.
-  - [ ] Grids. 
+- [x] CSS positioning :
+  - [x] Fixed, absolute and relative positioning.
+  - [x] Floats & how to clear floats.
+  - [x] Grids.
 - [x] `display` property.
 - [ ] @media queries.
 - [ ] Responsive font & div sizing.
@@ -42,20 +42,20 @@ You are also welcome to add topics.
 
 ## Development basics
 - [ ] Wireframing (what is it, why is it important and how to do it effectively? any suggested tools ?).
-- [ ] Comfortable writing in markdown (cheat sheet). 
+- [ ] Comfortable writing in markdown (cheat sheet).
 - [x] Familiarity with developer tools (chrome/firefox).
 - [ ] Making design mobile responsive using user agent spoofing (mobile view in Chrome dev tools)
 - [ ] Basics of mobile-first design/progressive enhancement, including why this is important
 - [ ] What is refactoring and when might you want to do it?
-- [ ] What's paired programming ? 
+- [ ] What's paired programming ?
 - [ ] D-R-Y
 
 ## DOM Manipulation, HTML and Project Management
 - [ ] Know the structure of an HTML document
-- [ ] What is the DOM ? 
+- [ ] What is the DOM ?
 - [ ] How can we manipulate the DOM ? please provide examples.  
-- [ ] Events and the DOM. Please provide examples of event listeners. 
-- [ ] What are DOM interfaces and how do they inherit from each other ? 
-- [ ] Advantages of HTML5. 
+- [ ] Events and the DOM. Please provide examples of event listeners.
+- [ ] What are DOM interfaces and how do they inherit from each other ?
+- [ ] Advantages of HTML5.
 - [ ] Understand importance of initialising a project with a README file.
 - [ ] Setting up file structure (with HTML/CSS/JS organised in folders as opposed to sitting in root)
