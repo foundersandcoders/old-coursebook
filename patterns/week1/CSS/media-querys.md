@@ -15,6 +15,8 @@ Slight alteration in the style of the header between the laptop, tablet and smar
 ## How
 Media queries will determine when certain certain CSS styles should be applied.  
 
+
+
 ##### General structure:
 A media query contains a media type and will test one or more media features (which make up expressions) that can resolve to true or false.
 
@@ -55,8 +57,6 @@ Add the following html link element to your html file to load an entirely differ
 ```html
 <link rel="stylesheet" media="screen and (min-device-width: 1000px)" href="1000.css" />
 ```
-
-
 
 
 ## What else can they be used for?
