@@ -19,12 +19,12 @@ You are also welcome to add topics.
 
 ## Comfort with git/github
 - [x] How to use branches, master and gh-pages.
-- [ ] Forking vs Cloning  projects.
+- [x] Forking vs Cloning  projects.
 - [x] Git flow -description and diagrams.
 - [x] Making/merging pull requests, best practice summary.
 - [x] Dealing with merge conflicts.
 - [x] Raising/closing issues -commit messages.
-- [ ] Git on the command line. Cheat sheet of commands.
+- [x] Git on the command line. Cheat sheet of commands.
 - [x] What is a .gitignore file ?
 
 
@@ -36,7 +36,7 @@ You are also welcome to add topics.
   - [x] Grids.
 - [x] `display` property.
 - [ ] @media queries.
-- [ ] Responsive font & div sizing.
+- [x] Responsive font & div sizing.
 - [X] What are CSS pre-processors? When might you want to use them? When might you not?
 - [X] What are front-end frameworks? When might you want to use them? When might you not?
 
