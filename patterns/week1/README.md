@@ -36,7 +36,7 @@ You are also welcome to add topics.
   - [ ] Grids. 
 - [x] `display` property.
 - [ ] @media queries.
-- [ ] Responsive font & div sizing.
+- [x] Responsive font & div sizing.
 - [X] What are CSS pre-processors? When might you want to use them? When might you not?
 - [X] What are front-end frameworks? When might you want to use them? When might you not?
 
