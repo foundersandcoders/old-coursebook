@@ -4,9 +4,11 @@
 <p align="center"><img alt="tamed lion" src="mdPics/lion.jpg" /></p>
 
 ## INTRO
-* ### What is Markdown?
+
+- #### What is Markdown?
   **Markdown** is an *easy-to-use* language, mainly used on the **Github** platform that **converts text** syntax formatting **into html** and rendering it on a page.
-* ### Why and where use it?
+
+- #### Why and where use it?
   * Markdown is a great language to combine **hybrid formats** such as **text** and **code snippets**, highlighting the different formats in a **highly visible** manner (e.g. **colours in Javascript code**).
   * Github **readme files** with the **.md** extension and **Gitter chats** are the most common examples where markdown is used.
 
