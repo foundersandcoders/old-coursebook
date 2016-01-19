@@ -19,6 +19,20 @@ Often times issues are dependent on other issues, or at least relate to them and
 Hey @kneath, I think the problem started in #42
 When you do this, we’ll create an event inside of issue #42.
 
+<h3><a href='https://help.github.com/articles/creating-an-issue/'>Creating an Issue</a></h3>
+Following the link for a very simple guide on creating issues. Please be sure to be as specific as possible, include what device you are running the code on and under what circumstances the bug occurs. It's even better if you can reproduce the bug and give a description of steps to take to make the bug happened again. Finally if you think you can fix it, submit a change and make a pull request!
+
+<h3> Closing an issue from your commit </h3>
+If you know that you have resolved an issue with one of your commits you can automatically close it with your commit message!
+```
+This closes issue #33 and fixed issue #99 - no more crashes
+```
+Would close open issues with number 1 and 99, keywords you can use that will automatically close an issue are
+```
+close, closes, closed, fix, fixes, fixed, resolve, resolve, resolved
+```
+
+
 <h3> Best-practice commit messages </h3>
 The commit messages service at least 3 important purposes
 * To speed up the reviewing process
