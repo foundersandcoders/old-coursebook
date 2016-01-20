@@ -30,5 +30,5 @@ As a minimum requirement, your blog should have profiles of each of your group m
  
 ## Some cool profile pages
 
-* [dcmedia](http://dcmedia.me/about_us/)
+* [Article, Meet the team pages](https://www.smashingmagazine.com/2010/06/meet-the-team-pages-examples-and-trends/)
 * [electric pulp] (http://electricpulp.com/about/)
