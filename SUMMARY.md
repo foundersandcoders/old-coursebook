@@ -1,8 +1,7 @@
-# Summary
-
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [About](about/README.md)
-   * [Company](about/company.md)
+   * [The company](about/company.md)
+   * [The space](about/space.md)
    * [Mentors](about/mentors.md)
    * [Survival](about/money.md)
    * [Calendar](about/schedule.md)
@@ -11,6 +10,7 @@
 * [Weekly timetable](rules/classroom-schedule.md)
 * [Pair programming](rules/pair-programming.md)
 * [Giving back](giving/README.md)
+   * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
    * [Week 1] - coming soon   
 * Learning outcomes
@@ -23,5 +23,4 @@
    * [Week 1] - coming soon
 * [Stop, Go, Continue](sgc/README.md)  
 * [Learning resources](resources.md)  
-* [Course leaders](leaders/README.md)  
-
+* [For course leaders](leaders/README.md)  

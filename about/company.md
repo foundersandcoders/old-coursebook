@@ -1,17 +1,9 @@
 # About Founders & Coders
 
-We are a social enterprise and a freelance co-operative.
+Founders & Coders C.I.C. is a social enterprise.
 
-According to documents lodged at *Companies House*, are activities are:
+As well as running the training programme, the company operates as a freelance co-operative. 
 
-    Providing programmes of study for the general public.
+Everyone here is a member of the co-operative.
 
-    Providing a place of learning and work for our members.
-
-And,
-
-    If the company makes any surplus it will be used for developing further 
-    programmes of study and for developing further places of study and work.
-
-What this means in practice is that we are aiming to create an environment capable of offering the best possible training in software development at the lowest possible cost.
 
