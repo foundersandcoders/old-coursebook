@@ -1,4 +1,4 @@
 # Welcome
 
-Welcome to Founders & Coders.
+Welcome to FAC7.
 
