@@ -73,7 +73,8 @@ Do not hesitate to plunder material from previous courses and do not take on mor
 17:00 Office hours    
 
 ### Friday
-10:00 Code review kick-off    
+10:00 Project tidy up
+10:30 Code review kick-off    
 11:30 Stop code reviews give people a chance to respond to issues   
 13:00 Remind people to close their own issues and announce Stop, Go, Continue    
 13:30 Stop, Go, Continue review    
