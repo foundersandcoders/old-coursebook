@@ -12,15 +12,15 @@
 * [Giving back](giving/README.md)
    * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
-   * [Week 1] - coming soon   
+   * [Week 1](business/week1.md)
 * Learning outcomes
-   * [Week 1] - coming soon   
+   * [Week 1](outcomes/week1.md)
 * Workshops
    * [Week 1](workshops/week1.md)
 * [Challenges](challenges/README.md)
-   * [Week 1] - coming soon
+   * [Week 1](challenges/week1.md)
 * Projects
-   * [Week 1] - coming soon
+   * [Week 1](projects/week1.md)
 * [Stop, Go, Continue](sgc/README.md)  
 * [Learning resources](resources.md)  
 * [For course leaders](leaders/README.md)  
