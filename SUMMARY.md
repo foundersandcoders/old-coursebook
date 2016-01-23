@@ -53,6 +53,6 @@
   * [Week 5](challenges/week5.md)
   * [Week 6](challenges/week6.md)
   * [Week 7](challenges/week7.md)
-* [Stop, Go, Continue](sgc/README.md)  
+<!-- * [Stop, Go, Continue](sgc/README.md)   -->
 * [Learning resources](resources.md)  
-* [Course leaders](leaders/README.md)  
+<!-- * [Course leaders](leaders/README.md)   -->
