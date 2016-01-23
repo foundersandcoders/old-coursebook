@@ -1,4 +1,4 @@
-# Week 4 
+# Week 4
 _Requested: More on callbacks_
 
 ## Monday
@@ -8,7 +8,6 @@ _Requested: More on callbacks_
 14:00 Jigsaw interim presentations  
 15:00 Further research
 15:45 Discuss your learnings as a team
-17:00 BitHound Talk | Code Quality
 17:45 Jigsaw presentations  
 18:30 Coding for everyone
 
