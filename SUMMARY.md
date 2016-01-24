@@ -13,6 +13,7 @@
    * [Week 1](giving/week1.md)   
 * [Business development](business/README.md)
    * [Week 1](business/week1.md)
+     * [Communications tasks](business/communications.md)  
 * Learning outcomes
    * [Week 1](outcomes/week1.md)
 * Workshops
