@@ -1,5 +1,8 @@
 # Summary
 
+* Timeline
+* Application
+  * [Prerequisites](application/prerequisites.md)
 * [Introduction](README.md)
 * [About](about/README.md)
    <!-- * [Company](about/company.md)
@@ -13,7 +16,7 @@
 <!-- * [Giving back](giving/README.md) -->
 * [Business development](business/README.md)
   * [You](business/you.md)
-* Timetable
+* Course outline
   * [Week 1](timetable/week1.md)
   * [Week 2](timetable/week2.md)
   * [Week 3](timetable/week3.md)
