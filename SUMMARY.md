@@ -14,6 +14,9 @@
 * [Business development](business/README.md)
    * [Week 1](business/week1.md)
      * [Communications tasks](business/communications.md)  
+* Curriculum
+  * [Week 1]  
+  * [Week 2](curriculum/week2.md)
 * Learning outcomes
    * [Week 1](outcomes/week1.md)
 * Workshops
