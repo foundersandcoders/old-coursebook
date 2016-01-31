@@ -1,6 +1,6 @@
 # Workshop API requests 
 
-## Inroduction 
+## Introduction 
 
 The aim of this workshop is to give students an understanding of how to query API's by making AJAX requests. This technique allows the user to exchange data with third party servers, allowing parts of the page to update without having to reload the entire page. 
 
