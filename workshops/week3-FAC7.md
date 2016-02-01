@@ -25,6 +25,9 @@ Using XHR allows us to specify an endpoint to query API's to send back data from
 ## Step 3 
 - Complete the empty functions and adjust the HTML to build yourself a Reputation Builder. 
 
+## Step 4
+- Publish your reputation Builder on Git Hub. 
+
 ## Bonus
 - Create new functions to achieve the results of the Top Answerers for a given tag. 
 
