@@ -8,7 +8,7 @@
 * 17:00: MVP pitch!
 
 ## Tuesday:
-* 10:00: Walkthrough - Exploring data received from an API using ['POSTMAN'](https://www.getpostman.com/)
+* 10:00: Walkthrough - Exploring data received from an API(TFL and IMDB) using ['POSTMAN'](https://www.getpostman.com/)
 * 12:00: [Codeacademy Tutorial on API requests](https://www.codecademy.com/courses/javascript-beginner-en-EID4t/0/1?curriculum_id=50ecb8d45f787a6332000042)
 <br />~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
 * Post-lunch: Workshop - ['Reputation Builder'](https://github.com/foundersandcoders/book/blob/master/workshops/week3-FAC7.md)
@@ -17,10 +17,12 @@
 ## Wednesday:
 * 10:00: Workshop - [Jack: 'theyworkforyou API'](http://www.theyworkforyou.com/api/)
 <br />~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-* Post-lunch: Team Projects!
+* Post-lunch: Start on Team Projects!
 
 ## Thursday:
-* All day: Team Projects!
+* 10:00: Morning Challenge
+* 11:30ish: Team Projects!
+* Pre-lunch: Office hours - we'll be down to come and help!
 
 ## Normal Friday Structure
 * Code Review
