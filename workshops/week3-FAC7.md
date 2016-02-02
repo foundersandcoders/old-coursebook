@@ -12,7 +12,7 @@ Using XHR allows us to specify an endpoint to query API's to send back data from
 - You will make an asynchronous request from the Front End in **vanilla javascript**, to query the API.
 - Given an inputed topic, you will get back the latest questions to be submited by Stack Overflow Users. 
 - You will then manipulate the data recieved and display this client side. 
-- Each displayed question will have a **link** to it's question, the question **title**, **time and date** of when question was asked , and how many **reputation points** the user has.
+- Each displayed question will have a **link** to it's question, the question **title**, **time and date** of when question was asked , **the user's name** and how many **reputation points** the user has.
 - To allow a user to answer begginers questions quickly so that a user can increase their reputation points on Stack Overflow. 
 
 
