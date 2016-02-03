@@ -17,17 +17,28 @@ Other than the code reviews from your peers, there will also be an external revi
 ##APIs:
 
 For our FAC6 projects, we had a choice from the following APIs:
+Soundcloud
+The Guardian
+Instagram ( <-- this one was quite complicated - needed OAuth from users)
 
+But we'd like to give you the option to create whatever you want!
 
-Here's a list of APIs that you might choose to use:
+You can either use an API of your choice, or choose from the following list:
 
-+ Do not need an API Key
-TFL
-IMDB
-
++ One's that we have used before
+TFL (API Key not required)
+IMDB (API Key not required)
 Guardian
 Instagram
 Soundcloud
+
++ Some others that we know exist:
+JSBIN - https://jsbin.com/help/api
+Google Maps - https://developers.google.com/maps/documentation/javascript/
+NASA - https://api.nasa.gov/index.html#getting-started
+Twitter - https://dev.twitter.com/rest/public
+Codewars - http://dev.codewars.com/#api-reference
+Star Wars (Although not 'realtime' data) - swapi.co
 
 Requirements:
 
