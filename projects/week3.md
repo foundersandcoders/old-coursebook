@@ -1,4 +1,4 @@
-#Week 2 Project
+#Week 3 Project
 Client-side developer challenge
 
 Your project this week is to build a simple website using test driven development that queries an API and appends that data to the DOM.
