@@ -40,7 +40,7 @@ You can either use an API of your choice, or choose from the following list:
 * Codewars - http://dev.codewars.com/#api-reference
 * Star Wars (Although not 'realtime' data) - swapi.co
 
-Requirements:
+### Requirements:
 
 Realtime content
 A solid readme
