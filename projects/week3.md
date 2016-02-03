@@ -16,7 +16,11 @@ Other than the code reviews from your peers, there will also be an external revi
 
 ##APIs:
 
-Select from these three APIs:
+For our FAC6 projects, we had a choice from the following APIs:
+
+
+Here's a list of APIs that you might choose to use:
+
 + Do not need an API Key
 TFL
 IMDB
@@ -24,6 +28,7 @@ IMDB
 Guardian
 Instagram
 Soundcloud
+
 Requirements:
 
 Realtime content
