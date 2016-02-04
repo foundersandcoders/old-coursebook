@@ -4,6 +4,8 @@
 
 var nums = [3, 5, 9, 1, 6, 8, 1, 19, 3, 6, 8, 1];
 
+// Solution #1:
+var doubled = nums.filter(x => x > 4).map(x => x * 2);
 
 // Return an object with the key being the name of the person and the value
 // being their favourite food with the most letters
@@ -32,6 +34,16 @@ var people = [
         }
     ];
 
+// Solution #1:
+function getFoods(people){
+    var result = {};
+    people.forEach(function(element, index, array){
+        result[element.name] = element.favFoods.reduce(function(x, y){
+            return x.length > y.length ? x : y;
+        });
+    });
+    return result;
+};
 
 // Write a function that takes any number of arguments and returns
 // the largest *number* passed to it.
@@ -39,4 +51,13 @@ var people = [
 
 function theFunction () {
     // TODO
+}
+
+// Solution #1:
+function theFunction () {
+    var args = [].slice.call(arguments);
+    args = args.filter(function(x){ typeof x === 'number' });
+    return args.length <1 ? undefined : args.reduce(function(x, y){
+        return x > y ? x : y;
+    });
 }
