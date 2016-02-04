@@ -21,6 +21,7 @@
    * [Week 1](outcomes/week1.md)
 * Workshops
    * [Week 1](workshops/week1.md)
+   * [Week 3](workshops/week3.md)
 * [Challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
 * Projects
