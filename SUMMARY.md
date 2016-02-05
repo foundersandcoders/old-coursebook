@@ -13,7 +13,7 @@
      * [Week 1](giving/week1.md)   
 * Patterns of work
   * [Pair programming](rules/pair-programming.md)
-  * [Code reviews](patterns/code reviews.md)
+  * [Code reviews](patterns/code-reviews.md)
 * [Business development](business/README.md)
    * [Week 1](business/week1.md)
      * [Communications tasks](business/communications.md)  
