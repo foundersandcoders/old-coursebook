@@ -8,7 +8,8 @@ Do not hesitate to plunder material from previous courses and do not take on mor
 
 ## Well in advance
 + Assemble your team
-+ Invite a speaker (or two) - remember to speak to [Dan](https://github.com/sofer) and [Ines](https://github.com/iteles) to see if we've already had any great speakers on your subjects in the past
++ Invite a speaker (or two) - see our list of great speakers
++ Attend the Friday Stop, Go, Continue sessions one and two weeks in advance 
 
 ## In advance
 + **Actions to take**:
