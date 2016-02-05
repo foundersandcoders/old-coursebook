@@ -30,5 +30,6 @@
 * Projects
    * [Week 1](projects/week1.md)
 * [Stop, Go, Continue](sgc/README.md)  
+   * [Weeks 2 and 3](sgc/week2+3.md)
 * [Learning resources](resources.md)  
 * [For course leaders](leaders/README.md)  
