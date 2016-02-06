@@ -1,34 +1,30 @@
 # Week 4 Project
 
-## Twitter
+## Nodecomplete
 
-This week, you're going to build Twitter. I'm tempted to leave it there, but I guess a little bit of guidance might be helpful.
+The idea is that you will create an app that uses a dictionary API to get the definition for a word as it is typed - cool, right? Oh, and it also has to be done TDD!
 
-You probably know how Twitter works already, but the aim is to allow people to write tweets that are all displayed on the page in **real time** (*gasp*). As you might have guessed from the tasks this week, you'll be using a database - exciting.
+### Note
 
-### Step 1
-+ Make Create, Read and Delete (CR-D) endpoints
+We recommend using the Wordnik API, as it returns the data in a much easier to manage object, leaving you time to do other cool stuff!
 
-### Step 2
-+ Store tweets in Redis
+Make sure you spend 2/3 hours planning the project before getting started. We want to see all the planning incorporated into the README. Show us wireframes/photos/etc...
 
-### Step 3
-+ Use cookies to restrict tweet deletion to the browser from which the tweet was originally created (we don't want any nefarious individuals deleting other people's tweets)
+**Hint** for autocomplete you will all need a .txt file that contains all the words in the dictionary. here it is…. (link)
 
-### Step 4
-+ Deploy to Heroku
+### Don't Forget / Minimum Features
 
-### Step 5
-+ Add real-time updates of tweets using *front-end JavaScript*
+- Project must have a What Why How Readme.
+- Project must have autocomplete feature.
+- Project must have hidden env vars.
+- This project must be done TDD
+- Repo badges :smile:
+- Project must have 90% Test Coverage
+- Project must be deployed to Heroku
 
-### Stretch goal
-+ Implement real-time updates using *Socket.IO* instead
+### Strech Goals
 
-
-#### Don't forget
-+ We expect to see testing on both the front-end and back-end
-+ >80% coverage
-+ A full suite of repo badges in your Readme
-+ Make your problems known and ask for help!
-
-Easy, right? Good luck!
+- Try incorporating another API into your project, maybe Twitter/Facebook
+- Have a look at Simple Writer for inspiration - it checks if your typed word is one of the 1,000 most common words in the English language
+- Also have a look at one of FAC6’s project for this week for inspiration. :smile:
+https://young-springs-4309.herokuapp.com

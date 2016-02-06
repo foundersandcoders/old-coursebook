@@ -1,26 +1,22 @@
-# Week 4 
-_Requested: More on callbacks_
+# Week 4
 
 ## Monday
 10:00 Show & Tell from students   
-11:30 Jigsaw classroom
-13:30 Discuss your learnings as a team
-14:00 Jigsaw interim presentations  
-15:00 Further research
-15:45 Discuss your learnings as a team
-17:00 BitHound Talk | Code Quality
-17:45 Jigsaw presentations  
+11:30 Node Workshop - Rachel and Sohil  
 18:30 Coding for everyone
 
 ## Tuesday
 10:00 Morning challenge    
-10:45 Morning challenge review
-11:30 Workshop  
+10:45 Morning challenge review  
+11:15 Jigsaw classroom  
+15:30 Jigsaw presentation with no Projector  
+16:30 Jigsaw tutorial time  
+18:00 Haskell with Endre
 
 ## Wednesday
 10:00 Morning challenge    
 10:45 Morning challenge review   
-11:30 Project    
+11:15 Project    
 17:45 Learning points review    
 
 ## Thursday
@@ -29,7 +25,7 @@ _Requested: More on callbacks_
 17:45 Learning points review    
 
 ## Friday
-10:30 Code reviews    
+10:00 Code reviews    
 11:30 Respond to issues     
 13:00 Stop, Go, Continue     
 13:30 Stop, Go, Continue review     
@@ -37,5 +33,5 @@ _Requested: More on callbacks_
 14:45 Weekend assignments     
 15:00 Business development      
 15:30 In-team project review     
-16:00 Whiteboard walk-throughs & Question time    
-17:00 Speaker + Project presentations
+16:30 Speaker - Alan Shaw: I have node Idea    
+17:15 Project presentations
