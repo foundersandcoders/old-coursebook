@@ -22,6 +22,8 @@
   * [Week 2](curriculum/week2.md)
 * Learning outcomes
    * [Week 1](outcomes/week1.md)
+   * [Week 2](https://github.com/FAC7/READMEs/tree/master/week2)
+   * [Week 3](https://github.com/FAC7/READMEs/tree/master/week3)
 * Workshops
    * [Week 1](workshops/week1.md)
    * [Week 3](workshops/week3.md)
@@ -30,6 +32,7 @@
    * [Week 3](challenges/week3.md)
 * Projects
    * [Week 1](projects/week1.md)
+   * [Week 3](projects/week3.md)
 * [Stop, Go, Continue](sgc/README.md)  
    * [Weeks 2 and 3](sgc/week2+3.md)
 * [Learning resources](resources.md)  
