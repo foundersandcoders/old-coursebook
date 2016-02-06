@@ -6,39 +6,40 @@ Just because you are leading the week, it does not mean that you have to do all 
 
 Do not hesitate to plunder material from previous courses and do not take on more work that you can comfortably handle. Work in pairs or threes or even groups of four, but make sure that at least one person each day is responsible for keeping to the timetable.
 
-## Well in advance
-+ Assemble your team
-+ Invite a speaker (or two) - see our list of great speakers
-+ Attend the Friday Stop, Go, Continue sessions one and two weeks in advance 
+## A month in advance
++ [ ] Assemble your team
++ [ ] Invite a speaker (or two) - see our list of great speakers
 
-## In advance
+## Two weeks in advance
++ [ ] Attend the Friday Stop, Go, Continue session
+
+## The week before
 + **Actions to take**:
-  + Meet with the previous week's course leaders
-  + Check [Stop, Go, Continue notes](../sgc/README.md) for any change requests
-  + Tweak the [timetable](../timetable) for your week
-  + Check if any [learning outcomes from previous week](../patterns) still need completing
-  + Update the relevant pages on the book to reflect the new content
+  + [ ] Meet with the previous week's course leaders
+  + [ ] Attend the Friday Stop, Go, Continue session
+  + [ ] Check [Stop, Go, Continue notes](../sgc/README.md) for any change requests
+  + [ ] Tweak the [timetable](../timetable) for your week
+  + [ ] Update the relevant pages on the book to reflect the new content
 + **Materials to prepare and things to organise**:
-  + Weekend assignment for the previous Friday (what do students need to research for your week?)
-  + All-day workshop for Monday
-  + Topics for Tuesday (no more than 16 learning outcomes total)
-  + Speakers and MVP pitches for Monday and Tuesday
-  + Morning challenges for Tuesday and Wednesday
-  + Project for Wednesday
-  + Find volunteers for office hours on Wednesday and Thursday
-  + Find volunteer for Friday upstairs project presentation
-  + External reviewer for Friday code review
+  + [ ] Workshop (or READMEs) for Monday
+  + [ ] Topics for Tuesday (no more than 8 learning outcomes in total)
+  + [ ] Speakers and pitches for Monday and Tuesday
+  + [ ] Morning challenges for Tuesday and Wednesday
+  + [ ] Project for Wednesday onwards
+  + [ ] Find volunteers for office hours on Wednesday and Thursday
+  + [ ] Find volunteers for Friday upstairs project presentation
 
 ## Each day
-+ Put the timetable for that day up on a whiteboard
++ [ ] Put the timetable for that day up on a whiteboard
 
 ## End of the week
-+ Update [Stop, Go, Continue notes](../sgc/README.md)    
-+ Review this checklist    
-+ Review the course content and amend as necessary   
-+ Hand-over to next week's course leaders
++ [ ] Run the Stop, Go, Continue session
++ [ ] Update [Stop, Go, Continue notes](../sgc/README.md)    
++ [ ] Review this checklist    
++ [ ] Review the course content and amend as necessary   
++ [ ] Hand-over to next week's course leaders
   
-## Contact time
+## Contact time (WARNING: times still subject to variation)
 
 ### Monday
 10:00 Run Show & Tell session   
