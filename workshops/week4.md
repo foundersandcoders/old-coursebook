@@ -1,3 +1,3 @@
 # Week 4 Workshop
 
-[An Introductory Redis Workshop](https://github.com/msmichellegar/redis-node-workshop)
+[Node Workshop](https://github.com/nikhilaravi/learn-node)
