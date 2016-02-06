@@ -6,6 +6,7 @@ The idea is that you will create an app that uses a dictionary API to get the de
 
 ### Note
 
+Have a look at Nelsonic's autocomplete [Tutorial](https://github.com/dwyl/autocomplete)
 We recommend using the Wordnik API, as it returns the data in a much easier to manage object, leaving you time to do other cool stuff!
 
 Make sure you spend 2/3 hours planning the project before getting started. We want to see all the planning incorporated into the README. Show us wireframes/photos/etc...
