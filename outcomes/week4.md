@@ -17,13 +17,13 @@
     - Linter/syntax pre-commit hook
     - 2 others of your choice.
 
-## Environment Varialbles (Team-2)
+## Environment Variables (Team-2)
 
 - How to save API keys as environment variables using the env2 modulehttps://github.com/dwyl/env2
 - Create a tutorial that takes a user through this setup process
     - use any api which provides secrets for this tutorial
 
-## Environment Varialbles (Team-3)
+## Environment Variables (Team-3)
 
 - What are Code Climate, CodeCov and Travis?
 - How to set up Code Climate, CodeCov and Travis?
