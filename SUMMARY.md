@@ -20,6 +20,7 @@
 * Curriculum
   * [Week 1]  
   * [Week 2](curriculum/week2.md)
+  * [Week 3](curriculum/week3.md)
 * Learning outcomes
    * [Week 1](outcomes/week1.md)
 * Workshops
