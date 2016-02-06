@@ -27,6 +27,7 @@
    * [Week 3](workshops/week3.md)
 * [Challenges](challenges/README.md)
    * [Week 1](challenges/week1.md)
+   * [Week 3](challenges/week3.md)
 * Projects
    * [Week 1](projects/week1.md)
 * [Stop, Go, Continue](sgc/README.md)  
