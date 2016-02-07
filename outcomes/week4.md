@@ -5,7 +5,7 @@
 -  Investigate the 'http' core module and its methods
 - Investigate EventsEmitters
 - How does module.exports work? Look at the npm docs
-  - Once the Readme is complete, create a simple server **tutorial** which incorporates all the above topics.
+  - Once the Readme is complete, create one or more *tutorials** which highlight one or more of these topics.
 
 ## Node Request
 - What are some of the useful properties of the request object? [method, body, url, status code]
@@ -14,8 +14,8 @@
 
 ## Node Stream
 - What are streams (createReadStream) and what would you use them for?
-    - In this tutorial, pipe a CSV file into TSV file.
-    - Once the Readme is complete, create a simple server **tutorial** that converts a csv file into a txt file and moves it from the root folder of this tutorial to a folder called `text`
+    - Once the Readme is complete, create one or more *tutorials** which highlight one or more of these topics.
+    - For **example** you could create a simple server tutorial that converts a csv file into a txt file and moves it from the root folder of this tutorial to a folder called `text`
 
 ## Pre-commit Hook
 - What is it, why do you need it and how do you set it up? **[learn-pre-commit](https://github.com/docdis/learn-pre-commit)**
@@ -23,11 +23,6 @@
     - Linter/syntax pre-commit hook
     - another one of your choice. :smile:
 
-## Environment Variables
-
-- How to save API keys as environment variables using the env2 module. **[env2-link](https://github.com/dwyl/env2)**
-  - Once the Readme is complete, create a **tutorial** that takes a user through this setup process
-    - use any api which provides secrets for this tutorial
 
 ## Server Side testing
 - What is server side testing?
@@ -38,14 +33,14 @@
 
 ## Test Coverage
 - What is Istanbul?
-- What are Code Climate, CodeCov?
-- What is the difference between Istanbul and code Climate/CodeCov?
-  - Once the Readme is complete, create a **tutorial** that sets up Istanbul, Code Climate and Codecove on a simple node server.  
+- What is CodeCov?
+- What is the difference between Istanbul & CodeCov?
+  - Once the Readme is complete, create a **tutorial** that sets up Istanbul and Codecove on a simple node server.  
 
 
 
 
-### Complete tutorials to follow.
+### Completed tutorials.
 
 #### Continuous Integration
  - [https://github.com/dwyl/learn-travis](https://github.com/dwyl/learn-travis)
@@ -55,3 +50,7 @@
 #### Deploying to Heroku
 
 - [How to host an application on Heroku?](https://github.com/Neats29/Learn-Heroku)
+
+#### Environment Variables
+
+- [How to save API keys as environment variables using the env2 module](https://github.com/dwyl/env2)

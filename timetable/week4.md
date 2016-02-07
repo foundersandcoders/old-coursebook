@@ -6,7 +6,7 @@
 18:30 Coding for everyone
 
 ## Tuesday
-10:00 Morning challenge    
+10:00 Morning challenge (Rafe - Test Setup)   
 10:45 Morning challenge review  
 11:15 Jigsaw classroom  
 15:30 Jigsaw presentation with no Projector  
@@ -14,13 +14,15 @@
 18:00 Haskell with Endre
 
 ## Wednesday
-10:00 Morning challenge    
+10:00 Morning challenge (Ruth - Test)  
 10:45 Morning challenge review   
 11:15 Project    
 17:45 Learning points review    
 
 ## Thursday
-10:00 Project    
+10:00 Morning challenge (Ruth - Test)  
+10:45 Morning challenge review   
+11:15 Project    
 12:00 Mid project code reviews     
 17:45 Learning points review    
 
