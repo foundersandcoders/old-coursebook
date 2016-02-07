@@ -1,40 +1,71 @@
 # Learning Outcomes
 
-## Servers and Routes in Node (Team-1)
 
-- Investigate the 'http' core module and its methods
+## Node Core
+-  Investigate the 'http' core module and its methods
 - Investigate EventsEmitters
 - How does module.exports work? Look at the npm docs
+  - Once the Readme is complete, create one or more *tutorials** which highlight one or more of these topics.
+
+## Node Request
 - What are some of the useful properties of the request object? [method, body, url, status code]
+  - Once the Readme is complete, create a simple server **tutorial** that creates a http.request to receive some form of data. (anything from simple html to api data)
+
+
+## Node Stream
 - What are streams (createReadStream) and what would you use them for?
-- Create Tutorial that walks users through few methods of ‘http’ module
-    - In this tutorial, pipe a CSV file into TSV file.
+    - Once the Readme is complete, create one or more *tutorials** which highlight one or more of these topics.
+    - For **example** you could create a simple server tutorial that converts a csv file into a txt file and moves it from the root folder of this tutorial to a folder called `text`
 
-## Pre-commit Hook (Team-2)
+## Node Routing
+- What is routing?
+- What are the different ways we can use routing in Node?
+  - Once the Readme is complete, create a **tutorial** which creates a simple router using vanilla node.
 
-- What is it, why do you need it and how do you set it up? https://github.com/docdis/learn-pre-commit
-- create Tutorial to setup pre-commit hooks
+## More Node
+- What is the difference between a node client and a node server?
+- How can we store data in the file system?
+  - Once the Readme is complete, create a **tutorial** which stores any type of data you wish in the file system. (**hint** - _parse/stringify_)
+
+## Pre-commit Hook
+- What is it, why do you need it and how do you set it up? **[learn-pre-commit](https://github.com/docdis/learn-pre-commit)**
+  - Once the Readme is complete, create a **Tutorial** to setup pre-commit hooks
     - Linter/syntax pre-commit hook
-    - 2 others of your choice.
+    - another one of your choice. :smile:
 
-## Environment Variables (Team-2)
 
-- How to save API keys as environment variables using the env2 modulehttps://github.com/dwyl/env2
-- Create a tutorial that takes a user through this setup process
-    - use any api which provides secrets for this tutorial
-
-## Environment Variables (Team-3)
-
-- What are Code Climate, CodeCov and Travis?
-- How to set up Code Climate, CodeCov and Travis?
+## Server Side testing
+- What is server side testing?
+- How does npm module tape work?
 - What other kind of tests would you want to write for Node?
-- What is continuous integration and what are its benefits?
-- Create a tutorial that takes a user through setting up all of the above testing frameworks, by creating a simple hello world node setup.
-    - need 100% coverage on this tutorial too!
+- What is nodemon?
+  - Once the Readme is complete, create a simple server **tutorial** that uses tape for tests
 
-## Deploying to Heroku (Team-4)
+## Test Coverage
+- What is Istanbul?
+- What is CodeCov?
+- What is the difference between Istanbul & CodeCov?
+  - Once the Readme is complete, create a **tutorial** that sets up Istanbul and Codecove on a simple node server.  
 
-- What is Heroku and what is it used for?
-- How to host an application on Heroku? (create an account, procfile, config vars etc)https://github.com/Neats29/Learn-Heroku
-- Create a tutorial that takes a user through the process of deploying to Heroku.
-    - Create a simple hello world node setup to push to Heroku.
+
+
+
+### Completed tutorials.
+
+#### Continuous Integration
+ - [https://github.com/dwyl/learn-travis](https://github.com/dwyl/learn-travis)
+ - Follow this **tutorial** for a complete guide on the what, why and how of travis. :smile:
+
+
+#### Deploying to Heroku
+
+- [How to host an application on Heroku?](https://github.com/Neats29/Learn-Heroku)
+
+#### Environment Variables
+
+- [How to save API keys as environment variables using the env2 module](https://github.com/dwyl/env2)
+
+#### File Structure
+
+- Please view the file structure for a basic node application below.
+- [Super Simple Starter Kit for Node](https://github.com/sofer/sssk)
