@@ -3,12 +3,12 @@
 
 ## Node Core
 -  Investigate the 'http' core module and its methods
-- Investigate EventsEmitters
+- Investigate EventEmitters
 - How does module.exports work? Look at the npm docs
   - Once the Readme is complete, create one or more *tutorials** which highlight one or more of these topics.
 
 ## Node Request
-- What are some of the useful properties of the request object? [method, body, url, status code]
+- What are some of the useful properties of the request object? [method, url, statusCode]
   - Once the Readme is complete, create a simple server **tutorial** that creates a http.request to receive some form of data. (anything from simple html to api data)
 
 
