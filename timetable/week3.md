@@ -2,24 +2,24 @@
 
 ## Monday
 10:00 Show & Tell from students [forgot this one!]    
-10:20 Workshop  
-18:30 Coding for everyone
+10:20 Readme Day
+18:30 Readme Presenations
 
 ## Tuesday
-10:00 Morning challenge    
-11:15 Jigsaw classroom
-14:30 Jigsaw interim reports  
-17:00 Jigsaw presentations    
+10:00 Morning challenge - Postman excerise  
+11:15 Codecdemy
+14:30 Tormod's Stackover flow tutorial  
+  
 [Note: we reverted to whole day Jigsaw groups this week] 
 
 ## Wednesday
-10:00 Morning challenge    
+10:00 Jacks Talk    
 11:15 Project    
-17:45 Learning points review    
+17:45    
 
 ## Thursday
-10:00 Project    
-12:00 Mid project code reviews     
+10:00 Morning Challenge    
+11:00 Project    
 17:45 Learning points review    
 
 ## Friday
