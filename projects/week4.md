@@ -11,7 +11,7 @@ We recommend using the Wordnik API, as it returns the data in a much easier to m
 
 Make sure you spend 2/3 hours planning the project before getting started. We want to see all the planning incorporated into the README. Show us wireframes/photos/etc...
 
-**Hint** for autocomplete you will all need a .txt file that contains all the words in the dictionary. here it is…. (link)
+**Hint** for autocomplete you will all need a .txt file that contains all the words in the dictionary. here it is…. [link](https://github.com/dwyl/autocomplete) _word.txt file in the project_
 
 ### Don't Forget / Minimum Features
 
