@@ -13,4 +13,4 @@
 * CONTINUE - practical days with tutorials and workshops
 * FAC7 said they don't want too many 4 day projects but the 4 day project for their first week of node was a good amount of time. They said it's good to mix things up with the project time length.
 
-### Note this was a week and a half of Node
+##### Note this was a week and a half of Node
