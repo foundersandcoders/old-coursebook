@@ -37,7 +37,7 @@ When creating a GPA (out of a maximum of 4), code climate considers 3 things.
 
  3. you should now have two scripts defined in your `package.json`
   * to run your tests with tape: `"test": "./node_modules/.bin/tape ./test/*",`
-  * to get a code coverage with istanbul: ` "coverage": "istanbul cover ./node_modules/.bin/tape ./test/*"`. Note that istanbul is invoking the same script as you test script using tape (but checking that scripts coverage). Your could probably use a different test script with istanbul
+  * to get a code coverage with istanbul: ` "coverage": "istanbul cover ./node_modules/.bin/tape ./test/*"`. Note that istanbul is invoking the same script as you test script using tape (but checking that scripts coverage). You could probably use a different test script with istanbul
 ![screen shot 2015-09-29 at 16 08 11](https://cloud.githubusercontent.com/assets/2305591/10168358/5422fd6a-66c4-11e5-82c8-1ddbcb18d0ab.png)
 
  4. If you have not already, generate a coverage report by running npm run coverage (`coverage` is the name of the script defined in `package.json`). You may want to also include the file coverage created by istanbul in your gitignore
