@@ -38,6 +38,8 @@ You can take these in any order, depending on what you decide to concentrate on.
 - [facebook getting started](https://facebook.github.io/react/docs/getting-started.html)
 - [dwyl repo](https://github.com/dwyl/learn-react) dwyl repo on react resources
 - [Khan Academy style guides](https://github.com/Khan/style-guides)
+- [Airbnb style guide](https://github.com/airbnb/javascript/tree/master/react#alignment)
+- Google!
 
 ### Problems
 Here some problem you will encounter during development.
